@@ -25,12 +25,12 @@ const BlogFeaturedSingle = ({ singlePost }) => {
               {singlePost.title}
             </Link>
           </h3>
-          <span>
+          {/* <span>
             By{" "}
             <Link to={process.env.PUBLIC_URL + singlePost.authorUrl}>
               {singlePost.author}
             </Link>
-          </span>
+          </span> */}
         </div>
       </div>
     </div>

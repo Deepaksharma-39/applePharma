@@ -11,8 +11,8 @@ const BlogFeaturedFour = ({ spaceTopClass, spaceBottomClass }) => {
     >
       <div className="container">
         <SectionTitle
-          titleText="Latest News"
-          subtitleText="But I must explain to you how all this mistaken idea of denouncing."
+          titleText="WHY CHOOSE APPLE PHARMED?"
+          subtitleText="Quality, Affordable Pharmaceuticals!"
           positionClass="text-center"
           spaceClass="mb-55"
           borderClass="no-border"

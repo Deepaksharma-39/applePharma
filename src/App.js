@@ -26,6 +26,9 @@ const ReturnPolicy = lazy(() => import("./pages/policy/ReturnPolicy"));
 
 const PrivacyPolicy = lazy(() => import("./pages/policy/PrivacyPolicy"));
 
+const Disclaimer = lazy(() => import("./pages/policy/Disclaimer"));
+
+
 const App = () => {
   return (
     <Router>
@@ -52,6 +55,7 @@ const App = () => {
             <Route path={"/terms-and-condition"} element={<TermsAndCondition />} />
             <Route path={"/return-policy"} element={<ReturnPolicy />} />
             <Route path={"/privacy-policy"} element={<PrivacyPolicy/>} />
+            <Route path={"/disclaimer"} element={<Disclaimer/>} />
           </Routes>
         </Suspense>
       </ScrollToTop>
