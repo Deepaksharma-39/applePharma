@@ -18,11 +18,11 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
                 />
               </a>
               <div className="banner-content-33-2 banner-content-33-2-position1">
-                <h4>Covid - 19</h4>
-                <h2>
+                {/* <h4>Covid - 19</h4> */}
+                {/* <h2>
                   Medix Mask <br />
                   Up To 40% Off
-                </h2>
+                </h2> */}
                 <Link to={ "/shop"}>
                   Shop Now
                 </Link>
@@ -40,10 +40,10 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
                 />
               </a>
               <div className="banner-content-33-2 banner-content-33-2-position2">
-                <h2>
+                {/* <h2>
                   Hand Gloves <br />
                   Up To 30% Off
-                </h2>
+                </h2> */}
                 <Link to={ "/shop"}>
                   Shop Now
                 </Link>
@@ -61,11 +61,11 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
                 />
               </a>
               <div className="banner-content-33-2 banner-content-33-2-position3">
-                <h4>Covid - 19</h4>
-                <h2>
+                {/* <h4>Covid - 19</h4> */}
+                {/* <h2>
                   Hand Sanitizer <br />
                   Up To 40% Off
-                </h2>
+                </h2> */}
                 <Link to={ "/shop"}>
                   Shop Now
                 </Link>

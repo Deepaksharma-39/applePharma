@@ -7,12 +7,9 @@ const SectionTitleWithText = ({ spaceTopClass, spaceBottomClass }) => {
       <div className="container">
         <div className="welcome-content text-center">
           <h5>Who Are We</h5>
-          <h1>Welcome To Flone</h1>
+          <h1>Premier Pharmacy Solutions</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-            eiusmod tempor incididunt labor et dolore magna aliqua. Ut enim ad
-            minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commo consequat irure{" "}
+          At APPLE PHARMED, we are dedicated to transforming the landscape of healthcare by meeting pharmaceutical demands with a diverse range of safe OTC and life-saving formulations/medicines that prioritize both quality and affordability. Established with a commitment to enhancing access to essential medications, we stand as a beacon of trust and reliability in the pharmaceutical industry.{" "}
           </p>
         </div>
       </div>

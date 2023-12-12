@@ -93,6 +93,9 @@ const FooterOne = ({
                   <li>
                     <Link to={"/return-policy"}>Return Policy</Link>
                   </li>
+                  <li>
+                    <Link to={"/disclaimer"}>Disclaimer</Link>
+                  </li>
                 </ul>
               </div>
             </div>

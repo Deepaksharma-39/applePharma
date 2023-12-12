@@ -6,9 +6,10 @@ import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import SectionTitleWithText from "../../components/section-title/SectionTitleWithText";
 import BannerOne from "../../wrappers/banner/BannerOne";
 import TextGridOne from "../../wrappers/text-grid/TextGridOne";
-import FunFactOne from "../../wrappers/fun-fact/FunFactOne";
-import TeamMemberOne from "../../wrappers/team-member/TeamMemberOne";
-import BrandLogoSliderOne from "../../wrappers/brand-logo/BrandLogoSliderOne";
+import BlogFeaturedFour from "../../wrappers/blog-featured/BlogFeaturedFour";
+// import FunFactOne from "../../wrappers/fun-fact/FunFactOne";
+// import TeamMemberOne from "../../wrappers/team-member/TeamMemberOne";
+// import BrandLogoSliderOne from "../../wrappers/brand-logo/BrandLogoSliderOne";
 
 const About = () => {
   let { pathname } = useLocation();
@@ -37,18 +38,21 @@ const About = () => {
         {/* text grid */}
         <TextGridOne spaceBottomClass="pb-70" />
 
+        {/* blog */}
+        <BlogFeaturedFour spaceBottomClass="pb-55" spaceTopClass="pt-95" />
+
         {/* fun fact */}
-        <FunFactOne
+        {/* <FunFactOne
           spaceTopClass="pt-100"
           spaceBottomClass="pb-70"
           bgClass="bg-gray-3"
-        />
+        /> */}
 
         {/* team member */}
-        <TeamMemberOne spaceTopClass="pt-95" spaceBottomClass="pb-70" />
+        {/* <TeamMemberOne spaceTopClass="pt-95" spaceBottomClass="pb-70" /> */}
 
         {/* brand logo slider */}
-        <BrandLogoSliderOne spaceBottomClass="pb-70" />
+        {/* <BrandLogoSliderOne spaceBottomClass="pb-70" /> */}
       </LayoutOne>
     </Fragment>
   );
