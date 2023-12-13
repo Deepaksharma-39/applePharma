@@ -9,7 +9,7 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
         <div className="row no-gutters">
           <div className="col-width-banner33-1">
             <div className="single-banner mb-30">
-              <a href="product-details.html">
+              <a>
                 <img
                   src={
                      "/assets/img/banner/banner-43.png"
@@ -31,7 +31,7 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
           </div>
           <div className="col-width-banner33-2">
             <div className="single-banner mb-30">
-              <a href="product-details.html">
+              <a>
                 <img
                   src={
                      "/assets/img/banner/banner-44.png"
@@ -52,7 +52,7 @@ const BannerTwentySix = ({ spaceBottomClass }) => {
           </div>
           <div className="col-width-banner33-1">
             <div className="single-banner mb-30">
-              <a href="product-details.html">
+              <a>
                 <img
                   src={
                      "/assets/img/banner/banner-45.png"

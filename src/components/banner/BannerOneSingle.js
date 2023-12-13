@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const BannerOneSingle = ({ data, spaceBottomClass }) => {
   return (
       <div className={clsx("single-banner", spaceBottomClass)}>
-        <Link to={process.env.PUBLIC_URL + data.link}>
+        <Link to={process.env.PUBLIC_URL}>
           <img src={process.env.PUBLIC_URL + data.image} alt="" />
         </Link>
         <div className="banner-content">
@@ -13,9 +13,9 @@ const BannerOneSingle = ({ data, spaceBottomClass }) => {
           <h4>
             {data.subtitle} <span>{data.price}</span>
           </h4>
-          <Link to={process.env.PUBLIC_URL + data.link}>
+          {/* <Link to={process.env.PUBLIC_URL + data.link}>
             <i className="fa fa-long-arrow-right" />
-          </Link>
+          </Link> */}
         </div>
       </div>
   );

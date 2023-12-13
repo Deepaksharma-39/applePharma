@@ -12,7 +12,7 @@ const MobileNavMenu = () => {
           <Link to={"/about"}>{"About"}</Link>
         </li>
         <li className="menu-item-has-children">
-          <Link to={"shop"}>{"Shop"}</Link>
+          <Link to={"/shop"}>{"Shop"}</Link>
         </li>
         <li>
           <Link to={"/contact"}>{"Contact"}</Link>

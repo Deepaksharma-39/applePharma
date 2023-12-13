@@ -20,7 +20,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Teracure
+          Apple Pharmed
         </a>
         .<br /> All Rights Reserved
       </p>

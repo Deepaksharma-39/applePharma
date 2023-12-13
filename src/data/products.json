@@ -2,7 +2,7 @@
   {
     "id": "1",
     "sku": "asdf239",
-    "name": "ACEPTOR TABLETS (2.5/5/10MG)",
+    "name": "TESTENATE DEPOT INJECTION",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -11,49 +11,31 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/ACEPTOR-TABLETS.webp"
+      "/assets/img/product/medical/Testenate.jpg"
     ],
-    "shortDescription": "Aceptor tablets contain the active ingredient Benazepril Hydrochloride, classified as an ACE inhibitor primarily designed for veterinary use in dogs and cats. This vasodilator medication functions by inhibiting the angiotensin-converting enzyme (ACE), contributing to vasodilation, thereby controlling hypertension and reducing proteinuria associated with Chronic Kidney Disease (CKD).",
-    "fullDescription": "ACEPTOR Tablets contain Benazepril, classified as an ACE inhibitor, which functions by inhibiting an enzyme known as Angiotensin Converting Enzyme (ACE). This action aids in the relaxation (dilatation) of blood vessels, resulting in the reduction of blood pressure.For senior cats, early detection of health issues is crucial. Encouraging regular health checkups for cats can be a part of disease prevention.Excessive thirst and reduced appetite are common clinical indications of chronic renal insufficiency in dogs and cats. Benazepril supports pets suffering from chronic renal insufficiency, contributing to their extended, healthier, and happier lives.",
-    "composition": ["Benazepril hydrochloride: 2.5 mg / 5 mg / 10 mg"],
 
-    "action": [
-      "ACEPTOR Tablets contain Benazepril, classified as an ACE inhibitor, which functions by inhibiting an enzyme known as Angiotensin Converting Enzyme (ACE). This action aids in the relaxation (dilatation) of blood vessels, resulting in the reduction of blood pressure.",
-      "For senior cats, early detection of health issues is crucial. Encouraging regular health checkups for cats can be a part of disease prevention.",
-      "Excessive thirst and reduced appetite are common clinical indications of chronic renal insufficiency in dogs and cats. Benazepril supports pets suffering from chronic renal insufficiency, contributing to their extended, healthier, and happier lives."
+    "fullDescription": "Testenate Depot Injection is a testosterone hormone replacement therapy. It is to be used with caution in the elderly and those with prostate problems. Testenate Depot is not recommended in children below 3 years of age. Testosterone is the male sex hormone responsible for the development of male reproductive organs (penis and testicles) and related sexual characteristics like the development of body and facial hear, deep voice, sexual drive. Testenate Depot is also important in the development of skeletal structure (bones and muscles). Some males who lack adequate quantities fail to have developed reproductive organs and secondary sexual characteristics.",
+    
+
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Testenate Depot Injection",
+      "Acne",
+      "weight gain",
+      "breast enlargement",
+      "changes in voice", 
+      "pain at site of injection"
     ],
-    "class": "ACE Inhibitor",
-    "quantity": "Conveniently available in strips of 10 chewable tablets (Box of 3 strips).",
-    "uses": [
-      "Effective in managing high blood pressure/Hypertension.",
-      "Supplementary treatment for hypertrophic cardiomyopathies (HCM), diminishing wall thickness",
-      "Addresses dilated cardiomyopathy (DCM) and Mitral Valve Disease (MVD) ",
-      "Mitigates protein loss linked to Chronic Renal Failure (CKD)"
+    "benefits": [
+      "In Treatment of Male hypogonadism Male hypogonadism is a condition in which the body does not produce enough testosterone male sex hormone Testenate Depot 250 Injection injections help improve the level of testosterone in your body This helps in maintaining better sex life improve overall physical appearance gives good mood and boost overall confidence Testenate Depot 250 Injection also helps in muscle building and development of bones This treatment has few side effects so it is advisable to always take the injection under a doctor s supervision only You should continue taking it as long as it is prescribed even if you feel better"
     ],
-    "dosage": [
-      "Dog: 0.25-0.5mg/kg bw once daily",
-      "Cat: 0.5mg/kg bw once daily",
-      "Route: Oral administration",
-      "Species: Suitable for Dogs and Cats"
-    ],
-    "warning": [
-      "Avoid use in pets with hypotension or cardiac output failure.",
-      "Caution is required when administered with diuretics, beta-blockers, or other vasodilators, as it may lead to hypotension"
-    ],
-    "instruction": [
-      "Store in a cool, dry place at room temperature or below 25°C.",
-      "Keep out of reach of children.",
-      "Strictly for veterinary use."
-    ],
-    "safety": [
-      "Safety is not established for cats weighing less than 2.5 kg and in pregnant or lactating dogs and cats. Use in such patients should be carefully considered, weighing potential risks."
-    ],
-    "note": "Always consult a veterinarian before administering Aceptor Tablets to ensure the appropriate dosage and usage for your pet's specific health needs. Regular health check-ups for early detection and monitoring are beneficial, especially for senior cats, ensuring they lead longer, healthier lives."
+  
+    "working": "Tastenate Depot 250 Injection is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
   },
   {
     "id": "2",
     "sku": "asdf239",
-    "name": "DOXYPET TABLETS (100MG, 200MG, AND 300MG)",
+    "name": "RYBELSUS 3MG TABLETS",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -62,55 +44,43 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/DOXYPET-TABLETS.webp"
+      "/assets/img/product/medical/Rybelsus 3MG.jpg"
     ],
-    "shortDescription": "Doxypet tablets contain doxycycline hydrochloride combined with lactic acid bacillus spores. Doxycycline, classified as a tetracycline antibiotic, operates as a bacteriostatic agent. Its mechanism involves the inhibition of protein synthesis at the initiation stage by interacting with the 30S ribosomal subunit.",
+    "fullDescription": ["Rybelsus 3mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
 
-    "composition": [
-      "Doxypet 300 Tablet contains: Doxycycline hydrochloride - 300 mg, Lactic acid bacillus spores - 300 million, Excipients - QS, Colour: Sunset Yellow",
-      "Doxypet 200 Tablet contains,Doxycycline hydrochloride - 200 mg, Lactic acid bacillus spores - 200 million, Excipients - QS",
-      "Doxypet 100 Tablet contains,Doxycycline hydrochloride - 100 mg,Lactic acid bacillus spores - 100 million, Excipients - QS, Colour: Quinoline Yellow"
+    "Rybelsus 3mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+    
+    "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+    
+    "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+    
+    "Before using Rybelsus 3mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."],
+    
+
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus",
+      "Rybelsus 3mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+      
     ],
-    "action": [
-      "Doxycycline serves as a versatile treatment for various bacterial and protozoal infections found in dogs and cats. It effectively targets conditions such as leptospirosis, toxoplasmosis, mycoplasmosis, psittacosis, Lyme disease, ehrlichiosis, rocky mountain spotted fever, and other tick-borne diseases. Additionally, it proves beneficial in managing respiratory tract infections, urinary tract infections, skin issues, and wounds. Moreover, Doxycycline exhibits efficacy in treating heartworm disease by combating the Wolbachia organism responsible for heartworm infections. However, it's important to note that Doxycycline is not effective against viruses or fungi. For feline chlamydophilosis, a treatment duration of 3-4 weeks is recommended."
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
     ],
-    "class": "Tetracycline / Antibiotic",
-    "quantity": "3 x 1 x 10 tablets",
-    "uses": [
-      "Doxycycline serves as a remedy for various bacterial and protozoal infections prevalent in dogs and cats.",
-      "It effectively combats bacterial infections such as leptospirosis, toxoplasmosis, mycoplasmosis, psittacosis, Lyme disease, ehrlichiosis, and rocky mountain spotted fever/tick fever.",
-      "Apart from these, it addresses respiratory, urinary tract, skin, and wound infections efficiently.",
-      "Doxycycline demonstrates efficacy in treating heartworm disease by targeting the Wolbachia organism that infects heartworms.",
-      "It's important to note that doxycycline does not exhibit effectiveness against viruses or fungi.",
-      "Feline chlamydophilosis necessitates a treatment duration of 3-4 weeks when using doxycycline."
-    ],
-    "dosage": [
-      "Administer at a rate of 10 mg/kg body weight per day or according to your veterinarian's guidance.",
-      "Treatment duration for Ehrlichiosis : Up to 28 days",
-      "Treatment duration for Babesiosis : Up to 14 days",
-      "Treatment duration for Leptospirosis : Up to 21 days",
-      "Treatment duration for Lyme disease : Up to 28 days",
-      "For oral administration exclusively.",
-      "The tablets are divisible, allowing administration based on the individual's body weight to ensure accurate doses."
-    ],
-    "warning": [
-      "If overdosing occurs, discontinue immediately and seek veterinary or medical attention. Common side effects include nausea, vomiting, drooling, and diarrhea. Oesophagitis is commonly observed, hence administering with water is recommended. Not suitable for pets allergic to doxycycline. Avoid combining with specific medications and supplements, as detailed in the instructions."
-    ],
-    "instruction": [
-      "Store in a cool, dry place below 30°C, away from direct sunlight and moisture.",
-      "Intended strictly for veterinary use.",
-      "Keep out of reach of children."
-    ],
-    "safety": [
-      "Avoid usage in pets younger than 7 months, as it may cause teeth discoloration. Not recommended for pregnant or breeding animals due to potential skeletal alterations in developing offspring. Always adhere to recommended doses, and if a dose is missed, do not double it.",
-      "This medication has no habit-forming tendencies and doesn't entail withdrawal effects."
-    ],
-    "note": "Always consult a veterinarian before administering Doxypet Tablets to ensure the appropriate dosage and usage for your pet's specific health needs."
+    
+    "working": [
+    "Rybelsus 3mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
   },
   {
     "id": "3",
     "sku": "asdf239",
-    "name": "SAFEHEART TABLETS (1.25 MG, 5 MG AND 10 MG)",
+    "name": "MELACARE CREAM",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -119,57 +89,39 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/SAFEHEART-TABLETS.webp"
+      "/assets/img/product/medical/Melacare.jpg"
     ],
-    "shortDescription": "SafeHeart includes Pimobendan as a constituent. Pimobendan is a non-sympathomimetic, non-glycoside inotropic medication known for its vasodilatory impact. It is used to address symptoms associated with varying levels of congestive heart failure (modified New York Heart Association = NYHA class IIa, IIIb, IVc), manage issues linked to Arterioventricular Valvular Insufficiency (AVVI), and treat Dilated Cardiomyopathy (DCM) in canines.",
+    "fullDescription": ["Melacare Cream is a prescription medicine used in the treatment of melasma. It helps in quick skin renewal. It provides relief from redness, swelling, and itching.",
 
-    "composition": [
-      "SafeHeart 1.25 mg Tablet contains: Pimobendan Ph. Eur (EP) - 1.25 mg, Excipients - q.s., Approved flavours, Colour: Iron oxide red, Iron Oxide Yellow NF",
-      "SafeHeart 5mg Tablet contains: Pimobendan Ph. Eur (EP) - 5 mg, Excipients - q.s., Approved flavours,Colour: Iron oxide red, Iron Oxide Yellow NF",
-      "SafeHeart 10mg Tablet contains: Pimobendan Ph. Eur (EP) - 10 mg, Excipients - q.s., Approved flavours, Colour: Iron oxide red, Iron Oxide Yellow NF"
+    "Melacare Cream should be used in the dose and duration as advised by your doctor. Wash your hands before using this medicine. It is advised to check the label for directions before use. It is for external use only.",
+    
+    "Do not use this medicine more than the recommended dose. Inform your doctor if you have known allergies from this medicine. The common side effects of this medicine include burning, irritation, itchiness, and redness at the application site.",
+    
+    "If these side effects or any other symptoms which you think are because of this medicine persist for a longer duration, please consult your doctor. Inform your doctor if you are pregnant or are suffering from any other disease. This medicine is not safe to use in breastfeeding mothers."
     ],
-    "action": [
-      "SafeHeart contains Pimobendan, characterized as a non-sympathomimetic and non-glycoside inotropic drug with vasodilator properties. This compound belongs to the benzimidazole-pyridazinone derivative group. Pimobendan operates through a dual mechanism, enhancing the sensitivity of cardiac myofilaments to calcium and inhibiting phosphodiesterase (type III), thereby stimulating the myocardium. Following oral intake, pimobendan undergoes demethylation, conjugates with sulphate or glucuronic acid, and is eliminated through feces."
+    "benefits": [
+      "In Treatment of Melasma",
+      "Melasma is a common skin problem that causes dark, discolored patches on your skin. It is more commonly seen in females than males. Melacare Cream helps to lighten these dark patches of the skin usually caused by pregnancy, birth control pills, hormone medicine, or injury to the skin. It effectively blocks that process in the skin that leads to discoloration. Melacare Cream also reduces any redness, rash, pain or itchiness that may be caused in this condition.",
+
+      "This improves your self-esteem and confidence as your appearance changes. You should always use it as prescribed and only apply the amount you have been told to. Keep using it for as long as it is prescribed to get the full benefits."
+
     ],
-    "class": "Cardiac Therapeutics",
-    "quantity": "30 Tablets – Bottle",
-    "uses": [
-      "Addressing symptoms associated with mild, moderate, or severe congestive heart failure, categorized under modified New York Heart Association (NYHA) class IIa, IIIb, IVc. These stages encompass:",
-      "o Class II Heart Failure – Characterized by fatigue, shortness of breath, and coughing appearing when ordinary exercise is surpassed",
-      "o Class III Heart Failure – Dogs are comfortable at rest, but their exercise capacity is limited.",
-      "o Class IV Heart Failure – Dogs exhibit no capacity for exercise, experiencing disabling clinical signs.",
-      "Managing arterioventricular valvular insufficiency (AVVI).",
-      "Treating and managing Dilated Cardiomyopathy (DCM) in dogs."
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Melacare",
+      "Application site reactions (burning, irritation, itching and redness)"
+      
     ],
-    "dosage": [
-      "Pimobendan, also known as Safe Heart, should be administered at a dosage of 0.5 mg/kg body weight per day, constituting the total dose.",
-      "The overall dose should be divided into two parts and administered at 12-hour intervals, although the divided tablet portions might not be of equal size. ",
-      "Route: Oral and can be administered by mixing or giving it along with food.",
-      "Species: This medication is specifically designed for oral use in dogs as a cardiac drug.",
-      "Duration: For dogs facing cardiac issues, the therapy might be required for the entirety of their life span."
-    ],
-    "warning": [
-      "If an overdose occurs, promptly consult a veterinarian for guidance and advice.",
-      "Typical adverse effects observed in dogs treated with pimobendan or SafeHeart include reduced appetite, breathing difficulties, sluggishness, increased levels of nitrogen compounds in the blood (azotemia), diarrhea, and diminished strength. Severe side effects may manifest as lack of coordination (ataxia), accumulation of fluid around the lungs (pleural effusion), fainting (syncope), coughing, accumulation of fluid in the abdomen (ascites), abnormal heart sounds (heart murmurs), and potentially death.",
-      "Avoid administering this medication without proper diagnosis and guidance from a veterinarian."
-    ],
-    "instruction": [
-      "Keep stored in a cool, dry location within the temperature range of 25°C to 30°C.",
-      "This product is not intended for human use. If accidentally ingested by humans, seek immediate medical consultation from a physician.",
-      "Specifically designated for veterinary purposes. Keep it out of the reach of children."
-    ],
-    "safety": [
-      "The safety of SafeHeart in breeding and pregnant animals has not been established. Additionally, its safety remains undetermined in dogs younger than 6 months old, those with diabetes mellitus, congenital heart conditions, or other significant metabolic ailments.",
-      "SafeHeart can be administered alongside various medications such as furosemide, digoxin, enalapril, atenolol, spironolactone, nitroglycerine, antiparasitic drugs, antibiotics like penicillins, fluoroquinolones, metronidazole, as well as topical ophthalmic and otic preparations, thyroid medicines, butorphanol, metoclopramide, among others.",
-      "Adherence to recommended guidelines is crucial. Abrupt discontinuation of the medication may result in severe adverse effects. Always heed your veterinarian's guidance, as additional supportive medications might be necessary based on the severity of your pet's cardiac condition.",
-      "Habit-forming: Lifelong medication may be necessary for heart-related conditions."
-    ],
-    "note": "Always consult a veterinarian before administering SafeHeart Tablets to ensure the appropriate dosage and usage for your pet's specific health needs. "
+    
+    "working": [
+      "Melacare Cream is a combination of three medicines: Hydroquinone, Mometasone and Tretinoinoin, which treats melasma (dark spots on skin). Hydroquinone is a skin lightening medicine. It reduces the amount of a skin pigment (melanin) that causes darkening of skin. This effect is reversible. Mometasone is a steroid which blocks the production of certain chemical messengers (prostaglandins) that make the skin red, swollen and itchy. Tretinoinoin is a form of vitamin A that helps the skin to renew itself more quickly."
+    ]
+   
   },
   {
     "id": "4",
     "sku": "asdf239",
-    "name": "CARODYL TABLETS (100MG/75MG/25 MG)",
+    "name": "NERVIGESIC 300MG CAPSULES",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -178,61 +130,43 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/CARODYL-TABLETS.webp"
+      "/assets/img/product/medical/Nervigesic 300mg.jpg"
     ],
-    "shortDescription": "Carodyl 100, Carodyl 75, and Carodyl 25 tablets have carprofen as their active ingredient. Carprofen works by mainly targeting the COX-2 enzyme, reducing the production of specific prostaglandins associated with inflammation. It has properties that help reduce fever, inflammation, and pain. This medication belongs to the propionic acid class of NSAIDs, which includes ibuprofen and ketoprofen among others.",
+    "fullDescription": ["Nervigesic 300mg Capsule is a medicine used to relieve pain caused by nerve damage (neuropathic pain) due to diabetes, shingles (herpes zoster infection), spinal cord injury, or other conditions. It is also used to treat widespread muscle pain and stiffness in people with fibromyalgia.",
 
-    "composition": [
-      "Carodyl 25 chewable tablet contains: Carprofen IP - 25 mg,Excipients - q.s.",
-      "Carodyl 75 chewable tablet contains: Carprofen IP - 75 mg, Excipients - q.s.",
-      "Carodyl 100 chewable tablet contains: Carprofen IP - 100 mg,Excipients - q.s."
+    "Nervigesic 300mg Capsule belongs to the anti-epileptic group of medicines and can also be used to treat certain types of seizures (fits) in combination with other medicines. Additionally, it may also be prescribed to treat the symptoms of anxiety disorder if other medicines are not suitable.",
+    
+    "You can take Nervigesic 300mg Capsule with or without food, but it is important to take this medicine at the same time each day to get the most benefit. The exact dose and duration of treatment will depend on your condition and how you respond to it. Your doctor will probably start this medicine at a low dose and increase it gradually. It may take a few weeks for the medicine to work properly. Follow your doctor’s instructions and continue taking it regularly until your doctor advises you to stop. Do not miss any dose, otherwise, your condition may worsen.",
+    
+    "The side effects of this medicine are usually mild and go away by themselves. The most common ones are feeling sleepy or dizzy, dryness in the mouth, blurred vision, weight gain, edema (swelling over the whole body), and difficulty in concentrating. Most side effects are not serious and do not need medical attention. Talk to your doctor about potential side effects and ways in which you might prevent or cope with them.",
+    
+    "Before taking the medicine you should tell your doctor if you are pregnant, breastfeeding, or planning to become pregnant. Be careful while driving as sleepiness, dizziness, and blurring of vision may be seen as side effects. You should avoid drinking alcohol along with this medicine as it may lead to excessive sleepiness and dizziness."
     ],
-    "action": [
-      "Carodyl 100, Carodyl 75, and Carodyl 25 contain carprofen, which selectively blocks the COX-2 enzyme, reducing the production of inflammation-related prostaglandins. It holds properties that relieve fever, inflammation, and pain. Belonging to the propionic acid class of NSAIDs like ibuprofen and ketoprofen, carprofen undergoes liver metabolism and is eliminated through bile secretion."
+    "benefits": [
+      "In Treatment of Neuropathic pain",
+      "Nervigesic 300mg Capsule is used to treat long-lasting (chronic) pain caused by nerve damage due to diabetes, shingles, or spinal cord injury. It reduces pain and its associated symptoms such as mood changes, sleep problems, and tiredness. It is thought to work by interfering with pain signals that travel through the damaged nerves and the brain. Taking this medicine regularly will improve your physical and social functioning and overall quality of life. It takes a few weeks to work so you need to take it regularly even if you feel it is not doing any good. Once your symptoms have gone you should still keep taking the medicine until your doctor advises you to stop."
     ],
-    "class": "NSAID (Non-steroidal anti-inflammatory drugs) ",
-    "quantity": "Available in extensive presentation as strips and Economy value pack for dosing convenience.",
-    "uses": [
-      "Carodyl 100, Carodyl 75, and Carodyl 25, which contain carprofen, are recommended for dogs in the following cases:",
-      "o Managing and alleviating pain as well as inflammation linked with osteoarthritis.",
-      "o Regulating postoperative pain related to soft tissue.",
-      "o Managing postoperative pain linked to orthopedic surgeries in dogs.",
-      "Managing arterioventricular valvular insufficiency (AVVI).",
-      "Treating and managing Dilated Cardiomyopathy (DCM) in dogs."
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Nervigesic",
+      "Blurred vision",
+      "Difficulty in paying attention",
+      "Dizziness",
+      "Dryness in mouth",
+      "Edema (swelling)",
+      "Sleepiness",
+      "Weight gain" 
     ],
-    "dosage": [
-      "For dogs aged over 6 weeks, the suggested dosage is 4 mg per kilogram of body weight once a day or split into 2 mg per kilogram of body weight twice daily.",
-      "This medication is intended for oral use exclusively."
-    ],
-    "warning": [
-      "An overdose can lead to severe side effects and gastrointestinal symptoms such as vomiting, diarrhea, presence of blood in stool, dark or tarry stools, and reduced appetite. Gastrointestinal issues might arise with carprofen usage, similar to other NSAIDs. If these symptoms persist for more than a day or two, discontinuing the treatment is advised.",
-
-      "Avoid administering carprofen to dehydrated, hypovolemic, or hypotensive patients, or those with gastrointestinal conditions or blood clotting irregularities.",
-
-      "Combining carprofen with steroids is not recommended due to increased ulcer risk. A minimum 24-hour gap is advised between their usage as they can heighten ulcer formation when used simultaneously.",
-
-      "A suitable interval between switching from NSAIDs to steroids, or vice versa, is important to prevent complications or adverse reactions.",
-
-      "Manufacturer's recommendation: not suitable for use in cats."
-    ],
-    "instruction": [
-      "Store the medication in a cool, dry place at room temperature or below 30°C, and protect it from light exposure.",
-      "Ensure it's kept out of reach of both children and dogs.",
-      "Remember, this product is solely intended for veterinary use."
-    ],
-    "safety": [
-      "Avoid using if there's a known hypersensitivity to any active ingredients or additional components. Refrain from using in dogs with cardiac, renal, or hepatic conditions. There's no specific guidance regarding age-related restrictions, safety during breeding, or for lactating animals. Safety hasn't been confirmed for animals younger than 6 weeks old.",
-
-      "Adhere to the prescribed dosage. No withdrawal side effects have been reported.",
-
-      "Habit forming:  No"
-    ],
-    "note": "Always consult a veterinarian before administering Carodyl Tablets to ensure the appropriate dosage and usage for your pet's specific health needs. "
+    
+    "working": [
+     "Nervigesic 300mg Capsule is an antiepileptic medication. When given for epilepsy, it is believed to work by reducing the abnormal electrical activity in the brain, thus preventing seizures. It is also used to treat nerve and muscle pain where it blocks pain by interfering with pain signals traveling through the damaged nerves and the brain."
+    ]
+    
   },
   {
     "id": "5",
     "sku": "asdf239",
-    "name": "KIWOF HART TABLETS ",
+    "name": "FINPECIA TABLETS",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -241,64 +175,39 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/KIWOF-HART-TABLETS.webp"
+      "/assets/img/product/medical/Finpecia.jpg"
     ],
-    "shortDescription": "Kiwof Hart tablets are employed to prevent and treat heartworm disease in dogs. They efficiently eliminate and expel heartworms. A pet can contract heartworm disease from a single mosquito bite. This disease, also known as Dirofilariasis, is caused by Dirofilaria immitis, a parasitic roundworm that inflicts substantial damage to the heart and lungs. It's a zoonotic disease, potentially fatal for both animals and humans.",
 
-    "composition": [
-      "Small Dogs (Upto 11kg): Each Chewable tablet contains: Ivermectin BP - 68 mcg, Pyrantel Pamoate USP, Equivalent to Pyrantel - 57 mg, Excipients - q.s.",
-
-      "Medium Dogs (12-22kg): Each Chewable tablet contains: Ivermectin BP - 136 mcg, Pyrantel Pamoate USP, Equivalent to Pyrantel - 114 mg, Excipients - q.s.",
-
-      "Large Dogs (23-45kg): Each Chewable tablet contains: Ivermectin BP - 272 mcg, Pyrantel Pamoate USP, Equivalent to Pyrantel - 227 mg, Excipients - q.s."
+    "fullDescription": ["Finpecia, a prescription drug, is manufactured in various forms such as Tablet. Enlarged Prostate are some of its major therapeutic uses. Other than this, Finpecia has some other therapeutic uses, which have been discussed ahead.",
+    "The correct dosage of Finpecia depends on the patient's age, gender, and medical history. Besides the medical condition it is advised for, the route of administration also plays an important role in determining the correct drug dosage. This information has been provided in detail in the dosage section.",
+    "The most common side effects of Finpecia are Dizziness, Fainting, Chills. Apart from the aforementioned side effects, Finpecia can also lead to other problems, which have been listed below. Usually, these side effects of Finpecia go away soon, and do not persist beyond the duration of the treatment. However, if these continue for a longer time, consult your doctor right away.",
+    "In addition, Finpecia's effect is Severe during pregnancy and Unknown for lactating mothers. Warnings related to Finpecia's effects on the liver, heart and kidney, if any, have been listed below.",
+    "Other contraindications of Finpecia have been discussed in the sections ahead.",
+    "Additionally, Finpecia may also adversely react with other medicines. Refer to the list below for further details.",
+    "In addition to the above precautions for Finpecia, it is important to know that it is not safe while driving, and is not habit-forming."
     ],
-    "action": [
-      "Carodyl 100, Carodyl 75, and Carodyl 25 contain carprofen, which selectively blocks the COX-2 enzyme, reducing the production of inflammation-related prostaglandins. It holds properties that relieve fever, inflammation, and pain. Belonging to the propionic acid class of NSAIDs like ibuprofen and ketoprofen, carprofen undergoes liver metabolism and is eliminated through bile secretion."
-    ],
-    "class": "Endectoparasiticide / Dewormer ",
-    "quantity": "Available in a package of 6 easy chews (Tablets).",
-    "uses": [
-      "Prevents the growth of the adult stage of Dirofilaria immitis.",
-      "Effectively combats the tissue larval stage of Dirofilaria immitis.",
-      "Manages both hookworms and roundworms.",
-      "Administered once a month with easy chews."
-    ],
-    "dosage": [
-      "Small Dogs (Up to 11kg): 1 Easy Chew based on their specific weight range.",
-      "Medium (12 – 22kg): 1 Easy Chew based on their specific weight range.",
-      "Large (23 – 45kg): 1 Easy Chew based on their specific weight range.",
-      "For dogs weighing over 45 kg, use the suitable combination of tablets as directed.",
-      "Alternatively, follow the guidance provided by a veterinarian.",
-      "The suggested dosage of ivermectin for heartworm disease is 60mcg per 10kg of body weight, with a maximum allowable dose of 120mcg.",
-      "Route: Oral only",
-      "Species: Dogs only"
+    "benefits": [
+      "In Treatment of Hair loss",
+      "Finpecia Tablet is a medicine used to treat common hereditary hair loss. It prevents further hair loss and helps hair to regrow. It stops the production of a hormone that causes excessive hair fall or baldness and also increases hair growth. It is considered a safe medicine. Regrowth of hair can be beneficial to your mood, self-esteem as well as your appearance, but you need to use it regularly to get the benefits."
 
     ],
-    "warning": [
-      "When switching from another heartworm preventive product as part of a heartworm disease prevention program, the initial dose of KIWOF HART should be administered within a month (30 days) of the last dose of the previous medication. The effectiveness of ivermectin might decrease if there's a gap exceeding one month (30 days) between doses.",
-
-      "In trials involving ivermectin alone, some dogs exhibited mild hypersensitivity-type reactions, notably transient diarrhea, likely triggered by the presence of dead or dying microfilariae, following treatment in cases where circulating microfilariae were present.",
-
-      "Throughout clinical trials, dogs experienced side effects such as depression, lethargy, vomiting, reduced appetite, diarrhea, enlarged pupils, lack of coordination, stumbling, seizures, and increased saliva production."
-
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Finpecia",
+      "Decreased libido",
+      "Erectile dysfunction",
+      "Ejaculation disorder"
     ],
-    "instruction": [
-      "Store in a cool, dry place at room temperature or below 25°C.",
-      "Protect from light exposure.",
-      "Keep out of the reach of children.",
-      "Intended solely for veterinary use."
-    ],
-    "safety": [
-      "It is recommended for dogs aged at least 6 weeks old. Studies indicate that Collies might be more sensitive to high doses of ivermectin (exceeding 16 times the intended level) compared to other breeds.",
-
-      "KIWOF HART has demonstrated a considerable safety margin at the prescribed dosage in various dog categories, including pregnant or breeding females and stud dogs."
-    ],
-    "note": "Note: Always consult a veterinarian before administering Kiwof Hart Tablets to ensure the appropriate dosage and usage for your pet's specific health needs.  "
+    
+    "working": [
+   "Finpecia Tablet is a 5-alpha reductase inhibitor. It blocks the body's production of a male hormone in the scalp that stops hair growth, thereby reversing the balding process and preventing further hair loss."
+    ]
+    
   },
   {
     "id": "6",
     "sku": "asdf239",
-    "name": "KIWOF PLUS / KIWOF PLUS XL TABLETS ",
+    "name": "CAREPROST EYE DROP",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -307,70 +216,628 @@
     "tag": ["Medical,", "Pet,", "Dog", "Cat"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/KIWOF-PLUS.jpg"
+      "/assets/img/product/medical/Careprost.jpg"
     ],
-    "shortDescription": "Kiwof Plus and Kiwof Plus XL tablets contain three distinct active ingredients, each with unique ways of functioning and target ranges. Praziquantel targets cestodes, specifically tapeworms. Pyrantel pamoate combats hookworms and ascarids. Febantel acts against nematode parasites, which include whipworms in its spectrum of activity.",
+    
+    "fullDescription": ["Careprost Eye Drop is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
 
-    "composition": [
-      "Kiwof Plus chewable tablet contains: Praziquantel - 50 mg, Pyrantel Pamoate - 144 mg, Febantel - 150 mg",
-
-      "Kiwof Plus XL chewable tablet contains, Praziquantel - 175 mg, Pyrantel Pamoate - 504 mg, Febantel - 525 mg"
+    "Careprost Eye Drop is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
+    
+    "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect."
     ],
-    "action": [
-      "Kiwof Plus and Kiwof Plus XL tablets contain three active components with distinct mechanisms and ranges of effectiveness. Praziquantel targets cestodes, specifically tapeworms. It's absorbed, metabolized in the liver, and excreted via bile. Once in the digestive tract, it exhibits cestocidal activity, making tapeworms vulnerable to digestion by the host. As a result, complete tapeworms, including their scolices, are rarely passed after praziquantel administration. Instead, disintegrated and partially digested tapeworm pieces are often observed in stool, as most tapeworms are digested and not found in feces.",
-
-      "Pyrantel pamoate is effective against hookworms and ascarids by acting on the nematode's cholinergic receptors, causing spastic paralysis. The parasite is then expelled through the intestinal tract due to peristaltic action.",
-
-      "Febantel targets nematode parasites, including whipworms. It's swiftly absorbed and metabolized within the animal. Based on available data, it disrupts the parasite's energy metabolism, leading to a breakdown in energy exchange and inhibiting glucose uptake."
+    "benefits": [
+      "In Ocular hypertension",
+      "Careprost Eye Drop belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
     ],
-    "class": "Endoparasiticide",
-    "quantity": "Kiwof Plus – 1 x 10 tablets, Kiwof Plus XL – 1 x 4 tablets",
-    "uses": [
-      "Kiwof Plus and Kiwof Plus XL Tablets are utilized for routine deworming in dogs.",
-
-      "Effective in removing and controlling tapeworms like Echincoccus multilocularis, Taenia pisiformis, Dipylidium caninum, and Echinococcus granulosus.",
-
-      "Also proficient in eliminating Ascarids (Toxocara canis, Toxascaris leonina), Hookworms (Ancylostoma caninum, Uncinaria stenocephala), and Whipworms (Trichuris vulpis) in dogs."
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Careprost",
+      "Conjunctival hyperemia",
+      "Eye itching"
     ],
-    "dosage": [
-      "Kiwof Plus XL Tablet Dosage:",
-      "o 17.5 kg body weight: ½ KIWOF PLUS XL Tablet",
-      "o Over 17.5 kg up to 35 kg body weight: 1 KIWOF PLUS XL Tablet",
-      "o Over 35 kg up to 52.5 kg body weight: 1 ½ KIWOF PLUS XL Tablets",
-      "o Over 52.5 kg up to 70 kg body weight: 2 KIWOF PLUS XL Tablets",
-      "Kiwof Plus Tablet Dosage: 1 tablet for 10 kg of body weight.",
-      "Route: Oral only",
-      "These tablets can be given directly to the pet or with food. ",
-      "No starvation is needed before or after treatment.",
-      "Frequency:For regular management of worms and deworming in dogs, it should be repeated every 3 months. A single dose is recommended for standard treatment. If there's a severe roundworm infestation, the dose should be repeated after 14 days."
+    
+    "working": [
+   "Careprost Eye Drop is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
+    ]
+
+  },
+  {
+    "id": "7",
+    "sku": "asdf239",
+    "name": "CERNOS GEL",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Cernos Gel.jpg"
+    ],
+    "fullDescription": ["Cernos Gel is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+
+    "Cernos Gel is for external use only. It should be applied on arms and shoulder once a day, preferably at the same time every day. It should be used as your doctor's advice. You should use this medicine for as long as it is prescribed for you. Do not use the gel too often and avoid applying it over the genital area.",
+    
+    "The most common side effects of this medicine include acne and application site reactions (burning, irritation, itching, and redness). If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
+    
+    "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, or stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
+    ],
+    "benefits": [
+      "In Treatment of Male hypogonadism",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Gel injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Gel also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
 
     ],
-    "warning": [
-      "Not advised for puppies below 3 months old.",
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Cernos",
+      "Injection site reactions (pain, swelling, redness)",
+      "Acne",
+      "Voice change",
+      "Breast enlargement in male"
+    ],
+    
+    "working": [
+      "Cernos Gel is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
+  },
+  {
+    "id": "8",
+    "sku": "asdf239",
+    "name": "TRETINOIN CREAM",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Tretinoinoin Cream.jpg"
+    ],
 
-      "Occasional cases might result in mild vomiting and diarrhea. Adhere to recommended doses, despite its wide safety margin. Contact your veterinarian immediately in case of accidental overdose.",
+    "fullDescription": [
+      "Tretinoin  Cream is a form of vitamin A that is used to treat acne which appears as spots or pimples on your face, chest, or back. It also helps to smooth rough facial skin and to reduce fine wrinkles on the skin.",
 
-      "Frequent use of an anthelmintic might lead to the development of parasitic resistance. Avoid simultaneous use with piperazine-containing compounds, as they cause neuromuscular paralysis in worms. Kiwof Plus XL tablets should be used singularly and should not be combined with other dewormers.",
+      "Tretinoin  Cream reduces excessive oil production of the skin. Ideally, a pinpoint application at nighttime is recommended for the duration prescribed by your doctor. The amount you need and for how long you need to take it will depend on what you are being treated for. You should normally wash and dry the affected area before applying a thin layer of this medicine. Follow your doctor’s instructions. You should not apply it to damaged or broken skin and avoid contact with your mouth, eyes, and nose. It may take several weeks for your symptoms to improve but keep using it regularly to get the most benefit. Consult your doctor again if you do not notice any improvement after a few weeks. Using more medicine or applying it more often than prescribed will not make it work any faster and may increase the side effects.",
 
-      "It's not universally suitable for all animals. Cats should not receive Kiwof Plus or Kiwof Plus XL dewormers.",
+      "The most common side effects include irritation, dryness, and redness of the skin. They are usually mild and improve as your body gets used to the medicine. Drink plenty of water and use moisturizer as it may lead to dryness of the mouth, lips, and eyes. Let your doctor know if these side effects bother you or do not go away. Serious side effects with this medicine are rare.",
 
-      "Always consult your veterinarian if your dog has liver or hepatic disease or is undergoing any medication"
+      "This medicine may make you more sensitive to sunlight so you should limit exposure to the sun if possible. It may make your skin more fragile. It is advised, not to have any waxing (hair removal), or laser treatments during treatment. Pregnant women or women who are planning to get pregnant should not use this medicine as it can lead to birth defects."
 
     ],
-    "instruction": [
-      "Store in a cool, dry place."
+    "benefits": [
+      "In Treatment of Acne",
+      "Tretin 0.025% Cream is a form of vitamin A. It helps treat acne by clearing skin pores and preventing spots or pimples from appearing. It usually takes several weeks to have a noticeable effect so keep using it even if it appears not to be working. Sometimes acne may get worse before it gets better, however, with proper use, your skin will get clearer. The earlier you start using it, the less likely you are to get scars. This medicine will help improve your mood and uplift your confidence as your skin becomes acne-free. It should not be used if you have eczema or sunburned skin."
     ],
-    "safety": [
-      "Avoid use in puppies younger than 3 months old.",
-
-      "Kiwof Plus and Kiwof Plus XL can be used in combination with other treatments such as heartworm prevention, flea and tick treatment, and vaccination.",
-
-      "Consult your veterinarian before administering to pregnant and lactating bitches.",
-
-      "Adhere strictly to recommendations and avoid exceeding the recommended dose when treating pregnant bitches. No withdrawal side effects have been reported.",
-
-      "Habit forming:  No"
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Tretin",
+      "Erythema (skin redness)",
+      "Skin irritation",
+      "Dry skin",
+      "Dry lips",
+      "Pale red skin",
+      "Increased sensitivity to light"
     ],
-    "note": "Always consult a veterinarian before administering Kiwof Plus / Kiwof Plus XL Tablets to ensure the appropriate dosage and usage for your pet's specific health needs.  "
+    
+    "working": [
+      "Tretin 0.025% Cream is a form of vitamin A. When applied on the skin, it reduces oil production in the skin, replenishes acne-prone skin, and helps keep your pores open."
+    ]
+    
+  },
+
+  {
+    "id": "9",
+    "sku": "asdf239",
+    "name": "APIGAT 5MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Apigat 5 Tablet.jpg"
+    ],
+    
+    "fullDescription": [
+      "Apigat 5 Tablet is a medicine known as an anticoagulant or blood thinner. It helps prevent and treat blood clots. It prevents and treats clot formation in the veins of your legs, lungs, brain, and heart. It is used to reduce the risk of stroke and heart attack.",
+
+      "Apigat 5 Tablet is commonly used in patients with irregular heart rhythm (atrial fibrillation) to prevent clot formation. It also reduces the risk of getting clots in people who have undergone knee or hip replacement surgeries. It can be taken with or without food and it is best to take them at the same time each day. You may need to take this medicine for many years, even for life in some cases.",
+
+      "Do not stop taking it or change the dose without guidance from your doctor. It could quickly put you more at risk of having a heart attack, stroke, or thrombosis (formation of a blood clot within a blood vessel). You can reduce your risk of having a blood clot by making changes to your lifestyle, such as not smoking, eating a healthy diet, getting regular exercise, and losing weight if you need to.",
+
+      "The most common side effect of Apigat 5 Tablet is bleeding more easily than normal, for example, having nosebleeds or bruising. If you experience any symptoms, tell your doctor immediately. Other side effects include low blood pressure, nausea, and skin rash.",
+
+      "Do not take this medicine if you have severe kidney or liver problems, if you are currently bleeding, or if you are taking other medicines to reduce blood clotting. You should not breastfeed while using this medicine. Unlike other anticoagulants, a regular blood test (PT-INR) is not required while taking this medicine." 
+
+    ],
+    "benefits": [
+      "In Treatment and prevention of Blood clots",
+      "Formation of blood clots blocks one or more veins, usually in your legs. Apigat 5 Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Apigat",
+      "Anemia (low number of red blood cells)",
+      "Blood in urine",
+      "Bruise",
+      "Nausea",
+      "Nosebleeds",
+      "Hematoma"
+
+    ],
+    
+    "working": [
+      "Apigat 5 Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
+    ]
+  },
+  
+  {
+    "id": "10",
+    "sku": "asdf239",
+    "name": "ELIQUIS 2.5MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Eliquis 2.5mg.webp"
+    ],
+    
+    "fullDescription": [
+      "Eliquis 2.5mg Tablet is a medicine known as an anticoagulant or blood thinner. It helps prevent and treat blood clots. It prevents and treats clot formation in the veins of your legs, lungs, brain, and heart. It is used to reduce the risk of stroke and heart attack.",
+
+      "Eliquis 2.5mg Tablet is commonly used in patients with irregular heart rhythm (atrial fibrillation) to prevent clot formation. It also reduces the risk of getting clots in people who have undergone knee or hip replacement surgeries. It can be taken with or without food, and it is best to take them at the same time each day. You may need to take this medicine for many years, even for life in some cases.",
+
+      "Do not stop taking it or change the dose without guidance from your doctor. It could quickly put you more at risk of having a heart attack, stroke, or thrombosis (formation of a blood clot within a blood vessel). You can reduce your risk of having a blood clot by changing your lifestyle, such as not smoking, eating a healthy diet, getting regular exercise, and losing weight if you need to.",
+
+      "The most common side effect of Eliquis 2.5mg Tablet is bleeding more easily than normal, for example, having nosebleeds or bruising. Other side effects include low blood pressure, nausea, and skin rash. If you experience any symptoms, tell your doctor immediately.",
+
+      "Do not take this medicine if you have severe kidney or liver problems, are currently bleeding, or are taking other medicines to reduce blood clotting. Unlike other anticoagulants, a regular blood test (PT-INR) is not required while taking this medicine. You should not breastfeed while using this medicine. "
+
+
+    ],
+    "benefits": [
+      "In Treatment and prevention of Blood clots",
+      "Formation of blood clots blocks one or more veins, usually in your legs. Eliquis 2.5mg Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Eliquis",
+      "Anemia (low number of red blood cells)",
+      "Blood in urine",
+      "Bruise",
+      "Nausea",
+      "Nosebleeds",
+      "Hematoma"
+
+    ],
+    
+    "working": [
+      "Eliquis 2.5mg Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
+    ]
+  },
+  {
+    "id": "11",
+    "sku": "asdf239",
+    "name": "ELIQUIS 5MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Eliquis 5mg.webp"
+    ],
+    
+    "fullDescription": [
+      "Eliquis 5mg Tablet is a medicine known as an anticoagulant or blood thinner. It helps prevent and treat blood clots. It prevents and treats clot formation in the veins of your legs, lungs, brain, and heart. It is used to reduce the risk of stroke and heart attack.",
+
+      "Eliquis 5mg Tablet is commonly used in patients with irregular heart rhythm (atrial fibrillation) to prevent clot formation. It also reduces the risk of getting clots in people who have undergone knee or hip replacement surgeries. It can be taken with or without food, and it is best to take them at the same time each day. You may need to take this medicine for many years, even for life in some cases.",
+
+      "Do not stop taking it or change the dose without guidance from your doctor. It could quickly put you more at risk of having a heart attack, stroke, or thrombosis (formation of a blood clot within a blood vessel). You can reduce your risk of having a blood clot by changing your lifestyle, such as not smoking, eating a healthy diet, getting regular exercise, and losing weight if you need to.",
+
+      "The most common side effect of Eliquis 5mg Tablet is bleeding more easily than normal, for example, having nosebleeds or bruising. Other side effects include low blood pressure, nausea, and skin rash. If you experience any symptoms, tell your doctor immediately.",
+
+      "Do not take this medicine if you have severe kidney or liver problems, are currently bleeding, or are taking other medicines to reduce blood clotting. Unlike other anticoagulants, a regular blood test (PT-INR) is not required while taking this medicine. You should not breastfeed while using this medicine. "
+
+    ],
+    "benefits": [
+      "In Treatment and prevention of Blood clots",
+      "Formation of blood clots blocks one or more veins, usually in your legs. Eliquis 5mg Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Eliquis",
+      "Anemia (low number of red blood cells)",
+      "Blood in urine",
+      "Bruise",
+      "Nausea",
+      "Nosebleeds",
+      "Hematoma"
+    ],
+    
+    "working": [
+      "Eliquis 5mg Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
+    ]
+  },
+  
+  {
+    "id": "12",
+    "sku": "asdf239",
+    "name": "KAMAGRA JELLY",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Kamagra Jelly.jpg"
+    ],
+    
+    "fullDescription": [
+      "Kamagra-FX 100mg Oral Jelly Cola is a prescription medicine used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis. This helps men to get or maintain an erection. It belongs to a group of medicines known as phosphodiesterase type 5 (PDE 5) inhibitors.",
+
+      "Kamagra-FX 100mg Oral Jelly Cola may be taken on an empty stomach or with a meal. It should be strictly taken as advised by your doctor. You should take about 1 hour before you plan to have sex. The amount of time it takes to work varies from person to person, but it normally takes between 30 minutes and 1 hour. This medicine will only help you to get an erection if you are sexually stimulated. However, you should not take this medicine if you do not have erectile dysfunction. It should not be taken more than once a day.",
+
+      "The most common side effects of this medicine are flushing (sense of warmth), headache, dizziness, blurred vision, muscle pain, stomach upset, and rash. Talk to your doctor if any of the side effects bother you or do not go away. They may be able to help by changing the dosage or prescribing you an alternate medicine.",
+
+      "Kamagra-FX 100mg Oral Jelly Cola is not intended for use by women and men should avoid using any other medicines to treat impotence without talking to a doctor first. It can be dangerous to take it along with medicines called nitrates (often given for chest pain or angina). Do not take this medicine if you have severe heart or liver problems, have recently had a stroke or heart attack or if you have low blood pressure. Let your doctor know if you suffer from these or any other health problems before taking it. You should not drive if this medicine makes you feel dizzy. Avoid drinking alcohol while taking this medicine as it increases the chances of side effects."
+
+    ],
+    "benefits": [
+      "In Treatment of Erectile dysfunction",
+      "Kamagra-FX 100mg Oral Jelly Cola belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
+      
+      "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Kamagra",
+      "Flushing (sense of warmth in the face, ears, neck and trunk)",
+      "Headache",
+      "Blurred vision",
+      "Indigestion",
+      "Muscle pain",
+      "Upset stomach",
+      "Rash",
+      "Nasal congestion (stuffy nose)",
+      "Dizziness",
+      "Nausea"
+    ],
+    
+    "working": [
+      "Kamagra-FX 100mg Oral Jelly Cola is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
+    ]
+  },
+  
+  {
+    "id": "13",
+    "sku": "asdf239",
+    "name": "VIGORE 100 RED TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Vigore 100 Red Tablet.jpg"
+    ],
+    
+    "fullDescription": [
+      "Vigore 100 Red Tablet is a prescription medicine used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis. This helps men to get or maintain an erection. It belongs to a group of medicines known as phosphodiesterase type 5 (PDE 5) inhibitors.",
+
+      "Vigore 100 Red Tablet may be taken on an empty stomach or with a meal. It should be strictly taken as advised by your doctor. You should take about 1 hour before you plan to have sex. The amount of time it takes to work varies from person to person, but it normally takes between 30 minutes and 1 hour. This medicine will only help you to get an erection if you are sexually stimulated. However, you should not take this medicine if you do not have erectile dysfunction. It should not be taken more than once a day.",
+
+      "The most common side effects of this medicine are flushing (sense of warmth), headache, dizziness, blurred vision, muscle pain, stomach upset, and rash. Talk to your doctor if any of the side effects bother you or do not go away. They may be able to help by changing the dosage or prescribing you an alternate medicine.",
+
+      "Vigore 100 Red Tablet is not intended for use by women and men should avoid using any other medicines to treat impotence without talking to a doctor first. It can be dangerous to take it along with medicines called nitrates (often given for chest pain or angina). Do not take this medicine if you have severe heart or liver problems, have recently had a stroke or heart attack or if you have low blood pressure. Let your doctor know if you suffer from these or any other health problems before taking it. You should not drive if this medicine makes you feel dizzy. Avoid drinking alcohol while taking this medicine as it increases the chances of side effects."
+
+    ],
+    "benefits": [
+      "In Treatment of Erectile dysfunction",
+      "Vigore 100 Red Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
+      "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Vigore",
+      "Flushing (sense of warmth in the face, ears, neck and trunk)",
+      "Headache",
+      "Blurred vision",
+      "Indigestion",
+      "Muscle pain",
+      "Upset stomach",
+      "Rash",
+      "Nasal congestion (stuffy nose)",
+      "Dizziness",
+      "Nausea"
+    ],
+    
+    "working": [
+      "Vigore 100 Red Tablet is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
+    ]
+  },
+  {
+    "id": "14",
+    "sku": "asdf239",
+    "name": "SUHAGRA 100 TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Suhagra 100 Tablet.jpg"
+    ],
+    
+    "fullDescription": [
+      "Suhagra 100 Tablet is a prescription medicine used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis. This helps men to get or maintain an erection. It belongs to a group of medicines known as phosphodiesterase type 5 (PDE 5) inhibitors.",
+
+      "Suhagra 100 Tablet may be taken on an empty stomach or with a meal. It should be strictly taken as advised by your doctor. You should take about 1 hour before you plan to have sex. The amount of time it takes to work varies from person to person, but it normally takes between 30 minutes and 1 hour. This medicine will only help you to get an erection if you are sexually stimulated. However, you should not take this medicine if you do not have erectile dysfunction. It should not be taken more than once a day.",
+
+      "The most common side effects of this medicine are flushing (sense of warmth), headache, dizziness, blurred vision, muscle pain, stomach upset, and rash. Talk to your doctor if any of the side effects bother you or do not go away. They may be able to help by changing the dosage or prescribing you an alternate medicine.",
+
+      "Suhagra 100 Tablet is not intended for use by women and men should avoid using any other medicines to treat impotence without talking to a doctor first. It can be dangerous to take it along with medicines called nitrates (often given for chest pain or angina). Do not take this medicine if you have severe heart or liver problems, have recently had a stroke or heart attack or if you have low blood pressure. Let your doctor know if you suffer from these or any other health problems before taking it. You should not drive if this medicine makes you feel dizzy. Avoid drinking alcohol while taking this medicine as it increases the chances of side effects."
+
+    ],
+    "benefits": [
+      "In Treatment of Erectile dysfunction",
+      "Suhagra 100 Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
+
+      "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
+
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Suhagra",
+      "Flushing (sense of warmth in the face, ears, neck and trunk)",
+      "Headache",
+      "Blurred vision",
+      "Indigestion",
+      "Muscle pain",
+      "Upset stomach",
+      "Rash",
+      "Nasal congestion (stuffy nose)",
+      "Dizziness",
+      "Nausea"
+
+    ],
+    
+    "working": [
+     "Suhagra 100 Tablet is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
+    ]
+  },
+  {
+    "id": "15",
+    "sku": "asdf239",
+    "name": "CERNOS CAPSULES",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Cernos Capsule.jpg"
+    ],
+    
+    "fullDescription": [
+      "Cernos Soft Gelatin Capsule is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+
+      "Cernos Soft Gelatin Capsule is best taken with food. Take it regularly and at the same time each day to get the most benefit. The dose and how often you take it depends on what you are taking it for. Your doctor will decide how much you need to improve your symptoms. Swallow the tablets whole with a glass of water. You should take this medicine for as long as it is prescribed for you.",
+
+      "The most common side effects of this medicine include increased red blood cells, diarrhea, stomach pain or discomfort, leg pain, dizziness, increased sweating, headache, acne, and breast enlargement in male. If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
+
+      "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, and stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
+
+    ],
+    "benefits": [
+      "In Treatment of Male hypogonadism",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Soft Gelatin Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Soft Gelatin Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Cernos",
+      "Diarrhea",
+      "Stomach discomfort",
+      "Increased sweating",
+      "Injection site reactions (pain, swelling, redness)",
+      "Acne",
+      "Voice change",
+      "Breast enlargement in male"
+
+    ],
+    
+    "working": [
+     "Cernos Soft Gelatin Capsule is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
+  },
+  {
+    "id": "16",
+    "sku": "asdf239",
+    "name": "LUMIGAN 0.03%",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Lumigan.jpg"
+    ],
+    
+    "fullDescription": [
+      "Lumigan 0.03% Ophthalmic Solution is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
+
+      "Lumigan 0.03% Ophthalmic Solution is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
+
+      "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect. "
+    ],
+    "benefits": [
+      "In Ocular hypertension",
+      "Lumigan 0.03% Ophthalmic Solution belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Lumigan",
+      "Conjunctival hyperemia",
+      "Eye itching"
+      ],
+    "working": [
+     "Lumigan 0.03% Ophthalmic Solution is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
+    ]
+  },
+  {
+    "id": "17",
+    "sku": "asdf239",
+    "name": "RYBELSUS 7MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/RYBELSUS 7MG.jpg"
+    ],
+    
+    "fullDescription": [
+      "Rybelsus 7mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
+
+      "Rybelsus 7mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+
+      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+
+      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+
+     "Before using Rybelsus 7mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
+    ],
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus",
+      "Rybelsus 7mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
+      ],
+    "working": [
+     "Rybelsus 7mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
+  },
+  {
+    "id": "18",
+    "sku": "asdf239",
+    "name": "RYBELSUS 14MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/RYBELSUS 14MG.jpg"
+    ],
+    
+    "fullDescription": [
+      "Rybelsus 14mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
+
+      "Rybelsus 14mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+
+      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+
+      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+
+      "Before using Rybelsus 14mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
+    ],
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus",
+      "Rybelsus 14mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
+      ],
+
+    "working": [
+     "Rybelsus 14mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
+  },
+  {
+    "id": "19",
+    "sku": "asdf239",
+    "name": "TESTOSTERONE UNDECANOATE 40MG CAPSULES",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Medical,", "Pet,", "Dog", "Cat"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/TESTOSTERONE UNDECANOATE.jpg"
+    ],
+    
+    "fullDescription": [
+      "Testosterone Undecanoate 40mg Capsule is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+
+      "Testosterone Undecanoate 40mg Capsule is best taken with food. Take it regularly and at the same time each day to get the most benefit. The dose and how often you take it depends on what you are taking it for. Your doctor will decide how much you need to improve your symptoms. Swallow the tablets whole with a glass of water. You should take this medicine for as long as it is prescribed for you.",
+
+      "The most common side effects of this medicine include increased red blood cells, diarrhea, stomach pain or discomfort, leg pain, dizziness, increased sweating, headache, acne, and breast enlargement in male. If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
+
+      "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, and stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
+    ],
+    "benefits": [
+      "In Treatment of Male hypogonadism",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Testosterone Undecanoate 40mg Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Testosterone Undecanoate 40mg Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
+    ],
+
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of  Testosterone Undecanoate",
+      "Diarrhea",
+      "Stomach discomfort",
+      "Increased sweating",
+      "Injection site reactions (pain, swelling, redness)",
+      "Acne",
+      "Voice change",
+      "Breast enlargement in male"
+      ],
+    "working": [
+     "Testosterone Undecanoate 40mg Capsule is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
   }
 ]

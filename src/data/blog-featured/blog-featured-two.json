@@ -2,19 +2,16 @@
   {
     "id": 1,
     "image": "/assets/img/blog/blog-10.jpg",
-    "category": ["lifestyle", "men"],
     "title": "Wide Medicinal Range"
   },
   {
     "id": 2,
     "image": "/assets/img/blog/blog-11.jpg",
-    "category": ["lifestyle"],
     "title": "Cost-Effective Solutions"
   },
   {
     "id": 3,
     "image": "/assets/img/blog/blog-12.jpg",
-    "category": ["lifestyle"],
     "title": "Customer-Centric Focus"
   }
 ]

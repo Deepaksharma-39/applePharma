@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import { useLocation } from "react-router-dom";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
-import GoogleMap from "../../components/google-map"
+// import GoogleMap from "../../components/google-map"
 import SEO from "../../components/seo";
 
 const Contact = () => {
@@ -24,9 +24,9 @@ const Contact = () => {
         />
         <div className="contact-area pt-100 pb-100">
           <div className="container">
-            <div className="contact-map mb-10">
+            {/* <div className="contact-map mb-10">
               <GoogleMap lat={28.657385278283538} lng={77.234138812721} />
-            </div>
+            </div> */}
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
                 <div className="contact-info-wrap">
@@ -113,9 +113,9 @@ const Contact = () => {
                       </div>
                       <div className="col-lg-12">
                         <input
-                          name="subject"
-                          placeholder="Subject*"
-                          type="text"
+                          name="contact"
+                          placeholder="Contact*"
+                          type="tel"
                         />
                       </div>
                       <div className="col-lg-12">

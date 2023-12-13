@@ -4,7 +4,7 @@ import LayoutOne from "../../layouts/LayoutOne";
 import HeroSliderTwentyFive from "../../wrappers/hero-slider/HeroSliderTwentyFive";
 import BannerTwentyFive from "../../wrappers/banner/BannerTwentyFive";
 import FeatureIconFive from "../../wrappers/feature-icon/FeatureIconFive";
- import BannerTwentySix from "../../wrappers/banner/BannerTwentySix";
+//  import BannerTwentySix from "../../wrappers/banner/BannerTwentySix";
 // import ProductSlider from "../../wrappers/product/ProductSlider";
 import MedicalContact from "../../components/contact/MedicalContact";
 import TabProductSixteen from "../../wrappers/product/TabProductSixteen";
@@ -34,7 +34,7 @@ const Home = () => {
          {/* contact */}
         <MedicalContact />
         {/* banner */}
-        <BannerTwentySix spaceBottomClass="pb-70" />
+        {/* <BannerTwentySix spaceBottomClass="pb-70" /> */}
          {/* product slider */}
          {/* <ProductSlider category="medical" /> */}
 
