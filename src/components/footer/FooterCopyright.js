@@ -6,7 +6,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
   return (
     <div className={clsx("copyright", spaceBottomClass, colorClass)}>
        <p>
-      By &#10084;&#65039; TechPlek Technologies
+      By &#10084;&#65039; My Digitick
       </p>
       <div className="footer-logo">
         <Link to={"/"}>
@@ -14,14 +14,8 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
         </Link>
       </div>
       <p>
-        &copy; {new Date().getFullYear()}{" "}
-        <a
-          href="https://hasthemes.com"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
+        {/* &copy; {new Date().getFullYear()}{" "} */}
           Apple Pharmed
-        </a>
         .<br /> All Rights Reserved
       </p>
      

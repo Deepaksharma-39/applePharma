@@ -9,8 +9,6 @@ import FeatureIconFive from "../../wrappers/feature-icon/FeatureIconFive";
 import MedicalContact from "../../components/contact/MedicalContact";
 import TabProductSixteen from "../../wrappers/product/TabProductSixteen";
 
-
-
 const Home = () => {
   return (
     <Fragment>
