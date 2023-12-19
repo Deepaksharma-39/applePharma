@@ -4,7 +4,7 @@ const MedicalContact = () => {
         className="medical-contact-area bg-img"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "/assets/img/bg/medicine-bg.jpg"
+            process.env.PUBLIC_URL
           })`
         }}
       >
@@ -12,8 +12,8 @@ const MedicalContact = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-5">
               <div className="medical-contact-text">
-                <h3>Please Call </h3>
-                <h2>Emergency Order</h2>
+                <h3>Need Immediate Help?</h3>
+                <h2>Contact Now!</h2>
               </div>
             </div>
             <div className="col-lg-6 col-md-7">
