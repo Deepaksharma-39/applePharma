@@ -302,7 +302,7 @@
       left: 15px;
     }
     &:hover {
-      color: $theme-color;
+      color: #ffff;
     }
     &.swiper-button-next {
       right: 80px;
@@ -750,13 +750,10 @@
 }
 
 
-
-
-
 /* home 3 */
 
 .slider-height-2 {
-  height: 800px;
+  height: 600px;
   @media #{$xl-layout} {
     height: 570px;
   }

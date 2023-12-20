@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { useEffect, useState } from "react";
 import clsx from "clsx";
-import HeaderTop from "../../components/header/HeaderTop";
+// import HeaderTop from "../../components/header/HeaderTop";
 import Logo from "./Logo";
 import IconGroup from "../../components/header/IconGroup";
 import MobileMenu from "../../components/header/MobileMenu";
@@ -42,7 +42,7 @@ const HeaderOne = ({
       >
         <div className={layout === "container-fluid" ? layout : "container"}>
           {/* header top */}
-          <HeaderTop borderStyle={borderStyle} />
+          {/* <HeaderTop borderStyle={borderStyle} /> */}
         </div>
       </div>
 

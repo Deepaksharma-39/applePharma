@@ -21,7 +21,7 @@ const BlogFeaturedSingle = ({ singlePost }) => {
       <div className="blog-content-wrap">
         <div className="blog-content text-center">
           <h3>
-            <Link to={process.env.PUBLIC_URL}>
+            <Link>
               {singlePost.title}
             </Link>
           </h3>

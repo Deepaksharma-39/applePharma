@@ -7,6 +7,7 @@ import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import { addToCart, decreaseQuantity, deleteFromCart, deleteAllFromCart } from "../../store/slices/cart-slice";
 import { cartItemStock } from "../../helpers/product";
+import Popup from "../../components/popup/Popup";
 
 const Cart = () => {
   let cartTotalPrice = 0;
@@ -17,6 +18,8 @@ const Cart = () => {
   
   const currency = useSelector((state) => state.currency);
   const { cartItems } = useSelector((state) => state.cart);
+
+  const [modalShow, setModalShow] = useState(false);
 
   return (
     <Fragment>
@@ -207,23 +210,30 @@ const Cart = () => {
                 <div className="row">
                   <div className="col-lg-12">
                     <div className="cart-shiping-update-wrapper">
-                      <div className="cart-shiping-update">
+                      {/* <div className="cart-shiping-update">
                         <Link
                           to={process.env.PUBLIC_URL + "/shop"}
                         >
                           Continue Shopping
                         </Link>
-                      </div>
+                      </div> */}
                       <div className="cart-clear">
                         <button onClick={() => dispatch(deleteAllFromCart())}>
                           Clear Shopping Cart
                         </button>
                       </div>
+                      <div className="cart-shiping-update">
+                        <Link
+                          onClick={()=>setModalShow(true)}
+                        >
+                          Buy Now
+                        </Link>
+                     </div>
                     </div>
                   </div>
                 </div>
 
-                <div className="row">
+                {/* <div className="row">
                   <div className="col-lg-4 col-md-6">
                     <div className="cart-tax">
                       <div className="title-wrap">
@@ -312,7 +322,7 @@ const Cart = () => {
                       </Link>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </Fragment>
             ) : (
               <div className="row">
@@ -332,6 +342,7 @@ const Cart = () => {
               </div>
             )}
           </div>
+          <Popup show={modalShow} onHide={()=>setModalShow(false)} />
         </div>
       </LayoutOne>
     </Fragment>
