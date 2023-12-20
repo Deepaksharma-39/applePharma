@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/blog/blog-10.jpg",
+    "image": "/assets/img/blog/medicinal-range.webp",
     "title": "Wide Medicinal Range"
   },
   {
     "id": 2,
-    "image": "/assets/img/blog/blog-11.jpg",
+    "image": "/assets/img/blog/cost-effcetive.webp",
     "title": "Cost-Effective Solutions"
   },
   {
     "id": 3,
-    "image": "/assets/img/blog/blog-12.jpg",
+    "image": "/assets/img/blog/customer.webp",
     "title": "Customer-Centric Focus"
   }
 ]

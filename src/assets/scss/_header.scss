@@ -189,7 +189,7 @@
 
               color: #333;
               &:hover {
-                color: $theme-color;
+                color: #00924c;
               }
               &::before {
                 position: absolute;
@@ -286,7 +286,7 @@
 
                   color: #333;
                   &:hover {
-                    color: $theme-color;
+                    color: #00924c;
                   }
                   &::before {
                     position: absolute;
@@ -373,7 +373,7 @@
           }
         }
         &:hover a {
-          color: $theme-color;
+          color: #00924c;
         }
       }
     }
@@ -406,7 +406,7 @@
 .stick .main-menu.menu-white nav ul li a {
   color: #555252;
   &:hover {
-    color: $theme-color;
+    color: #00924c;
   }
 }
 
@@ -545,7 +545,7 @@
             &:hover {
               padding-left: 5px;
 
-              color: $theme-color;
+              color: #00924c;
             }
           }
         }
@@ -699,7 +699,7 @@
 
                 color: #000;
                 &:hover {
-                  color: $theme-color;
+                  color: #00924c;
                 }
               }
             }
@@ -925,14 +925,14 @@
     > a {
       color: #000;
       &:hover {
-        color: $theme-color;
+        color: #00924c;
       }
     }
     &.cart-wrap {
       > button {
         color: #000;
         &:hover {
-          color: $theme-color;
+          color: #00924c;
         }
         span {
           &.count-style {
@@ -1095,7 +1095,7 @@
             border: none;
             background: none;
             &:hover {
-              color: $theme-color;
+              color: #00924c;
             }
           }
         }
@@ -1113,7 +1113,7 @@
     &:hover {
       & > a,
       span {
-        color: $theme-color;
+        color: #00924c;
       }
 
       .lang-car-dropdown {
@@ -1354,7 +1354,7 @@
 
               color: #333;
               &:hover {
-                color: $theme-color;
+                color: #00924c;
               }
               &::before {
                 position: absolute;
@@ -1462,7 +1462,7 @@
 
                   color: #333;
                   &:hover {
-                    color: $theme-color;
+                    color: #00924c;
                   }
                   &::before {
                     position: absolute;
@@ -1535,7 +1535,7 @@
           }
         }
         &:hover a {
-          color: $theme-color;
+          color: #00924c;
         }
       }
     }
@@ -1687,7 +1687,7 @@
 
           color: #000;
           &:hover {
-            color: $theme-color;
+            color: #00924c;
             background: transparent;
           }
         }
@@ -2104,7 +2104,7 @@
 
         a {
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
         }
 
@@ -2296,7 +2296,7 @@
 
         color: #111;
         &:hover {
-          color: $theme-color;
+          color: #00924c;
         }
 
         @media #{$sm-layout} {
@@ -2319,7 +2319,7 @@
 
           padding: 10px 0;
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
 
           @media #{$sm-layout} {
