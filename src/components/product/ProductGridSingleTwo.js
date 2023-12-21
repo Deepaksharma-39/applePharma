@@ -129,7 +129,7 @@ const ProductGridSingleTwo = ({
                 {product.name}
               </Link>
             </h3>
-            {/* <div className="price-2">
+            <div className="price-2">
               {discountedPrice !== null ? (
                 <Fragment>
                   <span>
@@ -142,7 +142,7 @@ const ProductGridSingleTwo = ({
               ) : (
                 <span>{currency.currencySymbol + finalProductPrice} </span>
               )}
-            </div> */}
+            </div>
           </div>
           <div className="pro-wishlist-2">
             <button

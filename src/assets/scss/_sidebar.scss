@@ -150,7 +150,7 @@
           &.active {
             span {
               color: #fff;
-              background-color: $theme-color;
+              background-color:#00924c;;
             }
             & > .checkmark {
               border-color: $theme-color;
@@ -206,7 +206,7 @@
           &:hover,
           &.active {
             color: #fff;
-            background-color: $theme-color;
+            background-color: #00924c;;
           }
         }
       }
@@ -247,7 +247,7 @@
       border-image: none;
       background: transparent none repeat scroll 0 0;
       &:hover {
-        color: $theme-color;
+        color:#00924c;;
       }
     }
   }

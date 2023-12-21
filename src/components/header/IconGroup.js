@@ -58,7 +58,7 @@ const IconGroup = ({ iconWhiteClass }) => {
             {cartItems && cartItems.length ? cartItems.length : 0}
           </span>
         </button>
-        {/* menu cart */}
+         {/* menu cart  */}
         <MenuCart />
       </div>
       <div className="same-style cart-wrap d-block d-lg-none">

@@ -18,7 +18,7 @@ const Compare = lazy(() => import("./pages/other/Compare"));
 
 const Wishlist = lazy(() => import("./pages/other/Wishlist"));
 
-// const Cart = lazy(() => import("./pages/other/Cart"));
+const Cart = lazy(() => import("./pages/other/Cart"));
 
 const TermsAndCondition = lazy(() => import("./pages/policy/TermsAndCondition"));
 
@@ -50,7 +50,7 @@ const App = () => {
             <Route path={"/shop/:id"} element={<Product />} />
             <Route path={"/compare"} element={<Compare />} />
             <Route path={"/wishlist"} element={<Wishlist />} />
-            {/* <Route path={"/cart"} element={<Cart />} /> */}
+            <Route path={"/cart"} element={<Cart />} />
             <Route path={"/terms-and-condition"} element={<TermsAndCondition />} />
             <Route path={"/return-policy"} element={<ReturnPolicy />} />
             <Route path={"/privacy-policy"} element={<PrivacyPolicy/>} />

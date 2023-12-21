@@ -5,7 +5,7 @@ import Nav from "react-bootstrap/Nav";
 
 const ProductDescriptionTab = ({
   spaceBottomClass,
-  productFullDesc,
+  // productFullDesc,
   product,
 }) => {
   return (

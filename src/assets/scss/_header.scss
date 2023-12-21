@@ -205,7 +205,7 @@
 
                 opacity: 0;
                 border-radius: 50%;
-                background: $theme-color none repeat scroll 0 0;
+                background: #00924c none repeat scroll 0 0;
               }
             }
             &:hover a::before {
@@ -302,7 +302,7 @@
 
                     opacity: 0;
                     border-radius: 50%;
-                    background: $theme-color none repeat scroll 0 0;
+                    background: #00924c none repeat scroll 0 0;
                   }
                 }
                 &.mega-menu-img {
@@ -485,7 +485,7 @@
     }
     &:hover > a,
     &:hover > button {
-      color: $theme-color;
+      color: #00924c;
     }
     .account-dropdown {
       position: absolute;
@@ -613,7 +613,7 @@
       }
     }
     &:hover > button {
-      color: $theme-color;
+      color: #00924c;
     }
     .shopping-cart-content {
       position: absolute;
@@ -720,7 +720,7 @@
             button {
               font-size: 16px;
 
-              color: $theme-color;
+              color: #00924c;
               &:hover {
                 color: #333;
               }
@@ -895,7 +895,7 @@
           color: #ffffff;
           border: none;
           border-color: #ce9634;
-          background: $theme-color;
+          background: #00924c;
           &:hover {
             background-color: #000;
           }
@@ -1370,7 +1370,7 @@
 
                 opacity: 0;
                 border-radius: 50%;
-                background: $theme-color none repeat scroll 0 0;
+                background: #00924c none repeat scroll 0 0;
               }
             }
             &:hover a::before {
@@ -1478,7 +1478,7 @@
 
                     opacity: 0;
                     border-radius: 50%;
-                    background: $theme-color none repeat scroll 0 0;
+                    background: #00924c none repeat scroll 0 0;
                   }
                 }
                 &.mega-menu-img {
@@ -1609,7 +1609,7 @@
     border: none;
     background: none;
     &:hover {
-      color: $theme-color;
+      color: #00924c;
     }
   }
   @media #{$md-layout} {
@@ -1664,7 +1664,7 @@
       border: medium none;
       background: transparent none repeat scroll 0 0;
       &:hover {
-        color: $theme-color;
+        color: #00924c;
       }
     }
   }
@@ -1769,7 +1769,7 @@
       border: none;
       background: none;
       &:hover {
-        color: $theme-color;
+        color:#00924c;
       }
     }
   }
@@ -1790,7 +1790,7 @@
       border: none;
       background: none;
       &:hover {
-        color: $theme-color;
+        color: #00924c;
       }
     }
     @media #{$md-layout} {
@@ -2412,7 +2412,7 @@
     }
 
     &:hover {
-      color: $theme-color;
+      color:#00924c;
     }
   }
 }
@@ -2505,7 +2505,7 @@
           font-size: 12px;
           &:hover,
           &.active {
-            color: $theme-color;
+            color: #00924c;
           }
         }
       }
