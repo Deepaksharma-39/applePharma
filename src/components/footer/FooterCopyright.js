@@ -15,7 +15,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
       </div>
       <p>
         {/* &copy; {new Date().getFullYear()}{" "} */}
-          Apple Pharmed
+          ApplePharmed
         .<br /> All Rights Reserved
       </p>
      

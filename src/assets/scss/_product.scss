@@ -89,8 +89,8 @@
       }
       &:hover {
         color: #fff;
-        border: 1px solid $theme-color;
-        background-color: $theme-color;
+        border: 1px solid #00924c;
+        background-color: #00924c;
       }
       &.swiper-button-prev {
         right: 40px;
@@ -147,11 +147,11 @@
 
       color: #555;
       &:hover {
-        color: #000;
+        color: #00924c;
       }
     }
     &.active h4 {
-      color: #000;
+      color: #00924c;
     }
   }
   &.product-tab-fruits {
@@ -273,7 +273,7 @@
           background-color: #fa6bff;
         }
         &.purple {
-          background-color: $theme-color;
+          background-color: #00924c;
         }
 
         &:last-child {
@@ -319,7 +319,7 @@
         transform: translateY(20px);
 
         opacity: 0;
-        background-color: $theme-color;
+        background-color: #00924c;
         // &:hover {
         //     background-color: #000;
         // }
@@ -363,7 +363,7 @@
           background: none;
           &:hover,
           &.active {
-            background-color: #000;
+            background-color: #00924c;
           }
         }
         &.pro-wishlist,
@@ -465,7 +465,7 @@
       opacity: 1;
       color: #333;
       &:hover {
-        color: $theme-color;
+        color: #00924c;
       }
     }
   }
@@ -567,9 +567,9 @@
       a {
         font-size: 15px;
 
-        color: $theme-color;
+        color: #00924c;
         &:hover {
-          color: #000;
+          color: #00924c;
         }
       }
     }
@@ -802,7 +802,7 @@
               background-color: #f1f2f6;
               &:hover {
                 color: #fff;
-                background-color: $theme-color;
+                background-color: #00924c;
               }
             }
           }
@@ -823,7 +823,7 @@
           background-color: #f1f2f6;
           &:hover {
             color: #fff;
-            background-color: $theme-color;
+            background-color: #00924c;
           }
           input {
             position: absolute;
@@ -839,7 +839,7 @@
             &:checked {
               & ~ .size-name {
                 color: $white;
-                background-color: $theme-color;
+                background-color: #00924c;
               }
             }
           }
@@ -975,7 +975,7 @@
         background: none;
         &:hover,
         &.active {
-          color: $theme-color;
+          color: #00924c;
         }
       }
     }
@@ -994,7 +994,7 @@
         }
         &:hover,
         &.active {
-          color: $theme-color;
+          color: #00924c;
         }
       }
     }
@@ -1023,7 +1023,7 @@
             font-size: 14px;
           }
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
         }
       }
@@ -1043,7 +1043,7 @@
 
           color: #343538;
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
         }
       }
@@ -1108,7 +1108,7 @@
 
     color: #333;
     &:hover {
-      color: $theme-color;
+      color: #00924c;
     }
     &.owl-next {
       right: 0;
@@ -1186,13 +1186,13 @@
       color: #555;
       border-bottom: 2px solid transparent;
       &:hover {
-        color: #000000;
+        color: #00924c;
       }
     }
     &.active {
       h4 {
-        color: #000000;
-        border-bottom: 2px solid #000000;
+        color:#00924c;
+        border-bottom: 2px solid #00924c;
       }
     }
   }
@@ -1210,7 +1210,7 @@
     background: none;
     &:hover,
     &.active {
-      color: $theme-color;
+      color: #00924c;
     }
     i {
       font-size: 14px;
@@ -1301,7 +1301,7 @@
           background: none;
           &:hover,
           &.active {
-            color: $theme-color;
+            color: #00924c;
           }
         }
       }
@@ -1319,7 +1319,7 @@
 
             border: 1px solid #e6e6e6;
             &:hover {
-              border-color: $theme-color;
+              border-color: #00924c;
             }
           }
         }
@@ -1427,7 +1427,7 @@
         color: #ff3d2a;
       }
       &.purple {
-        color: $theme-color;
+        color:#00924c;
       }
     }
     & .default-img {
@@ -1476,7 +1476,7 @@
         border: none;
         border-radius: 50px;
         background: none;
-        background-color: $theme-color;
+        background-color: #00924c;
         &:hover,
         &.active {
           background-color: #fa6bff;
@@ -1486,7 +1486,7 @@
         a {
           background-color: #df262b;
           &:hover {
-            background-color: $theme-color;
+            background-color: #00924c;
           }
         }
       }
@@ -1513,7 +1513,7 @@
           color: #fa6bff;
         }
         &.purple {
-          color: $theme-color;
+          color:#00924c;
         }
 
         &:last-child {
@@ -1537,7 +1537,7 @@
 
           color: #000000;
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
         }
       }
@@ -1581,7 +1581,7 @@
           a {
             color: #fff;
             &:hover {
-              color: $theme-color;
+              color: #00924c;;
             }
           }
         }
@@ -1611,7 +1611,7 @@
         background: none;
         &:hover,
         &.active {
-          color: $theme-color;
+          color: #00924c;;
         }
       }
     }
@@ -1645,7 +1645,7 @@
           background-color: #3d6882;
           &:hover,
           &.active {
-            color: #000;
+            color: #00924c;
             background-color: #fff;
           }
         }
@@ -1678,7 +1678,7 @@
         button {
           background-color: #de3e3e;
           &:hover {
-            color: #000;
+            color:#00924c;
             background-color: #fff;
           }
         }
@@ -1771,8 +1771,8 @@
     color: #555;
     border-bottom: 1px solid #cccccc;
     &:hover {
-      color: $theme-color;
-      border-bottom: 1px solid $theme-color;
+      color: #00924c;;
+      border-bottom: 1px solid #00924c;;
     }
   }
   @media #{$xs-layout} {
@@ -1797,7 +1797,7 @@
       background-color: #c61a32;
 
       &:hover {
-        background-color: $theme-color;
+        background-color: #00924c;;
       }
     }
   }
@@ -1861,7 +1861,7 @@
         color: #fff;
         border-radius: 3px;
         &.purple {
-          background-color: $theme-color;
+          background-color: #00924c;;
         }
         &.pink {
           background-color: #fa6bff;
@@ -2218,7 +2218,7 @@
 
         color: #000000;
         &:hover {
-          color: $theme-color;
+          color: #00924c;;
         }
       }
     }
@@ -2258,7 +2258,7 @@
 
       &:hover {
         color: $white;
-        border-color: $theme-color;
+        border-color:#00924c;
         background-color: transparent;
         &:after {
           right: auto;
@@ -2266,7 +2266,7 @@
 
           width: 100%;
 
-          background-color: $theme-color;
+          background-color: #00924c;;
         }
       }
     }
@@ -2304,7 +2304,7 @@
       color: #fff;
       border-radius: 3px;
       &.purple {
-        background-color: $theme-color;
+        background-color: #00924c;;
       }
       &.pink {
         background-color: #fa6bff;
@@ -2370,7 +2370,7 @@
       a {
         color: #000;
         &:hover {
-          color: $theme-color;
+          color: #00924c;;
         }
       }
     }
@@ -3268,7 +3268,7 @@
         background: none;
         &:hover,
         &.active {
-          color: $theme-color;
+          color: #00924c;
         }
       }
     }

@@ -58,7 +58,7 @@
         a {
           color: #404040;
           &:hover {
-            color: $theme-color;
+            color: #00924c;
           }
         }
         &:last-child {
@@ -68,7 +68,7 @@
     }
     &:hover .contact-icon i {
       color: #fff;
-      background-color: #252525;
+      background-color: #00924c;
     }
   }
 }
@@ -94,7 +94,7 @@
 
         color: #4d4d4d;
         &:hover {
-          color: $theme-color;
+          color:#00924c;
         }
       }
     }
@@ -155,7 +155,7 @@
       border: none;
       background-color: #404040;
       &:hover {
-        background-color: $theme-color;
+        background-color: #00924c;
       }
     }
   }

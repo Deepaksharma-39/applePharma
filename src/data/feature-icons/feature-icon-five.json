@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/icon-img/support-1.png",
+    "image": "/assets/img/icon-img/s1 (1).png",
     "title": "Speedy Shipping",
     "subtitle": "Fast, Timely Delivery"
   },
   {
     "id": 2,
-    "image": "/assets/img/icon-img/support-2.png",
+    "image": "/assets/img/icon-img/s1 (2).png",
     "title": "Online support",
     "subtitle": "24/7 Assistance"
   },
   {
     "id": 3,
-    "image": "/assets/img/icon-img/support-3.png",
+    "image": "/assets/img/icon-img/s1 (3).png",
     "title": "Quality Assurance",
     "subtitle": "Extensive Medicinal Range"
   }
