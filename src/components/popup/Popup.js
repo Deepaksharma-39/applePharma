@@ -1,4 +1,4 @@
-// import { useState } from "react";s
+import { useState } from "react";
 import { Modal } from "react-bootstrap";
 
 const Popup = ({ show, onHide }) => {
@@ -47,7 +47,7 @@ const Popup = ({ show, onHide }) => {
             <div className="col-lg-12">
               <p>
                 Hello! Fill this form and we will get back to you will all the
-                necessary details.
+                necessary Details
               </p>
               <button className="submit" type="submit">
                 SEND

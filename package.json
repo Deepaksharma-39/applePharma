@@ -17,6 +17,7 @@
     "dom-helpers": "^5.2.1",
     "google-map-react": "^2.2.1",
     "latest": "^0.2.0",
+    "netify": "^1.0.0",
     "netlify-cli": "^17.10.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",

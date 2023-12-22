@@ -27,7 +27,7 @@ const settings = {
   }
 };
 
-const ProductSlider = ({ spaceBottomClass, category }) => {
+const ProductSlider = ({ spaceBottomClass, category ,setModalShow}) => {
   const { products } = useSelector((state) => state.product);
   const currency = useSelector((state) => state.currency);
   const { cartItems } = useSelector((state) => state.cart);
@@ -66,6 +66,7 @@ const ProductSlider = ({ spaceBottomClass, category }) => {
                       (compareItem) => compareItem.id === product.id
                     )
                   }
+                  setModalShow1={setModalShow}
                 />
               </SwiperSlide>
             ))}
@@ -78,7 +79,8 @@ const ProductSlider = ({ spaceBottomClass, category }) => {
 
 ProductSlider.propTypes = {
   category: PropTypes.string,
-  spaceBottomClass: PropTypes.string
+  spaceBottomClass: PropTypes.string,
+  setModalShow:PropTypes.func
 };
 
 export default ProductSlider;

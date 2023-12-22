@@ -6,11 +6,11 @@ import { useDispatch, useSelector } from "react-redux";
 import Rating from "./sub-components/ProductRating";
 import Swiper, { SwiperSlide } from "../../components/swiper";
 import { getProductCartQuantity } from "../../helpers/product";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 
-function ProductModal({ product, currency, discountedPrice, finalProductPrice, finalDiscountedPrice, show, onHide, wishlistItem, compareItem }) {
+function ProductModal({setModalShow1, product, currency, discountedPrice, finalProductPrice, finalDiscountedPrice, show, onHide, wishlistItem, compareItem }) {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
   const dispatch = useDispatch();
   const { cartItems } = useSelector((state) => state.cart);
@@ -107,7 +107,7 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
         <div className="col-md-7 col-sm-12 col-xs-12">
           <div className="product-details-content quickview-content">
             <h2>{product.name}</h2>
-            <div className="product-details-price">
+            {/* <div className="product-details-price">
               {discountedPrice !== null ? (
                 <Fragment>
                   <span>
@@ -120,7 +120,7 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
               ) : (
                 <span>{currency.currencySymbol + finalProductPrice} </span>
               )}
-            </div>
+            </div> */}
             {product.rating && product.rating > 0 ? (
               <div className="pro-details-rating-wrap">
                 <div className="pro-details-rating">
@@ -257,18 +257,20 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
                 <div className="pro-details-cart btn-hover">
                   {productStock && productStock > 0 ? (
                     <button
-                      onClick={() =>
-                        dispatch(addToCart({
-                          ...product,
-                          quantity: quantityCount,
-                          selectedProductColor: selectedProductColor ? selectedProductColor : product.selectedProductColor ? product.selectedProductColor : null,
-                          selectedProductSize: selectedProductSize ? selectedProductSize : product.selectedProductSize ? product.selectedProductSize : null
-                        }))
-                      }
+                      // onClick={() =>
+                      //   dispatch(addToCart({
+                      //     ...product,
+                      //     quantity: quantityCount,
+                      //     selectedProductColor: selectedProductColor ? selectedProductColor : product.selectedProductColor ? product.selectedProductColor : null,
+                      //     selectedProductSize: selectedProductSize ? selectedProductSize : product.selectedProductSize ? product.selectedProductSize : null
+                      //   }))
+                      // }
                       disabled={productCartQty >= productStock}
+                      onClick={()=>setModalShow1(true)}
                     >
                       {" "}
-                      Add To Cart{" "}
+                      {/* Add To Cart{" "} */}
+                      Send Query{" "}
                     </button>
                   ) : (
                     <button disabled>Out of Stock</button>
@@ -321,7 +323,8 @@ ProductModal.propTypes = {
   product: PropTypes.shape({}),
   show: PropTypes.bool,
   wishlistItem: PropTypes.shape({}),
-  compareItem: PropTypes.shape({})
+  compareItem: PropTypes.shape({}),
+  setModalShow1:PropTypes.func
 };
 
 export default ProductModal;

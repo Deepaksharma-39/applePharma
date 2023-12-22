@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 import clsx from "clsx";
 import { getDiscountPrice } from "../../helpers/product";
 import ProductModal from "./ProductModal";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 
@@ -17,7 +17,7 @@ const ProductGridSingleTwo = ({
   compareItem,
   spaceBottomClass,
   colorClass,
-  titlePriceClass
+  titlePriceClass,setModalShow1
 }) => {
   const [modalShow, setModalShow] = useState(false);
   const discountedPrice = getDiscountPrice(product.price, product.discount);
@@ -80,7 +80,8 @@ const ProductGridSingleTwo = ({
               </Link>
             ) : product.stock && product.stock > 0 ? (
               <button
-                onClick={() => dispatch(addToCart(product))}
+                // onClick={() => dispatch(addToCart(product))}
+                onClick={()=>setModalShow1(true)}
                 className={
                   cartItem !== undefined && cartItem.quantity > 0
                     ? "active"
@@ -164,6 +165,7 @@ const ProductGridSingleTwo = ({
       <ProductModal
         show={modalShow}
         onHide={() => setModalShow(false)}
+        setModalShow1={setModalShow1}
         product={product}
         currency={currency}
         discountedPrice={discountedPrice}

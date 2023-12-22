@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import clsx from "clsx";
-import MenuCart from "./sub-components/MenuCart";
+// import MenuCart from "./sub-components/MenuCart";
 
 const IconGroup = ({ iconWhiteClass }) => {
   const handleClick = e => {
@@ -51,16 +51,16 @@ const IconGroup = ({ iconWhiteClass }) => {
           </span>
         </Link>
       </div>
-      <div className="same-style cart-wrap d-none d-lg-block">
+      {/* <div className="same-style cart-wrap d-none d-lg-block">
         <button className="icon-cart" onClick={e => handleClick(e)}>
           <i className="pe-7s-shopbag" />
           <span className="count-style">
             {cartItems && cartItems.length ? cartItems.length : 0}
           </span>
         </button>
-         {/* menu cart  */}
+         menu cart 
         <MenuCart />
-      </div>
+      </div> */}
       <div className="same-style cart-wrap d-block d-lg-none">
         <Link className="icon-cart" to={process.env.PUBLIC_URL + "/cart"}>
           <i className="pe-7s-shopbag" />
