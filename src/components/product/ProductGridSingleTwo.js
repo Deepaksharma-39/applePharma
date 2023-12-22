@@ -113,7 +113,7 @@ const ProductGridSingleTwo = ({
                   ? "Added to compare"
                   : "Add to compare"
               }
-              onClick={() => dispatch(addToCompare(product))}
+              // onClick={() => dispatch(addToCompare(product))}
             >
               <i className="fa fa-retweet"></i>
             </button>
@@ -154,9 +154,9 @@ const ProductGridSingleTwo = ({
                   ? "Added to wishlist"
                   : "Add to wishlist"
               }
-              onClick={() => dispatch(addToWishlist(product))}
+              // onClick={() => dispatch(addToWishlist(product))}
             >
-              <i className="fa fa-heart-o" />
+              {/* <i className="fa fa-heart-o" /> */}
             </button>
           </div>
         </div>

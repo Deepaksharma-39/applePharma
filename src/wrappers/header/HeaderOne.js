@@ -57,7 +57,7 @@ const HeaderOne = ({
           <div className="row">
             <div className="col-xl-2 col-lg-2 col-md-6 col-4">
               {/* header logo */}
-              <Logo imageUrl="/assets/img/logo/teracure.svg" logoClass="logo" />
+              <Logo imageUrl="/assets/img/logo/Untitled-1 (1).png" logoClass="logo" />
             </div>
             <div className="col-xl-8 col-lg-8 d-none d-lg-block">
               {/* Nav menu */}

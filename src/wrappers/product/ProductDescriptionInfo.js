@@ -211,7 +211,7 @@ const ProductDescriptionInfo = ({
                   ? "Added to wishlist"
                   : "Add to wishlist"
               }
-              onClick={() => dispatch(addToWishlist(product))}
+              // onClick={() => dispatch(addToWishlist(product))}
             >
               <i className="pe-7s-like" />
             </button>
@@ -225,7 +225,7 @@ const ProductDescriptionInfo = ({
                   ? "Added to compare"
                   : "Add to compare"
               }
-              onClick={() => dispatch(addToCompare(product))}
+              // onClick={() => dispatch(addToCompare(product))}
             >
               <i className="pe-7s-shuffle" />
             </button>
