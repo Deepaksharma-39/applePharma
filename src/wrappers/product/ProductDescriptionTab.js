@@ -5,7 +5,7 @@ import Nav from "react-bootstrap/Nav";
 
 const ProductDescriptionTab = ({
   spaceBottomClass,
-  // productFullDesc,
+  productFullDesc,
   product,
 }) => {
   return (
@@ -16,11 +16,11 @@ const ProductDescriptionTab = ({
             <Nav variant="pills" className="description-review-topbar">
               <Nav.Item>
                 <Nav.Link eventKey="additionalInfo">
-                  Additional Information
+                Description
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link eventKey="productDescription">Description</Nav.Link>
+                <Nav.Link eventKey="productDescription">Benefits</Nav.Link>
               </Nav.Item>
               <Nav.Item>
                 <Nav.Link eventKey="productReviews">Precautions</Nav.Link>
@@ -29,85 +29,50 @@ const ProductDescriptionTab = ({
             <Tab.Content className="description-review-bottom">
               <Tab.Pane eventKey="additionalInfo">
                 <div className="product-anotherinfo-wrapper">
-                  <ul>
-                    
-                    <li>
-                      <span>Class </span> {product.class}
-                    </li>
-                    <li>
-                      <span>Quantity</span> {product.quantity}
-                    </li>
-                    <li>
-                      {"Note: "}
-                      {product.note}
-                    </li>
-                  </ul>
+                <h3>Action</h3>
+                <ul>
+                  {product.fullDescription.map((action, index) => (
+                    <>
+                      <li key={index}>{action}</li>
+                    </>
+                  ))}
+                </ul>
+                <br />
+
+                <h3>Working</h3>
+                <ul>
+                {product.working.map((action, index) => (
+                  <>
+                    <li key={index}>{action}</li>
+                  </>
+                ))}
+                </ul>
                 </div>
               </Tab.Pane>
               <Tab.Pane eventKey="productDescription">
-              
-                <h3>Action</h3>
+
+                <h3>Benefits</h3>
                 <ul>
-                  {product.action.map((action, index) => (
-                    <>
-                      <li key={index}>{action}</li>
-                    </>
-                  ))}
-                </ul>
-                <br />
-                <h3>Compostion</h3>
-           
-           {product.composition.map((action, index) => (
-             <>
-               <li key={index}>{action}</li>
-             </>
-           ))}
-         
-             <br/>
-                <h3>Uses</h3>
-                <ul>
-                {product.uses.map((action, index) => (
+                {product.benefits.map((action, index) => (
                   <>
                     <li key={index}>{action}</li>
                   </>
                 ))}
                 </ul>
+                <br/>
                 <br />
-                <h3>Dosage & Administration</h3>
-                <ul>
-                {product.dosage.map((action, index) => (
-                  <>
-                    <li key={index}>{action}</li>
-                  </>
-                ))}
-                </ul>
               </Tab.Pane>
-              <Tab.Pane eventKey="productReviews">
-                
-              <h3>Instructions</h3>
-                
-                  {product.instruction.map((action, index) => (
-                    <>
-                      <li key={index}>{action}</li>
-                    </>
-                  ))}
-                
-                <br />
-                <h3>Side-Effects</h3>
-                {product.warning.map((action, index) => (
-                  <>
-                    <li key={index}>{action}</li>
-                  </>
-                ))}
-                <br />
-                <h3>Safety: Age / Pregnancy / Withdrawal</h3>
-              <ul>
-              {product.safety.map((action, index) => (
-                  <>
-                    <li key={index}>{action}</li>
-                  </>
-                ))}
-              </ul>
+                <Tab.Pane eventKey="productReviews">
+                <br/>
+                <h3>Side Effects</h3>
+                  <ul>
+                    {product.sideEffects.map((action, index) => (
+                      <>
+                        <li key={index}>{action}</li>
+                      </>
+                    ))}
+                  </ul>
+                  <br />
               
               </Tab.Pane>
             </Tab.Content>

@@ -32,7 +32,7 @@ const settings = {
 const RelatedProductSlider = ({ spaceBottomClass, category }) => {
   const { products } = useSelector((state) => state.product);
   const currency = useSelector((state) => state.currency);
-  // const { cartItems } = useSelector((state) => state.cart);
+  const { cartItems } = useSelector((state) => state.cart);
   const { wishlistItems } = useSelector((state) => state.wishlist);
   const { compareItems } = useSelector((state) => state.compare);
   const prods = getProducts(products, category, null, 6);
@@ -52,9 +52,9 @@ const RelatedProductSlider = ({ spaceBottomClass, category }) => {
                   <ProductGridSingle
                     product={product}
                     currency={currency}
-                    // cartItem={
-                    //   cartItems.find((cartItem) => cartItem.id === product.id)
-                    // }
+                    cartItem={
+                      cartItems.find((cartItem) => cartItem.id === product.id)
+                    }
                     wishlistItem={
                       wishlistItems.find(
                         (wishlistItem) => wishlistItem.id === product.id

@@ -13,23 +13,26 @@
     "image": [
       "/assets/img/product/medical/Testenate.jpg"
     ],
+    "fullDescription": ["Testenate Depot Injection is a testosterone hormone replacement therapy. It is to be used with caution in the elderly and those with prostate problems. Testenate Depot is not recommended in children below 3 years of age. ",
+    
+    "Testosterone is the male sex hormone responsible for the development of male reproductive organs (penis and testicles) and related sexual characteristics like the development of body and facial hear, deep voice, sexual drive. Testenate Depot is also important in the development of skeletal structure (bones and muscles). Some males who lack adequate quantities fail to have developed reproductive organs and secondary sexual characteristics."],
 
-    "fullDescription": "Testenate Depot Injection is a testosterone hormone replacement therapy. It is to be used with caution in the elderly and those with prostate problems. Testenate Depot is not recommended in children below 3 years of age. Testosterone is the male sex hormone responsible for the development of male reproductive organs (penis and testicles) and related sexual characteristics like the development of body and facial hear, deep voice, sexual drive. Testenate Depot is also important in the development of skeletal structure (bones and muscles). Some males who lack adequate quantities fail to have developed reproductive organs and secondary sexual characteristics.",
+    "benefits": [
+      "In Treatment of Male hypogonadism :",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone male sex hormone Testenate Depot 250 Injection injections help improve the level of testosterone in your body This helps in maintaining better sex life improve overall physical appearance gives good mood and boost overall confidence Testenate Depot 250 Injection also helps in muscle building and development of bones This treatment has few side effects so it is advisable to always take the injection under a doctor s supervision only You should continue taking it as long as it is prescribed even if you feel better."
+    ],
 
     "sideEffects": [
       "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
       "Common side effects of Testenate Depot Injection",
       "Acne",
-      "weight gain",
-      "breast enlargement",
-      "changes in voice", 
-      "pain at site of injection"
-    ],
-    "benefits": [
-      "In Treatment of Male hypogonadism Male hypogonadism is a condition in which the body does not produce enough testosterone male sex hormone Testenate Depot 250 Injection injections help improve the level of testosterone in your body This helps in maintaining better sex life improve overall physical appearance gives good mood and boost overall confidence Testenate Depot 250 Injection also helps in muscle building and development of bones This treatment has few side effects so it is advisable to always take the injection under a doctor s supervision only You should continue taking it as long as it is prescribed even if you feel better"
+      "Weight gain",
+      "Breast enlargement",
+      "Changes in voice", 
+      "Pain at site of injection"
     ],
   
-    "working": "Tastenate Depot 250 Injection is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    "working": ["Tastenate Depot 250 Injection is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."]
   },
   {
     "id": "2",
@@ -57,7 +60,7 @@
     
 
     "benefits": [
-      "In Treatment of Type 2 diabetes mellitus",
+      "In Treatment of Type 2 diabetes mellitus :",
       "Rybelsus 3mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
       
     ],
@@ -99,7 +102,7 @@
     "If these side effects or any other symptoms which you think are because of this medicine persist for a longer duration, please consult your doctor. Inform your doctor if you are pregnant or are suffering from any other disease. This medicine is not safe to use in breastfeeding mothers."
     ],
     "benefits": [
-      "In Treatment of Melasma",
+      "In Treatment of Melasma :",
       "Melasma is a common skin problem that causes dark, discolored patches on your skin. It is more commonly seen in females than males. Melacare Cream helps to lighten these dark patches of the skin usually caused by pregnancy, birth control pills, hormone medicine, or injury to the skin. It effectively blocks that process in the skin that leads to discoloration. Melacare Cream also reduces any redness, rash, pain or itchiness that may be caused in this condition.",
 
       "This improves your self-esteem and confidence as your appearance changes. You should always use it as prescribed and only apply the amount you have been told to. Keep using it for as long as it is prescribed to get the full benefits."
@@ -142,7 +145,7 @@
     "Before taking the medicine you should tell your doctor if you are pregnant, breastfeeding, or planning to become pregnant. Be careful while driving as sleepiness, dizziness, and blurring of vision may be seen as side effects. You should avoid drinking alcohol along with this medicine as it may lead to excessive sleepiness and dizziness."
     ],
     "benefits": [
-      "In Treatment of Neuropathic pain",
+      "In Treatment of Neuropathic pain :",
       "Nervigesic 300mg Capsule is used to treat long-lasting (chronic) pain caused by nerve damage due to diabetes, shingles, or spinal cord injury. It reduces pain and its associated symptoms such as mood changes, sleep problems, and tiredness. It is thought to work by interfering with pain signals that travel through the damaged nerves and the brain. Taking this medicine regularly will improve your physical and social functioning and overall quality of life. It takes a few weeks to work so you need to take it regularly even if you feel it is not doing any good. Once your symptoms have gone you should still keep taking the medicine until your doctor advises you to stop."
     ],
     "sideEffects": [
@@ -186,7 +189,7 @@
     "In addition to the above precautions for Finpecia, it is important to know that it is not safe while driving, and is not habit-forming."
     ],
     "benefits": [
-      "In Treatment of Hair loss",
+      "In Treatment of Hair loss :",
       "Finpecia Tablet is a medicine used to treat common hereditary hair loss. It prevents further hair loss and helps hair to regrow. It stops the production of a hormone that causes excessive hair fall or baldness and also increases hair growth. It is considered a safe medicine. Regrowth of hair can be beneficial to your mood, self-esteem as well as your appearance, but you need to use it regularly to get the benefits."
 
     ],
@@ -225,7 +228,7 @@
     "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect."
     ],
     "benefits": [
-      "In Ocular hypertension",
+      "In Ocular hypertension :",
       "Careprost Eye Drop belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
     ],
     "sideEffects": [
@@ -263,7 +266,7 @@
     "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, or stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
     ],
     "benefits": [
-      "In Treatment of Male hypogonadism",
+      "In Treatment of Male hypogonadism :",
       "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Gel injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Gel also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
 
     ],
@@ -306,7 +309,7 @@
 
     ],
     "benefits": [
-      "In Treatment of Acne",
+      "In Treatment of Acne :",
       "Tretin 0.025% Cream is a form of vitamin A. It helps treat acne by clearing skin pores and preventing spots or pimples from appearing. It usually takes several weeks to have a noticeable effect so keep using it even if it appears not to be working. Sometimes acne may get worse before it gets better, however, with proper use, your skin will get clearer. The earlier you start using it, the less likely you are to get scars. This medicine will help improve your mood and uplift your confidence as your skin becomes acne-free. It should not be used if you have eczema or sunburned skin."
     ],
     "sideEffects": [
@@ -354,7 +357,7 @@
 
     ],
     "benefits": [
-      "In Treatment and prevention of Blood clots",
+      "In Treatment and prevention of Blood clots :",
       "Formation of blood clots blocks one or more veins, usually in your legs. Apigat 5 Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
     ],
     "sideEffects": [
@@ -403,7 +406,7 @@
 
     ],
     "benefits": [
-      "In Treatment and prevention of Blood clots",
+      "In Treatment and prevention of Blood clots :",
       "Formation of blood clots blocks one or more veins, usually in your legs. Eliquis 2.5mg Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
     ],
     "sideEffects": [
@@ -450,7 +453,7 @@
 
     ],
     "benefits": [
-      "In Treatment and prevention of Blood clots",
+      "In Treatment and prevention of Blood clots :",
       "Formation of blood clots blocks one or more veins, usually in your legs. Eliquis 5mg Tablet is used to prevent formation of blood clots near the surface of your skin. It dissolves the clots and also relieves pain and inflammation by increasing the blood flow. This improves the overall healing process. Take it as prescribed by the doctor. The condition usually improves on its own in some time. Additionally, the doctor might recommend applying heat to the painful area, elevating the affected leg, using an over-the-counter painkiller and possibly wearing compression stockings."
     ],
     "sideEffects": [
@@ -495,7 +498,7 @@
 
     ],
     "benefits": [
-      "In Treatment of Erectile dysfunction",
+      "In Treatment of Erectile dysfunction :",
       "Kamagra-FX 100mg Oral Jelly Cola belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
       
       "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
@@ -546,7 +549,7 @@
 
     ],
     "benefits": [
-      "In Treatment of Erectile dysfunction",
+      "In Treatment of Erectile dysfunction :",
       "Vigore 100 Red Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
       "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
     ],
@@ -595,7 +598,7 @@
 
     ],
     "benefits": [
-      "In Treatment of Erectile dysfunction",
+      "In Treatment of Erectile dysfunction :",
       "Suhagra 100 Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
 
       "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
@@ -648,7 +651,7 @@
 
     ],
     "benefits": [
-      "In Treatment of Male hypogonadism",
+      "In Treatment of Male hypogonadism :",
       "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Soft Gelatin Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Soft Gelatin Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
 
     ],
@@ -692,7 +695,7 @@
       "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect. "
     ],
     "benefits": [
-      "In Ocular hypertension",
+      "In Ocular hypertension :",
       "Lumigan 0.03% Ophthalmic Solution belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
 
     ],
@@ -733,7 +736,7 @@
      "Before using Rybelsus 7mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
     ],
     "benefits": [
-      "In Treatment of Type 2 diabetes mellitus",
+      "In Treatment of Type 2 diabetes mellitus :",
       "Rybelsus 7mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
     ],
     "sideEffects": [
@@ -777,7 +780,7 @@
       "Before using Rybelsus 14mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
     ],
     "benefits": [
-      "In Treatment of Type 2 diabetes mellitus",
+      "In Treatment of Type 2 diabetes mellitus :",
       "Rybelsus 14mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
     ],
     "sideEffects": [
@@ -820,7 +823,7 @@
       "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, and stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
     ],
     "benefits": [
-      "In Treatment of Male hypogonadism",
+      "In Treatment of Male hypogonadism :",
       "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Testosterone Undecanoate 40mg Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Testosterone Undecanoate 40mg Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
     ],
 
