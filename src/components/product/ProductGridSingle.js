@@ -70,7 +70,7 @@ const ProductGridSingle = ({
                     ? "Added to wishlist"
                     : "Add to wishlist"
                 }
-                onClick={() => dispatch(addToWishlist(product))}
+                // onClick={() => dispatch(addToWishlist(product))}
               >
                 <i className="pe-7s-like" />
               </button>

@@ -61,7 +61,7 @@ const ProductGridListSingle = ({
           )}
 
           <div className="product-action">
-            <div className="pro-same-action pro-wishlist">
+            {/* <div className="pro-same-action pro-wishlist">
               <button
                 className={wishlistItem !== undefined ? "active" : ""}
                 disabled={wishlistItem !== undefined}
@@ -70,11 +70,11 @@ const ProductGridListSingle = ({
                     ? "Added to wishlist"
                     : "Add to wishlist"
                 }
-                onClick={() => dispatch(addToWishlist(product))}
+                // onClick={() => dispatch(addToWishlist(product))}
               >
                 <i className="pe-7s-like" />
               </button>
-            </div>
+            </div> */}
             <div className="pro-same-action pro-cart">
               {product.affiliateLink ? (
                 <a
@@ -266,7 +266,7 @@ const ProductGridListSingle = ({
                   )}
                 </div>
 
-                <div className="shop-list-wishlist ml-10">
+                {/* <div className="shop-list-wishlist ml-10">
                   <button
                     className={wishlistItem !== undefined ? "active" : ""}
                     disabled={wishlistItem !== undefined}
@@ -275,11 +275,11 @@ const ProductGridListSingle = ({
                         ? "Added to wishlist"
                         : "Add to wishlist"
                     }
-                    onClick={() => dispatch(addToWishlist(product))}
+                    // onClick={() => dispatch(addToWishlist(product))}
                   >
                     <i className="pe-7s-like" />
                   </button>
-                </div>
+                </div> */}
                 <div className="shop-list-compare ml-10">
                   <button
                     className={compareItem !== undefined ? "active" : ""}
@@ -289,7 +289,7 @@ const ProductGridListSingle = ({
                         ? "Added to compare"
                         : "Add to compare"
                     }
-                    onClick={() => dispatch(addToCompare(product))}
+                    // onClick={() => dispatch(addToCompare(product))}
                   >
                     <i className="pe-7s-shuffle" />
                   </button>

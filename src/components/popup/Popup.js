@@ -47,7 +47,7 @@ const Popup = ({ show, onHide }) => {
             <div className="col-lg-12">
               <p>
                 Hello! Fill this form and we will get back to you will all the
-                necessary Details
+                necessary details.
               </p>
               <button className="submit" type="submit">
                 SEND

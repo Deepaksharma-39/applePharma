@@ -285,7 +285,7 @@ function ProductModal({setModalShow1, product, currency, discountedPrice, finalP
                         ? "Added to wishlist"
                         : "Add to wishlist"
                     }
-                    onClick={() => dispatch(addToWishlist(product))}
+                    // onClick={() => dispatch(addToWishlist(product))}
                   >
                     <i className="pe-7s-like" />
                   </button>
@@ -299,7 +299,7 @@ function ProductModal({setModalShow1, product, currency, discountedPrice, finalP
                         ? "Added to compare"
                         : "Add to compare"
                     }
-                    onClick={() => dispatch(addToCompare(product))}
+                    // onClick={() => dispatch(addToCompare(product))}
                   >
                     <i className="pe-7s-shuffle" />
                   </button>

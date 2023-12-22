@@ -35,7 +35,7 @@ const FooterOne = ({
           >
             {/* footer copyright */}
             <FooterCopyright
-              footerLogo="/assets/img/logo/teracure.svg"
+              footerLogo="/assets/img/logo/Untitled-1 (1).png"
               spaceBottomClass="mb-30"
             />
           </div>
