@@ -9,7 +9,8 @@ const TabProductSixteen = ({
   spaceTopClass,
   spaceBottomClass,
   category,
-  productTabClass
+  productTabClass,
+  setModalShow
 }) => {
   return (
     <div className={clsx("product-area", spaceTopClass, spaceBottomClass)}>
@@ -50,6 +51,8 @@ const TabProductSixteen = ({
                   limit={8}
                   spaceBottomClass="mb-25"
                   colorClass="pro-puce-color"
+                  setModalShow={setModalShow}
+
                 />
               </div>
             </Tab.Pane>
@@ -61,6 +64,8 @@ const TabProductSixteen = ({
                   limit={8}
                   spaceBottomClass="mb-25"
                   colorClass="pro-puce-color"
+                  setModalShow={setModalShow}
+
                 />
               </div>
             </Tab.Pane>
@@ -72,6 +77,7 @@ const TabProductSixteen = ({
                   limit={8}
                   spaceBottomClass="mb-25"
                   colorClass="pro-puce-color"
+                  setModalShow={setModalShow}
                 />
               </div>
             </Tab.Pane>
@@ -86,7 +92,8 @@ TabProductSixteen.propTypes = {
   category: PropTypes.string,
   productTabClass: PropTypes.string,
   spaceBottomClass: PropTypes.string,
-  spaceTopClass: PropTypes.string
+  spaceTopClass: PropTypes.string,
+  setModalShow:PropTypes.func
 };
 
 export default TabProductSixteen;
