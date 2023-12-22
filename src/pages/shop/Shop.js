@@ -8,6 +8,7 @@ import BreadcrumbWrap from "../../wrappers/breadcrumb/Breadcrumb";
 import ShopTopbar from "../../wrappers/product/ShopTopbar";
 import ShopProducts from "../../wrappers/product/ShopProducts";
 import Paginator from "react-hooks-paginator"; 
+import Popup from "../../components/popup/Popup";
 
 
 const Shop = () => {
@@ -21,6 +22,7 @@ const Shop = () => {
   const [currentData, setCurrentData] = useState([]);
   const [sortedProducts, setSortedProducts] = useState([]);
   const { products } = useSelector((state) => state.product);
+  const [modalShow, setModalShow] = useState(false)
 
   const pageLimit = 15;
   let { pathname } = useLocation();
@@ -75,7 +77,7 @@ const Shop = () => {
                 />
 
                 {/* shop page content default */}
-                <ShopProducts layout={layout} products={currentData} />
+                <ShopProducts layout={layout} products={currentData} setModalShow={setModalShow} />
 
                 {/* shop product pagination */}
                 <div className="pro-pagination-style text-center mt-30">
@@ -95,6 +97,7 @@ const Shop = () => {
             </div>
           </div>
         </div>
+        <Popup show={modalShow} onHide={()=>setModalShow(false)} />
       </LayoutOne>
     </Fragment>
   );

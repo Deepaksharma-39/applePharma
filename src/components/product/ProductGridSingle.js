@@ -4,10 +4,11 @@ import clsx from "clsx";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { getDiscountPrice } from "../../helpers/product";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import ProductRating from "./sub-components/ProductRating";
 import ProductModal from "./ProductModal";
+import Popup from "../popup/Popup";
 
 const ProductGridSingle = ({
   product,
@@ -18,6 +19,7 @@ const ProductGridSingle = ({
   spaceBottomClass
 }) => {
   const [modalShow, setModalShow] = useState(false);
+  const [modalShow1, setModalShow1] = useState(false);
   const discountedPrice = getDiscountPrice(product.price, product.discount);
   const finalProductPrice = +(product.price * currency.currencyRate).toFixed(2);
   const finalDiscountedPrice = +(
@@ -89,7 +91,8 @@ const ProductGridSingle = ({
                 </Link>
               ) : product.stock && product.stock > 0 ? (
                 <button
-                  onClick={() => dispatch(addToCart(product))}
+                  // onClick={() => dispatch(addToCart(product))}
+                  onClick={()=>setModalShow1(true)}
                   className={
                     cartItem !== undefined && cartItem.quantity > 0
                       ? "active"
@@ -104,7 +107,8 @@ const ProductGridSingle = ({
                   <i className="pe-7s-cart"></i>{" "}
                   {cartItem !== undefined && cartItem.quantity > 0
                     ? "Added"
-                    : "Add to cart"}
+                    // : "Add to cart"}
+                    : "Send Query"}
                 </button>
               ) : (
                 <button disabled className="active">
@@ -132,7 +136,7 @@ const ProductGridSingle = ({
           ) : (
             ""
           )}
-          <div className="product-price">
+          {/* <div className="product-price">
             {discountedPrice !== null ? (
               <Fragment>
                 <span>{currency.currencySymbol + finalDiscountedPrice}</span>{" "}
@@ -143,11 +147,12 @@ const ProductGridSingle = ({
             ) : (
               <span>{currency.currencySymbol + finalProductPrice} </span>
             )}
-          </div>
+          </div> */}
         </div>
       </div>
       {/* product modal */}
       <ProductModal
+       setModalShow1={setModalShow1}
         show={modalShow}
         onHide={() => setModalShow(false)}
         product={product}
@@ -158,6 +163,7 @@ const ProductGridSingle = ({
         wishlistItem={wishlistItem}
         compareItem={compareItem}
       />
+      <Popup show={modalShow1} onHide={()=>setModalShow1(false)} />
     </Fragment>
   );
 };

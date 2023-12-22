@@ -5,6 +5,7 @@ import ProductGridListSingle from "../../components/product/ProductGridListSingl
 
 const ProductGridList = ({
   products,
+  setModalShow,
   spaceBottomClass
 }) => {
   const currency = useSelector((state) => state.currency);
@@ -18,6 +19,7 @@ const ProductGridList = ({
         return (
           <div className="col-xl-4 col-sm-6" key={product.id}>
             <ProductGridListSingle
+              setModalShow1={setModalShow}
               spaceBottomClass={spaceBottomClass}
               product={product}
               currency={currency}

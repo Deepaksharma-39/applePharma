@@ -11,7 +11,8 @@ const ProductGridTwo = ({
   titlePriceClass,
   category,
   type,
-  limit
+  limit,
+  setModalShow
 }) => {
   const { products } = useSelector((state) => state.product);
   const currency = useSelector((state) => state.currency);
@@ -44,6 +45,7 @@ const ProductGridTwo = ({
                 )
               }
               titlePriceClass={titlePriceClass}
+              setModalShow1={setModalShow}
             />
           </div>
         );
@@ -59,7 +61,8 @@ ProductGridTwo.propTypes = {
   titlePriceClass: PropTypes.string,
   category: PropTypes.string,
   type: PropTypes.string,
-  limit: PropTypes.number
+  limit: PropTypes.number,
+  setModalShow:PropTypes.func
 };
 
 export default ProductGridTwo;

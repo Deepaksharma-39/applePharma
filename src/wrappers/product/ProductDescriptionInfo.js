@@ -7,6 +7,7 @@ import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 import ProductRating from "../../components/product/sub-components/ProductRating";
+import Popup from "../../components/popup/Popup";
 
 const ProductDescriptionInfo = ({
   product,
@@ -37,7 +38,10 @@ const ProductDescriptionInfo = ({
     selectedProductSize
   );
 
+  const [modalShow, setModalShow] = useState(false)
+
   return (
+    <>
     <div className="product-details-content ml-70">
       <h2>{product.name}</h2>
       <div className="product-details-price">
@@ -179,18 +183,20 @@ const ProductDescriptionInfo = ({
           <div className="pro-details-cart btn-hover">
             {productStock && productStock > 0 ? (
               <button
-                onClick={() =>
-                  dispatch(addToCart({
-                    ...product,
-                    quantity: quantityCount,
-                    selectedProductColor: selectedProductColor ? selectedProductColor : product.selectedProductColor ? product.selectedProductColor : null,
-                    selectedProductSize: selectedProductSize ? selectedProductSize : product.selectedProductSize ? product.selectedProductSize : null
-                  }))
-                }
-                disabled={productCartQty >= productStock}
+                // onClick={() =>
+                //   dispatch(addToCart({
+                //     ...product,
+                //     quantity: quantityCount,
+                //     selectedProductColor: selectedProductColor ? selectedProductColor : product.selectedProductColor ? product.selectedProductColor : null,
+                //     selectedProductSize: selectedProductSize ? selectedProductSize : product.selectedProductSize ? product.selectedProductSize : null
+                //   }))
+                // }
+                // disabled={productCartQty >= productStock}
+                onClick={()=>setModalShow(true)}
               >
                 {" "}
-                Add To Cart{" "}
+                {/* Add To Cart{" "} */}
+                Send Query{" "}
               </button>
             ) : (
               <button disabled>Out of Stock</button>
@@ -293,6 +299,8 @@ const ProductDescriptionInfo = ({
         </ul>
       </div>
     </div>
+    <Popup show={modalShow} onHide={()=>setModalShow(false)} />
+    </>
   );
 };
 

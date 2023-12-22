@@ -6,7 +6,7 @@ import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 import Rating from "../../components/product/sub-components/ProductRating";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import { deleteFromCompare } from "../../store/slices/compare-slice";
 
 const Compare = () => {
@@ -85,7 +85,7 @@ const Compare = () => {
                                       {compareItem.name}
                                     </Link>
                                   </div>
-                                  <div className="compare-btn">
+                                  {/* <div className="compare-btn">
                                     {compareItem.affiliateLink ? (
                                       <a
                                         href={compareItem.affiliateLink}
@@ -134,7 +134,7 @@ const Compare = () => {
                                         Out of Stock
                                       </button>
                                     )}
-                                  </div>
+                                  </div> */}
                                 </td>
                               );
                             })}

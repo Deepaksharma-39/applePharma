@@ -5,7 +5,7 @@ import { getDiscountPrice } from "../../helpers/product";
 import SEO from "../../components/seo";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import { deleteFromWishlist, deleteAllFromWishlist } from "../../store/slices/wishlist-slice"
 
 const Wishlist = () => {
@@ -45,7 +45,7 @@ const Wishlist = () => {
                             <th>Image</th>
                             <th>Product Name</th>
                             <th>Unit Price</th>
-                            <th>Add To Cart</th>
+                            {/* <th>Add To Cart</th> */}
                             <th>action</th>
                           </tr>
                         </thead>
@@ -117,7 +117,7 @@ const Wishlist = () => {
                                   )}
                                 </td>
 
-                                <td className="product-wishlist-cart">
+                                {/* <td className="product-wishlist-cart">
                                   {wishlistItem.affiliateLink ? (
                                     <a
                                       href={wishlistItem.affiliateLink}
@@ -166,7 +166,7 @@ const Wishlist = () => {
                                       Out of stock
                                     </button>
                                   )}
-                                </td>
+                                </td> */}
 
                                 <td className="product-remove">
                                   <button

@@ -4,13 +4,14 @@ import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 import clsx from "clsx";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
-import { addToCart } from "../../store/slices/cart-slice";
+// import { addToCart } from "../../store/slices/cart-slice";
 import ProductRating from "./sub-components/ProductRating";
 import ProductModal from "./ProductModal";
 import { addToCompare } from "../../store/slices/compare-slice";
 import { getDiscountPrice } from "../../helpers/product";
 
 const ProductGridListSingle = ({
+  setModalShow1,
   product,
   currency,
   cartItem,
@@ -90,7 +91,8 @@ const ProductGridListSingle = ({
                 </Link>
               ) : product.stock && product.stock > 0 ? (
                 <button
-                  onClick={() => dispatch(addToCart(product))}
+                  // onClick={() => dispatch(addToCart(product))}
+                  onClick={()=>setModalShow1(true)}
                   className={
                     cartItem !== undefined && cartItem.quantity > 0
                       ? "active"
@@ -105,7 +107,8 @@ const ProductGridListSingle = ({
                   <i className="pe-7s-cart"></i>{" "}
                   {cartItem !== undefined && cartItem.quantity > 0
                     ? "Added"
-                    : "Add to cart"}
+                    // : "Add to cart"}
+                    : "Send Query"}
                 </button>
               ) : (
                 <button disabled className="active">
@@ -238,7 +241,8 @@ const ProductGridListSingle = ({
                     </Link>
                   ) : product.stock && product.stock > 0 ? (
                     <button
-                      onClick={() => dispatch(addToCart(product))}
+                      // onClick={() => dispatch(addToCart(product))}
+                      onClick={()=>setModalShow1(true)}
                       className={
                         cartItem !== undefined && cartItem.quantity > 0
                           ? "active"
@@ -297,6 +301,7 @@ const ProductGridListSingle = ({
       </div>
       {/* product modal */}
       <ProductModal
+       setModalShow1={setModalShow1}
         show={modalShow}
         onHide={() => setModalShow(false)}
         product={product}
@@ -317,6 +322,7 @@ ProductGridListSingle.propTypes = {
   currency: PropTypes.shape({}),
   product: PropTypes.shape({}),
   spaceBottomClass: PropTypes.string,
+  setModalShow1:PropTypes.func,
   wishlistItem: PropTypes.shape({}),
 };
 
