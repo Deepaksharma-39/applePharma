@@ -7,7 +7,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Injection"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -42,7 +42,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -87,7 +87,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Cream"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -128,7 +128,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Capsule"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -173,7 +173,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag":["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -214,7 +214,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Eye Drop"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -251,7 +251,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Gel"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -291,7 +291,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Cream"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -337,7 +337,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag":["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -385,7 +385,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag":["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -433,7 +433,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -480,7 +480,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Gel"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -531,7 +531,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -580,7 +580,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -633,7 +633,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Capsule"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -680,7 +680,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Eye Drop"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -717,7 +717,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -761,7 +761,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Tablet"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
@@ -806,7 +806,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Capsule"],
+    "category": ["medical"],
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [

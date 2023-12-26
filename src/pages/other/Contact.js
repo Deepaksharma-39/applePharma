@@ -1,4 +1,5 @@
-import { Fragment } from "react"; 
+import emailjs from "emailjs-com";
+import { Fragment, useState } from "react";
 import { useLocation } from "react-router-dom";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
@@ -8,6 +9,48 @@ import SEO from "../../components/seo";
 const Contact = () => {
   let { pathname } = useLocation();
 
+  const [mailData, setMailData] = useState({
+    name: "",
+    email: "",
+    phone:"",
+    message: "",
+  });
+  const { name, email,phone, message } = mailData;
+  const [error, setError] = useState(null);
+  const onChange = (e) =>
+    setMailData({ ...mailData, [e.target.name]: e.target.value });
+  const onSubmit = (e) => {
+    e.preventDefault();
+    if (name.length === 0 || email.length === 0 || message.length === 0|| phone.length===0) {
+      setError(true);
+      clearError();
+    } else {
+      // https://www.emailjs.com/
+      emailjs
+        .send(
+          "service_4c5hf25", // service id
+          "template_ljavq66", // template id
+          mailData,
+          "qpiPGqQjiX7IyNKKZ" // public api
+        )
+        .then(
+          (response) => {
+            setError(false);
+            clearError();
+            setMailData({ name: "", email: "", message: "",phone:"" });
+          },
+          (err) => {
+            console.log(err.text);
+          }
+        );
+    }
+  };
+  const clearError = () => {
+    setTimeout(() => {
+      setError(null);
+    }, 2000);
+  };
+
   return (
     <Fragment>
       <SEO
@@ -16,11 +59,11 @@ const Contact = () => {
       />
       <LayoutOne headerTop="visible">
         {/* breadcrumb */}
-        <Breadcrumb 
+        <Breadcrumb
           pages={[
-            {label: "Home", path: process.env.PUBLIC_URL + "/" },
-            {label: "Contact", path: process.env.PUBLIC_URL + pathname }
-          ]} 
+            { label: "Home", path: process.env.PUBLIC_URL + "/" },
+            { label: "Contact", path: process.env.PUBLIC_URL + pathname },
+          ]}
         />
         <div className="contact-area pt-100 pb-100">
           <div className="container">
@@ -103,26 +146,59 @@ const Contact = () => {
                   <div className="contact-title mb-30">
                     <h2>Connect With Us Today!</h2>
                   </div>
-                  <form className="contact-form-style">
+                  <form
+                    className="contact-form-style"
+                    autoComplete="off"
+                    onSubmit={(e) => onSubmit(e)}
+                  >
+                    <div
+                      className="returnmessage"
+                      data-success="Your message has been received, We will contact you soon."
+                    />
+                    <div
+                      className={error ? "empty_notice" : "returnmessage"}
+                      style={{ display: error == null ? "none" : "block" }}
+                    >
+                      <span>
+                        {error
+                          ? "Please Fill Required Fields"
+                          : "Your message has been received, We will contact you soon."}
+                      </span>
+                    </div>
                     <div className="row">
                       <div className="col-lg-6">
-                        <input name="name" placeholder="Name*" type="text" />
+                        <input
+                          name="name"
+                          placeholder="Name*"
+                          type="text"
+                          onChange={(e) => onChange(e)}
+                          value={name}
+                        />
                       </div>
                       <div className="col-lg-6">
-                        <input name="email" placeholder="Email*" type="email" />
+                        <input
+                          name="email"
+                          placeholder="Email*"
+                          type="email"
+                          onChange={(e) => onChange(e)}
+                          value={email}
+                        />
                       </div>
                       <div className="col-lg-12">
                         <input
-                          name="contact"
+                          name="phone"
                           placeholder="Contact*"
-                          type="tel"
+                          type="Number"
+                          onChange={(e) => onChange(e)}
+                          value={phone}
                         />
                       </div>
                       <div className="col-lg-12">
                         <textarea
                           name="message"
                           placeholder="Your Message*"
-                          defaultValue={""}
+                           onChange={(e) => onChange(e)}
+                        value={message}
                         />
                         <button className="submit" type="submit">
                           SEND

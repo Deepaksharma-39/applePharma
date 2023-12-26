@@ -12,7 +12,7 @@ const MobileWidgets = () => {
               </li>
               <li>
                 <i className="fa fa-envelope"></i>{" "}
-                <a href="mailto:info@yourdomain.com">saimedilink@gmail.com</a>
+                <a href="mailto:info@yourdomain.com">contact@applepharmed.com</a>
               </li>
             </ul>
           </div>

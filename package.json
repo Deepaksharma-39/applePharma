@@ -16,6 +16,8 @@
     "clsx": "^2.0.0",
     "cogo-toast": "https://github.com/hasanm95/cogo-toast",
     "dom-helpers": "^5.2.1",
+    "emailjs": "^4.0.3",
+    "emailjs-com": "^3.2.0",
     "google-map-react": "^2.2.1",
     "latest": "^0.2.0",
     "netify": "^1.0.0",

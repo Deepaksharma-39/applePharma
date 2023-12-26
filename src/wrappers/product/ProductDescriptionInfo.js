@@ -44,7 +44,7 @@ const ProductDescriptionInfo = ({
     <>
     <div className="product-details-content ml-70">
       <h2>{product.name}</h2>
-      <div className="product-details-price">
+      {/* <div className="product-details-price">
         {discountedPrice !== null ? (
           <Fragment>
             <span>{currency.currencySymbol + finalDiscountedPrice}</span>{" "}
@@ -55,7 +55,7 @@ const ProductDescriptionInfo = ({
         ) : (
           <span>{currency.currencySymbol + finalProductPrice} </span>
         )}
-      </div>
+      </div> */}
       {product.rating && product.rating > 0 ? (
         <div className="pro-details-rating-wrap">
           <div className="pro-details-rating">
