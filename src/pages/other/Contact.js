@@ -8,6 +8,7 @@ import SEO from "../../components/seo";
 
 const Contact = () => {
   let { pathname } = useLocation();
+  console.log(mailData)
 
   const [mailData, setMailData] = useState({
     name: "",
@@ -28,10 +29,10 @@ const Contact = () => {
       // https://www.emailjs.com/
       emailjs
         .send(
-          "service_4c5hf25", // service id
-          "template_ljavq66", // template id
+          "", // service id
+          "", // template id
           mailData,
-          "qpiPGqQjiX7IyNKKZ" // public api
+          "" // public api
         )
         .then(
           (response) => {
@@ -79,7 +80,7 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>+91 9999 6678 03</p>
-                      {/* <p>+012 345 678 102</p> */}
+                      <p>+91 8178 3070 47</p>
                     </div>
                   </div>
                   <div className="single-contact-info">

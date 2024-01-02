@@ -115,7 +115,7 @@ const ProductGridSingleTwelve = ({
                         }
                         // onClick={() => dispatch(addToCompare(product))}
                     >
-                        <i className="fa fa-retweet"></i>
+                        {/* <i className="fa fa-retweet"></i> */}
                     </button>
                     </div>
                 </div>
