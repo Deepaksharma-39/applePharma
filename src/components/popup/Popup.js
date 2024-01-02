@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Modal } from "react-bootstrap";
+import emailjs from "emailjs-com";
 
 const Popup = ({ show, onHide }) => {
   //   const [modalShow, setModalShow] = useState(false);
@@ -7,6 +8,48 @@ const Popup = ({ show, onHide }) => {
 
   const onCloseModal = () => {
     onHide();
+  };
+
+  const [mailData, setMailData] = useState({
+    name: "",
+    email: "",
+    phone:"",
+    message: "",
+  });
+  const { name, email,phone, message } = mailData;
+  const [error, setError] = useState(null);
+  const onChange = (e) =>
+    setMailData({ ...mailData, [e.target.name]: e.target.value });
+  const onSubmit = (e) => {
+    e.preventDefault();
+    if (name.length === 0 || email.length === 0 || message.length === 0|| phone.length===0) {
+      setError(true);
+      clearError();
+    } else {
+      // https://www.emailjs.com/
+      emailjs
+        .send(
+          "", // service id
+          "", // template id
+          mailData,
+          "" // public api
+        )
+        .then(
+          (response) => {
+            setError(false);
+            clearError();
+            setMailData({ name: "", email: "", message: "",phone:"" });
+          },
+          (err) => {
+            console.log(err.text);
+          }
+        );
+    }
+  };
+  const clearError = () => {
+    setTimeout(() => {
+      setError(null);
+    }, 2000);
   };
 
   return (
@@ -20,27 +63,47 @@ const Popup = ({ show, onHide }) => {
         <div className="contact-title mb-30">
           <h2>Product Enquiry Form </h2>
         </div>
-        <form className="contact-form-style">
-          <div className="row">
+        <form className="contact-form-style" 
+                    autoComplete="off"
+                    onSubmit={(e) => onSubmit(e)}>
+                   <div
+                      className="returnmessage"
+                      data-success="Your message has been received, We will contact you soon."
+                    />
+                    <div
+                      className={error ? "empty_notice" : "returnmessage"}
+                      style={{ display: error == null ? "none" : "block" }}
+                    >
+                      <span>
+                        {error
+                          ? "Please Fill Required Fields"
+                          : "Your message has been received, We will contact you soon."}
+                      </span>
+                    </div>
+           <div className="row">
             <div className="col-lg-6">
-              <input name="name" placeholder="Name*" type="text" required />
+              <input name="name" placeholder="Name*" type="text"  onChange={(e) => onChange(e)}  value={name} required />
             </div>
             <div className="col-lg-6">
-              <input name="email" placeholder="Email*" type="email" required />
+              <input name="email" placeholder="Email*" type="email"  onChange={(e) => onChange(e)} value={email} required />
             </div>
             <div className="col-lg-6">
               <input
-                name="number"
+                name="phone"
                 placeholder="Phone*"
                 type="number"
+                onChange={(e) => onChange(e)}
+                value={phone}
                 required
               />
             </div>
             <div className="col-lg-6">
               <input
-                name="pincode"
+                name="message"
                 placeholder="Pincode*"
                 type="number"
+                onChange={(e) => onChange(e)}
+                value={message}
                 required
               />
             </div>

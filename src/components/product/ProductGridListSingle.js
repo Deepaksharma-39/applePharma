@@ -291,7 +291,7 @@ const ProductGridListSingle = ({
                     }
                     // onClick={() => dispatch(addToCompare(product))}
                   >
-                    <i className="pe-7s-shuffle" />
+                    {/* <i className="pe-7s-shuffle" /> */}
                   </button>
                 </div>
               </div>

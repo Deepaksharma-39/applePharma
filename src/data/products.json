@@ -2,7 +2,7 @@
   {
     "id": "1",
     "sku": "asdf239",
-    "name": "TESTENATE DEPOT INJECTION",
+    "name": "APIGAT 2.5MG TABLETS",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -11,326 +11,30 @@
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/Testenate.jpg"
+      "/assets/img/product/medical/APIGAT 2.5MG.png"
     ],
-    "fullDescription": ["Testenate Depot Injection is a testosterone hormone replacement therapy. It is to be used with caution in the elderly and those with prostate problems. Testenate Depot is not recommended in children below 3 years of age. ",
     
-    "Testosterone is the male sex hormone responsible for the development of male reproductive organs (penis and testicles) and related sexual characteristics like the development of body and facial hear, deep voice, sexual drive. Testenate Depot is also important in the development of skeletal structure (bones and muscles). Some males who lack adequate quantities fail to have developed reproductive organs and secondary sexual characteristics."],
-
+    "fullDescription": [
+      "Apigat 2.5mg Tablet contains Apixaban, an anticoagulant medication known for its role in preventing blood clot formation in various conditions affecting adults. It is particularly beneficial in preventing blood clots after hip or knee replacement surgeries, managing blood clots in the legs (deep vein thrombosis), clots in the lungs' veins (pulmonary embolism), and averting their recurrence in these areas."
+    ],
     "benefits": [
-      "In Treatment of Male hypogonadism :",
-      "Male hypogonadism is a condition in which the body does not produce enough testosterone male sex hormone Testenate Depot 250 Injection injections help improve the level of testosterone in your body This helps in maintaining better sex life improve overall physical appearance gives good mood and boost overall confidence Testenate Depot 250 Injection also helps in muscle building and development of bones This treatment has few side effects so it is advisable to always take the injection under a doctor s supervision only You should continue taking it as long as it is prescribed even if you feel better."
+      "Blood Clot Treatment: Addresses blood clots in the veins of the legs.",
+      "Preventative Measures: Guards against blood clot formation in patients with irregular heartbeats, post-hip or knee replacement surgery, and prevents recurrence of clots in the legs or lungs."
     ],
 
     "sideEffects": [
       "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Testenate Depot Injection",
-      "Acne",
-      "Weight gain",
-      "Breast enlargement",
-      "Changes in voice", 
-      "Pain at site of injection"
-    ],
-  
-    "working": ["Tastenate Depot 250 Injection is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."]
+      "Common side effects of Apigat 2.5mg",
+      "Common Side Effects: Bruising and swelling, anaemia leading to tiredness or paleness, Low blood pressure, possibly causing fainting or rapid heartbeat, Nausea.",
+      "Less Common Side Effects: Bright/red blood in stools, post-operative bleeding, including bruising and swelling, skin rash, itching, or hair loss."  
+      ],
+    "working": [
+     "Apigat 2.5mg Tablet impedes blood clot formation by intervening in the body's clotting mechanism. It acts by blocking clotting factor Xa, a pivotal element in the clotting process."
+    ]
   },
+
   {
     "id": "2",
-    "sku": "asdf239",
-    "name": "RYBELSUS 3MG TABLETS",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Rybelsus 3MG.jpg"
-    ],
-    "fullDescription": ["Rybelsus 3mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
-
-    "Rybelsus 3mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
-    
-    "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
-    
-    "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
-    
-    "Before using Rybelsus 3mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."],
-    
-
-    "benefits": [
-      "In Treatment of Type 2 diabetes mellitus :",
-      "Rybelsus 3mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
-      
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Rybelsus",
-      "Vomiting",
-      "Nausea",
-      "Diarrhea",
-      "Abdominal pain",
-      "Constipation",
-      "Decreased appetite"
-    ],
-    
-    "working": [
-    "Rybelsus 3mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
-    ]
-  },
-  {
-    "id": "3",
-    "sku": "asdf239",
-    "name": "MELACARE CREAM",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Melacare.jpg"
-    ],
-    "fullDescription": ["Melacare Cream is a prescription medicine used in the treatment of melasma. It helps in quick skin renewal. It provides relief from redness, swelling, and itching.",
-
-    "Melacare Cream should be used in the dose and duration as advised by your doctor. Wash your hands before using this medicine. It is advised to check the label for directions before use. It is for external use only.",
-    
-    "Do not use this medicine more than the recommended dose. Inform your doctor if you have known allergies from this medicine. The common side effects of this medicine include burning, irritation, itchiness, and redness at the application site.",
-    
-    "If these side effects or any other symptoms which you think are because of this medicine persist for a longer duration, please consult your doctor. Inform your doctor if you are pregnant or are suffering from any other disease. This medicine is not safe to use in breastfeeding mothers."
-    ],
-    "benefits": [
-      "In Treatment of Melasma :",
-      "Melasma is a common skin problem that causes dark, discolored patches on your skin. It is more commonly seen in females than males. Melacare Cream helps to lighten these dark patches of the skin usually caused by pregnancy, birth control pills, hormone medicine, or injury to the skin. It effectively blocks that process in the skin that leads to discoloration. Melacare Cream also reduces any redness, rash, pain or itchiness that may be caused in this condition.",
-
-      "This improves your self-esteem and confidence as your appearance changes. You should always use it as prescribed and only apply the amount you have been told to. Keep using it for as long as it is prescribed to get the full benefits."
-
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Melacare",
-      "Application site reactions (burning, irritation, itching and redness)"
-      
-    ],
-    
-    "working": [
-      "Melacare Cream is a combination of three medicines: Hydroquinone, Mometasone and Tretinoinoin, which treats melasma (dark spots on skin). Hydroquinone is a skin lightening medicine. It reduces the amount of a skin pigment (melanin) that causes darkening of skin. This effect is reversible. Mometasone is a steroid which blocks the production of certain chemical messengers (prostaglandins) that make the skin red, swollen and itchy. Tretinoinoin is a form of vitamin A that helps the skin to renew itself more quickly."
-    ]
-   
-  },
-  {
-    "id": "4",
-    "sku": "asdf239",
-    "name": "NERVIGESIC 300MG CAPSULES",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Nervigesic 300mg.jpg"
-    ],
-    "fullDescription": ["Nervigesic 300mg Capsule is a medicine used to relieve pain caused by nerve damage (neuropathic pain) due to diabetes, shingles (herpes zoster infection), spinal cord injury, or other conditions. It is also used to treat widespread muscle pain and stiffness in people with fibromyalgia.",
-
-    "Nervigesic 300mg Capsule belongs to the anti-epileptic group of medicines and can also be used to treat certain types of seizures (fits) in combination with other medicines. Additionally, it may also be prescribed to treat the symptoms of anxiety disorder if other medicines are not suitable.",
-    
-    "You can take Nervigesic 300mg Capsule with or without food, but it is important to take this medicine at the same time each day to get the most benefit. The exact dose and duration of treatment will depend on your condition and how you respond to it. Your doctor will probably start this medicine at a low dose and increase it gradually. It may take a few weeks for the medicine to work properly. Follow your doctor’s instructions and continue taking it regularly until your doctor advises you to stop. Do not miss any dose, otherwise, your condition may worsen.",
-    
-    "The side effects of this medicine are usually mild and go away by themselves. The most common ones are feeling sleepy or dizzy, dryness in the mouth, blurred vision, weight gain, edema (swelling over the whole body), and difficulty in concentrating. Most side effects are not serious and do not need medical attention. Talk to your doctor about potential side effects and ways in which you might prevent or cope with them.",
-    
-    "Before taking the medicine you should tell your doctor if you are pregnant, breastfeeding, or planning to become pregnant. Be careful while driving as sleepiness, dizziness, and blurring of vision may be seen as side effects. You should avoid drinking alcohol along with this medicine as it may lead to excessive sleepiness and dizziness."
-    ],
-    "benefits": [
-      "In Treatment of Neuropathic pain :",
-      "Nervigesic 300mg Capsule is used to treat long-lasting (chronic) pain caused by nerve damage due to diabetes, shingles, or spinal cord injury. It reduces pain and its associated symptoms such as mood changes, sleep problems, and tiredness. It is thought to work by interfering with pain signals that travel through the damaged nerves and the brain. Taking this medicine regularly will improve your physical and social functioning and overall quality of life. It takes a few weeks to work so you need to take it regularly even if you feel it is not doing any good. Once your symptoms have gone you should still keep taking the medicine until your doctor advises you to stop."
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Nervigesic",
-      "Blurred vision",
-      "Difficulty in paying attention",
-      "Dizziness",
-      "Dryness in mouth",
-      "Edema (swelling)",
-      "Sleepiness",
-      "Weight gain" 
-    ],
-    
-    "working": [
-     "Nervigesic 300mg Capsule is an antiepileptic medication. When given for epilepsy, it is believed to work by reducing the abnormal electrical activity in the brain, thus preventing seizures. It is also used to treat nerve and muscle pain where it blocks pain by interfering with pain signals traveling through the damaged nerves and the brain."
-    ]
-    
-  },
-  {
-    "id": "5",
-    "sku": "asdf239",
-    "name": "FINPECIA TABLETS",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag":["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Finpecia.jpg"
-    ],
-
-    "fullDescription": ["Finpecia, a prescription drug, is manufactured in various forms such as Tablet. Enlarged Prostate are some of its major therapeutic uses. Other than this, Finpecia has some other therapeutic uses, which have been discussed ahead.",
-    "The correct dosage of Finpecia depends on the patient's age, gender, and medical history. Besides the medical condition it is advised for, the route of administration also plays an important role in determining the correct drug dosage. This information has been provided in detail in the dosage section.",
-    "The most common side effects of Finpecia are Dizziness, Fainting, Chills. Apart from the aforementioned side effects, Finpecia can also lead to other problems, which have been listed below. Usually, these side effects of Finpecia go away soon, and do not persist beyond the duration of the treatment. However, if these continue for a longer time, consult your doctor right away.",
-    "In addition, Finpecia's effect is Severe during pregnancy and Unknown for lactating mothers. Warnings related to Finpecia's effects on the liver, heart and kidney, if any, have been listed below.",
-    "Other contraindications of Finpecia have been discussed in the sections ahead.",
-    "Additionally, Finpecia may also adversely react with other medicines. Refer to the list below for further details.",
-    "In addition to the above precautions for Finpecia, it is important to know that it is not safe while driving, and is not habit-forming."
-    ],
-    "benefits": [
-      "In Treatment of Hair loss :",
-      "Finpecia Tablet is a medicine used to treat common hereditary hair loss. It prevents further hair loss and helps hair to regrow. It stops the production of a hormone that causes excessive hair fall or baldness and also increases hair growth. It is considered a safe medicine. Regrowth of hair can be beneficial to your mood, self-esteem as well as your appearance, but you need to use it regularly to get the benefits."
-
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Finpecia",
-      "Decreased libido",
-      "Erectile dysfunction",
-      "Ejaculation disorder"
-    ],
-    
-    "working": [
-   "Finpecia Tablet is a 5-alpha reductase inhibitor. It blocks the body's production of a male hormone in the scalp that stops hair growth, thereby reversing the balding process and preventing further hair loss."
-    ]
-    
-  },
-  {
-    "id": "6",
-    "sku": "asdf239",
-    "name": "CAREPROST EYE DROP",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Careprost.jpg"
-    ],
-    
-    "fullDescription": ["Careprost Eye Drop is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
-
-    "Careprost Eye Drop is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
-    
-    "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect."
-    ],
-    "benefits": [
-      "In Ocular hypertension :",
-      "Careprost Eye Drop belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Careprost",
-      "Conjunctival hyperemia",
-      "Eye itching"
-    ],
-    
-    "working": [
-   "Careprost Eye Drop is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
-    ]
-
-  },
-  {
-    "id": "7",
-    "sku": "asdf239",
-    "name": "CERNOS GEL",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Cernos Gel.jpg"
-    ],
-    "fullDescription": ["Cernos Gel is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
-
-    "Cernos Gel is for external use only. It should be applied on arms and shoulder once a day, preferably at the same time every day. It should be used as your doctor's advice. You should use this medicine for as long as it is prescribed for you. Do not use the gel too often and avoid applying it over the genital area.",
-    
-    "The most common side effects of this medicine include acne and application site reactions (burning, irritation, itching, and redness). If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
-    
-    "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, or stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
-    ],
-    "benefits": [
-      "In Treatment of Male hypogonadism :",
-      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Gel injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Gel also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
-
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Cernos",
-      "Injection site reactions (pain, swelling, redness)",
-      "Acne",
-      "Voice change",
-      "Breast enlargement in male"
-    ],
-    
-    "working": [
-      "Cernos Gel is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
-    ]
-  },
-  {
-    "id": "8",
-    "sku": "asdf239",
-    "name": "TRETINOIN CREAM",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Tretinoinoin Cream.jpg"
-    ],
-
-    "fullDescription": [
-      "Tretinoin  Cream is a form of vitamin A that is used to treat acne which appears as spots or pimples on your face, chest, or back. It also helps to smooth rough facial skin and to reduce fine wrinkles on the skin.",
-
-      "Tretinoin  Cream reduces excessive oil production of the skin. Ideally, a pinpoint application at nighttime is recommended for the duration prescribed by your doctor. The amount you need and for how long you need to take it will depend on what you are being treated for. You should normally wash and dry the affected area before applying a thin layer of this medicine. Follow your doctor’s instructions. You should not apply it to damaged or broken skin and avoid contact with your mouth, eyes, and nose. It may take several weeks for your symptoms to improve but keep using it regularly to get the most benefit. Consult your doctor again if you do not notice any improvement after a few weeks. Using more medicine or applying it more often than prescribed will not make it work any faster and may increase the side effects.",
-
-      "The most common side effects include irritation, dryness, and redness of the skin. They are usually mild and improve as your body gets used to the medicine. Drink plenty of water and use moisturizer as it may lead to dryness of the mouth, lips, and eyes. Let your doctor know if these side effects bother you or do not go away. Serious side effects with this medicine are rare.",
-
-      "This medicine may make you more sensitive to sunlight so you should limit exposure to the sun if possible. It may make your skin more fragile. It is advised, not to have any waxing (hair removal), or laser treatments during treatment. Pregnant women or women who are planning to get pregnant should not use this medicine as it can lead to birth defects."
-
-    ],
-    "benefits": [
-      "In Treatment of Acne :",
-      "Tretin 0.025% Cream is a form of vitamin A. It helps treat acne by clearing skin pores and preventing spots or pimples from appearing. It usually takes several weeks to have a noticeable effect so keep using it even if it appears not to be working. Sometimes acne may get worse before it gets better, however, with proper use, your skin will get clearer. The earlier you start using it, the less likely you are to get scars. This medicine will help improve your mood and uplift your confidence as your skin becomes acne-free. It should not be used if you have eczema or sunburned skin."
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Tretin",
-      "Erythema (skin redness)",
-      "Skin irritation",
-      "Dry skin",
-      "Dry lips",
-      "Pale red skin",
-      "Increased sensitivity to light"
-    ],
-    
-    "working": [
-      "Tretin 0.025% Cream is a form of vitamin A. When applied on the skin, it reduces oil production in the skin, replenishes acne-prone skin, and helps keep your pores open."
-    ]
-    
-  },
-
-  {
-    "id": "9",
     "sku": "asdf239",
     "name": "APIGAT 5MG TABLETS",
     "price": 3,
@@ -376,9 +80,136 @@
       "Apigat 5 Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
     ]
   },
-  
+
   {
-    "id": "10",
+    "id": "3",
+    "sku": "asdf239",
+    "name": "CAREPROST EYE DROPS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Careprost.jpg"
+    ],
+    
+    "fullDescription": ["Careprost Eye Drop is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
+
+    "Careprost Eye Drop is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
+    
+    "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect."
+    ],
+    "benefits": [
+      "In Ocular hypertension :",
+      "Careprost Eye Drop belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Careprost",
+      "Conjunctival hyperemia",
+      "Eye itching"
+    ],
+    
+    "working": [
+   "Careprost Eye Drop is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
+    ]
+
+  },
+
+  {
+    "id": "4",
+    "sku": "asdf239",
+    "name": "CERNOS CAPSULES",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Cernos Capsule.jpg"
+    ],
+    
+    "fullDescription": [
+      "Cernos Soft Gelatin Capsule is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+
+      "Cernos Soft Gelatin Capsule is best taken with food. Take it regularly and at the same time each day to get the most benefit. The dose and how often you take it depends on what you are taking it for. Your doctor will decide how much you need to improve your symptoms. Swallow the tablets whole with a glass of water. You should take this medicine for as long as it is prescribed for you.",
+
+      "The most common side effects of this medicine include increased red blood cells, diarrhea, stomach pain or discomfort, leg pain, dizziness, increased sweating, headache, acne, and breast enlargement in male. If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
+
+      "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, and stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
+
+    ],
+    "benefits": [
+      "In Treatment of Male hypogonadism :",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Soft Gelatin Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Soft Gelatin Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Cernos",
+      "Diarrhea",
+      "Stomach discomfort",
+      "Increased sweating",
+      "Injection site reactions (pain, swelling, redness)",
+      "Acne",
+      "Voice change",
+      "Breast enlargement in male"
+
+    ],
+    
+    "working": [
+     "Cernos Soft Gelatin Capsule is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
+  },
+
+  {
+    "id": "5",
+    "sku": "asdf239",
+    "name": "CERNOS GEL",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Cernos Gel.jpg"
+    ],
+    "fullDescription": ["Cernos Gel is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+
+    "Cernos Gel is for external use only. It should be applied on arms and shoulder once a day, preferably at the same time every day. It should be used as your doctor's advice. You should use this medicine for as long as it is prescribed for you. Do not use the gel too often and avoid applying it over the genital area.",
+    
+    "The most common side effects of this medicine include acne and application site reactions (burning, irritation, itching, and redness). If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
+    
+    "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, or stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
+    ],
+    "benefits": [
+      "In Treatment of Male hypogonadism :",
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Gel injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Gel also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Cernos",
+      "Injection site reactions (pain, swelling, redness)",
+      "Acne",
+      "Voice change",
+      "Breast enlargement in male"
+    ],
+    
+    "working": [
+      "Cernos Gel is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
+  },
+
+  {
+    "id": "6",
     "sku": "asdf239",
     "name": "ELIQUIS 2.5MG TABLETS",
     "price": 3,
@@ -425,8 +256,9 @@
       "Eliquis 2.5mg Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
     ]
   },
+
   {
-    "id": "11",
+    "id": "7",
     "sku": "asdf239",
     "name": "ELIQUIS 5MG TABLETS",
     "price": 3,
@@ -471,9 +303,88 @@
       "Eliquis 5mg Tablet is a novel oral anticoagulant (NOAC). It works by preventing the formation of blood clots in the body."
     ]
   },
-  
+
   {
-    "id": "12",
+    "id": "8",
+    "sku": "asdf239",
+    "name": "FINPECIA TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag":["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Finpecia.jpg"
+    ],
+
+    "fullDescription": ["Finpecia, a prescription drug, is manufactured in various forms such as Tablet. Enlarged Prostate are some of its major therapeutic uses. Other than this, Finpecia has some other therapeutic uses, which have been discussed ahead.",
+    "The correct dosage of Finpecia depends on the patient's age, gender, and medical history. Besides the medical condition it is advised for, the route of administration also plays an important role in determining the correct drug dosage. This information has been provided in detail in the dosage section.",
+    "The most common side effects of Finpecia are Dizziness, Fainting, Chills. Apart from the aforementioned side effects, Finpecia can also lead to other problems, which have been listed below. Usually, these side effects of Finpecia go away soon, and do not persist beyond the duration of the treatment. However, if these continue for a longer time, consult your doctor right away.",
+    "In addition, Finpecia's effect is Severe during pregnancy and Unknown for lactating mothers. Warnings related to Finpecia's effects on the liver, heart and kidney, if any, have been listed below.",
+    "Other contraindications of Finpecia have been discussed in the sections ahead.",
+    "Additionally, Finpecia may also adversely react with other medicines. Refer to the list below for further details.",
+    "In addition to the above precautions for Finpecia, it is important to know that it is not safe while driving, and is not habit-forming."
+    ],
+    "benefits": [
+      "In Treatment of Hair loss :",
+      "Finpecia Tablet is a medicine used to treat common hereditary hair loss. It prevents further hair loss and helps hair to regrow. It stops the production of a hormone that causes excessive hair fall or baldness and also increases hair growth. It is considered a safe medicine. Regrowth of hair can be beneficial to your mood, self-esteem as well as your appearance, but you need to use it regularly to get the benefits."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Finpecia",
+      "Decreased libido",
+      "Erectile dysfunction",
+      "Ejaculation disorder"
+    ],
+    
+    "working": [
+   "Finpecia Tablet is a 5-alpha reductase inhibitor. It blocks the body's production of a male hormone in the scalp that stops hair growth, thereby reversing the balding process and preventing further hair loss."
+    ]
+    
+  },
+
+  {
+    "id": "9",
+    "sku": "asdf239",
+    "name": "IVERSUN IVERMECTIN 12 Mg TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Iversun Ivermectin.png"
+    ],
+    
+    "fullDescription": [
+      "The Iversun 12mg Tablet serves as an antiparasitic remedy for infections within your intestinal system, eyes, and skin. Typically, a single dose is adequate for eradicating the infection, yet if symptoms persist, consulting your doctor is advisable. Optimal benefits from this medication are best achieved by staying hydrated and avoiding caffeine consumption while undergoing the treatment."
+    ],
+    "benefits": [
+      "Effective against various parasitic infections in the intestinal system, eyes, and skin.",
+      "Eliminates parasites like intestinal worms, mites, and lice.",
+      "Works by targeting the nervous system of parasites, leading to their paralysis and elimination.",
+      "Provides relief from infections caused by parasites."
+    ],
+
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of  Iversun Ivermectin",
+      "Common Side Effects: Nausea, Dizziness, Abdominal discomfort",
+      "Less Common Side Effects: Itching or rash, Fatigue, Diarrhea",
+      "Rare Side Effects: Allergic reactions such as swelling or difficulty breathing, Vision changes, Severe dizziness"
+      ],
+    "working": [
+     "Iversun Ivermectin works by targeting the nervous system of parasites, causing paralysis and eventually leading to their elimination from the body. This mechanism disrupts the ability of parasites to survive and reproduce, providing relief from the associated infections."
+    ]
+  },
+
+  {
+    "id": "10",
     "sku": "asdf239",
     "name": "KAMAGRA JELLY",
     "price": 3,
@@ -522,11 +433,11 @@
       "Kamagra-FX 100mg Oral Jelly Cola is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
     ]
   },
-  
+
   {
-    "id": "13",
+    "id": "11",
     "sku": "asdf239",
-    "name": "VIGORE 100 RED TABLETS",
+    "name": "LUMIGAN 0.03%",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -535,47 +446,333 @@
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/Vigore 100 Red Tablet.jpg"
+      "/assets/img/product/medical/Lumigan.jpg"
     ],
     
     "fullDescription": [
-      "Vigore 100 Red Tablet is a prescription medicine used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis. This helps men to get or maintain an erection. It belongs to a group of medicines known as phosphodiesterase type 5 (PDE 5) inhibitors.",
+      "Lumigan 0.03% Ophthalmic Solution is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
 
-      "Vigore 100 Red Tablet may be taken on an empty stomach or with a meal. It should be strictly taken as advised by your doctor. You should take about 1 hour before you plan to have sex. The amount of time it takes to work varies from person to person, but it normally takes between 30 minutes and 1 hour. This medicine will only help you to get an erection if you are sexually stimulated. However, you should not take this medicine if you do not have erectile dysfunction. It should not be taken more than once a day.",
+      "Lumigan 0.03% Ophthalmic Solution is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
 
-      "The most common side effects of this medicine are flushing (sense of warmth), headache, dizziness, blurred vision, muscle pain, stomach upset, and rash. Talk to your doctor if any of the side effects bother you or do not go away. They may be able to help by changing the dosage or prescribing you an alternate medicine.",
-
-      "Vigore 100 Red Tablet is not intended for use by women and men should avoid using any other medicines to treat impotence without talking to a doctor first. It can be dangerous to take it along with medicines called nitrates (often given for chest pain or angina). Do not take this medicine if you have severe heart or liver problems, have recently had a stroke or heart attack or if you have low blood pressure. Let your doctor know if you suffer from these or any other health problems before taking it. You should not drive if this medicine makes you feel dizzy. Avoid drinking alcohol while taking this medicine as it increases the chances of side effects."
-
+      "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect. "
     ],
     "benefits": [
-      "In Treatment of Erectile dysfunction :",
-      "Vigore 100 Red Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
-      "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
+      "In Ocular hypertension :",
+      "Lumigan 0.03% Ophthalmic Solution belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
+
     ],
     "sideEffects": [
       "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Vigore",
-      "Flushing (sense of warmth in the face, ears, neck and trunk)",
-      "Headache",
-      "Blurred vision",
-      "Indigestion",
-      "Muscle pain",
-      "Upset stomach",
-      "Rash",
-      "Nasal congestion (stuffy nose)",
-      "Dizziness",
-      "Nausea"
+      "Common side effects of Lumigan",
+      "Conjunctival hyperemia",
+      "Eye itching"
+      ],
+    "working": [
+     "Lumigan 0.03% Ophthalmic Solution is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
+    ]
+  },
+
+  {
+    "id": "12",
+    "sku": "asdf239",
+    "name": "MELACARE CREAM",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Melacare.jpg"
+    ],
+    "fullDescription": ["Melacare Cream is a prescription medicine used in the treatment of melasma. It helps in quick skin renewal. It provides relief from redness, swelling, and itching.",
+
+    "Melacare Cream should be used in the dose and duration as advised by your doctor. Wash your hands before using this medicine. It is advised to check the label for directions before use. It is for external use only.",
+    
+    "Do not use this medicine more than the recommended dose. Inform your doctor if you have known allergies from this medicine. The common side effects of this medicine include burning, irritation, itchiness, and redness at the application site.",
+    
+    "If these side effects or any other symptoms which you think are because of this medicine persist for a longer duration, please consult your doctor. Inform your doctor if you are pregnant or are suffering from any other disease. This medicine is not safe to use in breastfeeding mothers."
+    ],
+    "benefits": [
+      "In Treatment of Melasma :",
+      "Melasma is a common skin problem that causes dark, discolored patches on your skin. It is more commonly seen in females than males. Melacare Cream helps to lighten these dark patches of the skin usually caused by pregnancy, birth control pills, hormone medicine, or injury to the skin. It effectively blocks that process in the skin that leads to discoloration. Melacare Cream also reduces any redness, rash, pain or itchiness that may be caused in this condition.",
+
+      "This improves your self-esteem and confidence as your appearance changes. You should always use it as prescribed and only apply the amount you have been told to. Keep using it for as long as it is prescribed to get the full benefits."
+
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Melacare",
+      "Application site reactions (burning, irritation, itching and redness)"
+      
     ],
     
     "working": [
-      "Vigore 100 Red Tablet is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
+      "Melacare Cream is a combination of three medicines: Hydroquinone, Mometasone and Tretinoinoin, which treats melasma (dark spots on skin). Hydroquinone is a skin lightening medicine. It reduces the amount of a skin pigment (melanin) that causes darkening of skin. This effect is reversible. Mometasone is a steroid which blocks the production of certain chemical messengers (prostaglandins) that make the skin red, swollen and itchy. Tretinoinoin is a form of vitamin A that helps the skin to renew itself more quickly."
     ]
+   
   },
+
+  {
+    "id": "13",
+    "sku": "asdf239",
+    "name": "NERVIGESIC 300MG CAPSULES",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Nervigesic 300mg.jpg"
+    ],
+    "fullDescription": ["Nervigesic 300mg Capsule is a medicine used to relieve pain caused by nerve damage (neuropathic pain) due to diabetes, shingles (herpes zoster infection), spinal cord injury, or other conditions. It is also used to treat widespread muscle pain and stiffness in people with fibromyalgia.",
+
+    "Nervigesic 300mg Capsule belongs to the anti-epileptic group of medicines and can also be used to treat certain types of seizures (fits) in combination with other medicines. Additionally, it may also be prescribed to treat the symptoms of anxiety disorder if other medicines are not suitable.",
+    
+    "You can take Nervigesic 300mg Capsule with or without food, but it is important to take this medicine at the same time each day to get the most benefit. The exact dose and duration of treatment will depend on your condition and how you respond to it. Your doctor will probably start this medicine at a low dose and increase it gradually. It may take a few weeks for the medicine to work properly. Follow your doctor’s instructions and continue taking it regularly until your doctor advises you to stop. Do not miss any dose, otherwise, your condition may worsen.",
+    
+    "The side effects of this medicine are usually mild and go away by themselves. The most common ones are feeling sleepy or dizzy, dryness in the mouth, blurred vision, weight gain, edema (swelling over the whole body), and difficulty in concentrating. Most side effects are not serious and do not need medical attention. Talk to your doctor about potential side effects and ways in which you might prevent or cope with them.",
+    
+    "Before taking the medicine you should tell your doctor if you are pregnant, breastfeeding, or planning to become pregnant. Be careful while driving as sleepiness, dizziness, and blurring of vision may be seen as side effects. You should avoid drinking alcohol along with this medicine as it may lead to excessive sleepiness and dizziness."
+    ],
+    "benefits": [
+      "In Treatment of Neuropathic pain :",
+      "Nervigesic 300mg Capsule is used to treat long-lasting (chronic) pain caused by nerve damage due to diabetes, shingles, or spinal cord injury. It reduces pain and its associated symptoms such as mood changes, sleep problems, and tiredness. It is thought to work by interfering with pain signals that travel through the damaged nerves and the brain. Taking this medicine regularly will improve your physical and social functioning and overall quality of life. It takes a few weeks to work so you need to take it regularly even if you feel it is not doing any good. Once your symptoms have gone you should still keep taking the medicine until your doctor advises you to stop."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Nervigesic",
+      "Blurred vision",
+      "Difficulty in paying attention",
+      "Dizziness",
+      "Dryness in mouth",
+      "Edema (swelling)",
+      "Sleepiness",
+      "Weight gain" 
+    ],
+    
+    "working": [
+     "Nervigesic 300mg Capsule is an antiepileptic medication. When given for epilepsy, it is believed to work by reducing the abnormal electrical activity in the brain, thus preventing seizures. It is also used to treat nerve and muscle pain where it blocks pain by interfering with pain signals traveling through the damaged nerves and the brain."
+    ]
+    
+  },
+
   {
     "id": "14",
     "sku": "asdf239",
-    "name": "SUHAGRA 100 TABLETS",
+    "name": "RYBELSUS 3MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Rybelsus 3MG.jpg"
+    ],
+    "fullDescription": ["Rybelsus 3mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
+
+    "Rybelsus 3mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+    
+    "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+    
+    "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+    
+    "Before using Rybelsus 3mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."],
+    
+
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus :",
+      "Rybelsus 3mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+      
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
+    ],
+    
+    "working": [
+    "Rybelsus 3mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
+  },
+
+  {
+    "id": "15",
+    "sku": "asdf239",
+    "name": "RYBELSUS 7MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/RYBELSUS 7MG.jpg"
+    ],
+    
+    "fullDescription": [
+      "Rybelsus 7mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
+
+      "Rybelsus 7mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+
+      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+
+      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+
+     "Before using Rybelsus 7mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
+    ],
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus :",
+      "Rybelsus 7mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
+      ],
+    "working": [
+     "Rybelsus 7mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
+  },
+
+  {
+    "id": "16",
+    "sku": "asdf239",
+    "name": "RYBELSUS 14MG TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/RYBELSUS 14MG.jpg"
+    ],
+    
+    "fullDescription": [
+      "Rybelsus 14mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
+
+      "Rybelsus 14mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
+
+      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
+
+      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
+
+      "Before using Rybelsus 14mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
+    ],
+    "benefits": [
+      "In Treatment of Type 2 diabetes mellitus :",
+      "Rybelsus 14mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Rybelsus",
+      "Vomiting",
+      "Nausea",
+      "Diarrhea",
+      "Abdominal pain",
+      "Constipation",
+      "Decreased appetite"
+      ],
+
+    "working": [
+     "Rybelsus 14mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
+    ]
+  },
+
+  {
+    "id": "17",
+    "sku": "asdf239",
+    "name": "SIDANA DRIVE 100",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/SIDANA DRIVE.png"
+    ],
+    
+    "fullDescription": [
+      "SIDANA DRIVE 100 mg contains Sildenafil, which effectively treats erectile dysfunction in men by enhancing blood flow to the penis. This mechanism is achieved through the relaxation of penile blood vessel muscles, enabling erection."
+    ],
+    "benefits": [
+      "Treats male sexual problems like impotence or erectile dysfunction by improving penile blood circulation.",
+      "It prevents PDE5 from rapidly reducing the penis' erection, thereby maintaining an erect position even after intercourse."
+    ],
+
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of SIDANA DRIVE ",
+      "Common Side Effects: Muscle pain, Nasal bleeding, Diarrhea, Breathing difficulties, Flushing, Vomiting, Nausea, Fever, Headache, Facial swelling, Abdominal pain",
+      "Less Common Side Effects: Allergic reactions and additional symptoms"
+      ],
+    "working": [
+     "Sildenafil Citrate, an active ingredient in SIDANA DRIVE 100 mg, counters the enzyme phosphodiesterases 5 (PDE5) to sustain an erection post-sexual intercourse.",
+     "It's crucial to note that the drug requires sexual arousal to be effective and won't function without it."
+    ]
+  },
+
+  {
+    "id": "18",
+    "sku": "asdf239",
+    "name": "SIDANA SUPER DRIVE (1×10)",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Sidana Super Drive.png"
+    ],
+    
+    "fullDescription": [
+      "Each Sidana Super Drive tablet contains Sildenafil 100 mg + Dapoxetine 100 mg. Sidana Super Drive is a dual-action medication combining Sildenafil, a phosphodiesterase inhibitor enhancing penile blood flow, and Dapoxetine, an SSRI boosting nerve serotonin levels for better ejaculation control. This formulation targets erectile dysfunction and premature ejaculation in men."
+    ],
+    "benefits": [
+      "Treats erectile dysfunction and premature ejaculation",
+      "Increases blood flow to the penis",
+      "Enhances erection in men"
+    ],
+
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Sidana Super Drive",
+      "Common Side Effects: Headaches, nausea, stuffy nose, dry mouth, and vision problems during usage."
+      ],
+    "working": [
+     "The combination medication Sidana Super Drive (Sildenafil 100 mg + Dapoxetine 100 mg) operates through two primary mechanisms:",
+     "Sildenafil (100 mg): This component is a phosphodiesterase type 5 inhibitor, enhancing blood flow to the penis. By inhibiting the enzyme PDE5, it promotes dilation of penile blood vessels, aiding in achieving and maintaining an erection during sexual stimulation.",
+     "Dapoxetine (100 mg): As a selective serotonin reuptake inhibitor (SSRI), Dapoxetine influences serotonin levels in nerves, assisting in improving ejaculation control and supporting the management of premature ejaculation.",
+     "The combined action of these ingredients helps address erectile dysfunction and premature ejaculation, supporting sexual function in men."
+    ]
+  },
+
+  {
+    "id": "19",
+    "sku": "asdf239",
+    "name": "SUHAGRA 100MG TABLETS",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -625,10 +822,11 @@
      "Suhagra 100 Tablet is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
     ]
   },
+
   {
-    "id": "15",
+    "id": "20",
     "sku": "asdf239",
-    "name": "CERNOS CAPSULES",
+    "name": "TESTENATE DEPOT INJECTION",
     "price": 3,
     "new": true,
     "rating": 4,
@@ -637,169 +835,32 @@
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/Cernos Capsule.jpg"
+      "/assets/img/product/medical/Testenate.jpg"
     ],
+    "fullDescription": ["Testenate Depot Injection is a testosterone hormone replacement therapy. It is to be used with caution in the elderly and those with prostate problems. Testenate Depot is not recommended in children below 3 years of age. ",
     
-    "fullDescription": [
-      "Cernos Soft Gelatin Capsule is a medicine used in the treatment of male hypogonadism caused due to low testosterone levels. It is only prescribed to men with known medical conditions. It helps in restoring the level of testosterone in the male body.",
+    "Testosterone is the male sex hormone responsible for the development of male reproductive organs (penis and testicles) and related sexual characteristics like the development of body and facial hear, deep voice, sexual drive. Testenate Depot is also important in the development of skeletal structure (bones and muscles). Some males who lack adequate quantities fail to have developed reproductive organs and secondary sexual characteristics."],
 
-      "Cernos Soft Gelatin Capsule is best taken with food. Take it regularly and at the same time each day to get the most benefit. The dose and how often you take it depends on what you are taking it for. Your doctor will decide how much you need to improve your symptoms. Swallow the tablets whole with a glass of water. You should take this medicine for as long as it is prescribed for you.",
-
-      "The most common side effects of this medicine include increased red blood cells, diarrhea, stomach pain or discomfort, leg pain, dizziness, increased sweating, headache, acne, and breast enlargement in male. If these bother you or appear serious, let your doctor know. There may be ways of reducing or preventing them. Some side effects may mean you should stop taking this medicine shortness of breath, frequent or persistent erections, and low sperm count.",
-
-      "Before taking this medicine, tell your doctor if you have ever had high blood pressure, heart attack, and stroke. Your doctor should also know about all other medicines you are taking as many of these may make this medicine less effective or change the way it works. Your doctor might perform regular blood tests to keep track of testosterone, and prostate-specific antigen (PSA) levels."
-
-    ],
     "benefits": [
       "In Treatment of Male hypogonadism :",
-      "Male hypogonadism is a condition in which the body does not produce enough testosterone (male sex hormone). Cernos Soft Gelatin Capsule injections help improve the level of testosterone in your body. This helps in maintaining better sex life, improve overall physical appearance, gives good mood and boost overall confidence. Cernos Soft Gelatin Capsule also helps in muscle building and development of bones. This treatment has few side effects so it is advisable to always take the injection under a doctor’s supervision only. You should continue taking it as long as it is prescribed even if you feel better."
-
+      "Male hypogonadism is a condition in which the body does not produce enough testosterone male sex hormone Testenate Depot 250 Injection injections help improve the level of testosterone in your body This helps in maintaining better sex life improve overall physical appearance gives good mood and boost overall confidence Testenate Depot 250 Injection also helps in muscle building and development of bones This treatment has few side effects so it is advisable to always take the injection under a doctor s supervision only You should continue taking it as long as it is prescribed even if you feel better."
     ],
+
     "sideEffects": [
       "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Cernos",
-      "Diarrhea",
-      "Stomach discomfort",
-      "Increased sweating",
-      "Injection site reactions (pain, swelling, redness)",
+      "Common side effects of Testenate Depot Injection",
       "Acne",
-      "Voice change",
-      "Breast enlargement in male"
-
+      "Weight gain",
+      "Breast enlargement",
+      "Changes in voice", 
+      "Pain at site of injection"
     ],
-    
-    "working": [
-     "Cernos Soft Gelatin Capsule is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
-    ]
+  
+    "working": ["Tastenate Depot 250 Injection is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."]
   },
+  
   {
-    "id": "16",
-    "sku": "asdf239",
-    "name": "LUMIGAN 0.03%",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/Lumigan.jpg"
-    ],
-    
-    "fullDescription": [
-      "Lumigan 0.03% Ophthalmic Solution is a medicine used to reduce pressure in the eyes in adults with glaucoma and high pressure in the eye. If the pressure in your eye is too high it can damage your sight, potentially leading to blindness. It works by helping fluid flow from inside the eye into the blood.",
-
-      "Lumigan 0.03% Ophthalmic Solution is suitable for adults and children and can be used by itself or in combination with other eye medicines to reduce pressure. Follow the instructions given by your doctor and use this medicine regularly to get the most benefit. If you stop using it, pressure in the eye could increase and damage your sight. Never use a bottle if the seal is broken before you use it for the first time. Make sure you remove contact lenses if you wear them and wait for at least 15 minutes before putting them back.",
-
-      "The most common side effects of this medicine include conjunctival hyperemia and eye itching. If you get any side effects, talk to your doctor. They may be able to tell you ways of reducing or preventing some side effects or suggest another treatment. If your vision is blurred or you have other changes in sight for a time, do not drive until your vision is clear. This is usually a short term side effect. "
-    ],
-    "benefits": [
-      "In Ocular hypertension :",
-      "Lumigan 0.03% Ophthalmic Solution belongs to a group of medicines called prostaglandin analogue. It is used to reduce pressure in your eyes. It increases the flow of fluid from inside the eye into the bloodstream thereby lowering the increased eye pressure. If the pressure in your eye is too high, it can damage your sight. Take it regularly as prescribed by your doctor. If you stop taking it, the pressure in your eye will not be controlled."
-
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Lumigan",
-      "Conjunctival hyperemia",
-      "Eye itching"
-      ],
-    "working": [
-     "Lumigan 0.03% Ophthalmic Solution is a prostaglandin analogue. It works by increasing the outflow of aqueous humor, thereby lowering the increased eye pressure."
-    ]
-  },
-  {
-    "id": "17",
-    "sku": "asdf239",
-    "name": "RYBELSUS 7MG TABLETS",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/RYBELSUS 7MG.jpg"
-    ],
-    
-    "fullDescription": [
-      "Rybelsus 7mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
-
-      "Rybelsus 7mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
-
-      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
-
-      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
-
-     "Before using Rybelsus 7mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
-    ],
-    "benefits": [
-      "In Treatment of Type 2 diabetes mellitus :",
-      "Rybelsus 7mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Rybelsus",
-      "Vomiting",
-      "Nausea",
-      "Diarrhea",
-      "Abdominal pain",
-      "Constipation",
-      "Decreased appetite"
-      ],
-    "working": [
-     "Rybelsus 7mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
-    ]
-  },
-  {
-    "id": "18",
-    "sku": "asdf239",
-    "name": "RYBELSUS 14MG TABLETS",
-    "price": 3,
-    "new": true,
-    "rating": 4,
-    "saleCount": 15,
-    "category": ["medical"],
-    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
-    "stock": 25,
-    "image": [
-      "/assets/img/product/medical/RYBELSUS 14MG.jpg"
-    ],
-    
-    "fullDescription": [
-      "Rybelsus 14mg Tablet is a medicine used to lower blood sugar levels in adults with type 2 diabetes mellitus. It helps prevent serious complications of diabetes like kidney damage and blindness. Proper control of diabetes also helps lower your chances of a heart attack or a stroke.",
-
-      "Rybelsus 14mg Tablet belongs to the GLP-1 (glucagon-like peptide) group of diabetes medicines. It works by helping the body produce insulin and reducing appetite. It also helps reduce weight in some people. This medicine should be stored in a refrigerator until you need it but do not freeze it.",
-
-      "It is taken 30 minutes before the first meal of the day. The dose will depend on your condition and what other diabetes medicines you are taking. Do not stop taking this medicine without talking to your doctor. If you do, your blood sugar levels may increase and put you at risk of serious complications. Remember that it is only part of a treatment program that should also include a healthy diet and regular exercise. Your lifestyle plays a big part in controlling diabetes.",
-
-      "The most common side effects of this medicine include nausea, diarrhea, vomiting, decreased appetite, fatigue, and constipation. It can also lead to low blood sugar levels (hypoglycemia), especially if you are also taking other medicines, like insulin or sulfonylureas, for the treatment of diabetes. To prevent this, it is important to have regular meals, and always carry a fast-acting source of glucose, such as sugary candy or glucose candy, with you.",
-
-      "Before using Rybelsus 14mg Tablet, let your doctor know if you have any pancreas or stomach problems, severe dehydration (loss of body water), or diabetic ketoacidosis (a complication of diabetes characterized by too much acid and ketones in your blood). Pregnant or breastfeeding women should also consult their doctor before using this medicine. If you experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar, do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can do them safely."
-    ],
-    "benefits": [
-      "In Treatment of Type 2 diabetes mellitus :",
-      "Rybelsus 14mg Tablet is a medicine that works to lower your blood glucose levels. It is given as an injection and your doctor or nurse will train you on the correct way to inject it. Lowering blood glucose levels is an essential part of managing diabetes. If you can control the level, you will reduce the risk of serious complications of diabetes, such as kidney damage, eye damage, nerve problems, and loss of limbs. Taking this medicine regularly along with proper diet and exercise will help you live a normal, healthy life."
-    ],
-    "sideEffects": [
-      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
-      "Common side effects of Rybelsus",
-      "Vomiting",
-      "Nausea",
-      "Diarrhea",
-      "Abdominal pain",
-      "Constipation",
-      "Decreased appetite"
-      ],
-
-    "working": [
-     "Rybelsus 14mg Tablet works by helping the pancreas release a fair amount of insulin when blood glucose levels are high. Insulin directs the muscle and fat cells to take in glucose where it is utilized for energy. Semaglutide also works by suppressing the release of glucagon (a hormone that raises blood glucose)."
-    ]
-  },
-  {
-    "id": "19",
+    "id": "21",
     "sku": "asdf239",
     "name": "TESTOSTERONE UNDECANOATE 40MG CAPSULES",
     "price": 3,
@@ -810,7 +871,7 @@
     "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
     "stock": 25,
     "image": [
-      "/assets/img/product/medical/TESTOSTERONE UNDECANOATE.jpg"
+      "/assets/img/product/medical/TESTOSTERONE UNDECANOATE.png"
     ],
     
     "fullDescription": [
@@ -840,6 +901,102 @@
       ],
     "working": [
      "Testosterone Undecanoate 40mg Capsule is similar to the natural male hormone, testosterone. It works by replenishing the deficient testosterone levels in adult men. Lack of testosterone may cause various health problems including impotence, infertility, low sex drive, tiredness, depressive mood and bone loss."
+    ]
+  },
+
+  {
+    "id": "22",
+    "sku": "asdf239",
+    "name": "TRETINOIN CREAM",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Tretinoinoin Cream.jpg"
+    ],
+
+    "fullDescription": [
+      "Tretinoin  Cream is a form of vitamin A that is used to treat acne which appears as spots or pimples on your face, chest, or back. It also helps to smooth rough facial skin and to reduce fine wrinkles on the skin.",
+
+      "Tretinoin  Cream reduces excessive oil production of the skin. Ideally, a pinpoint application at nighttime is recommended for the duration prescribed by your doctor. The amount you need and for how long you need to take it will depend on what you are being treated for. You should normally wash and dry the affected area before applying a thin layer of this medicine. Follow your doctor’s instructions. You should not apply it to damaged or broken skin and avoid contact with your mouth, eyes, and nose. It may take several weeks for your symptoms to improve but keep using it regularly to get the most benefit. Consult your doctor again if you do not notice any improvement after a few weeks. Using more medicine or applying it more often than prescribed will not make it work any faster and may increase the side effects.",
+
+      "The most common side effects include irritation, dryness, and redness of the skin. They are usually mild and improve as your body gets used to the medicine. Drink plenty of water and use moisturizer as it may lead to dryness of the mouth, lips, and eyes. Let your doctor know if these side effects bother you or do not go away. Serious side effects with this medicine are rare.",
+
+      "This medicine may make you more sensitive to sunlight so you should limit exposure to the sun if possible. It may make your skin more fragile. It is advised, not to have any waxing (hair removal), or laser treatments during treatment. Pregnant women or women who are planning to get pregnant should not use this medicine as it can lead to birth defects."
+
+    ],
+    "benefits": [
+      "In Treatment of Acne :",
+      "Tretin 0.025% Cream is a form of vitamin A. It helps treat acne by clearing skin pores and preventing spots or pimples from appearing. It usually takes several weeks to have a noticeable effect so keep using it even if it appears not to be working. Sometimes acne may get worse before it gets better, however, with proper use, your skin will get clearer. The earlier you start using it, the less likely you are to get scars. This medicine will help improve your mood and uplift your confidence as your skin becomes acne-free. It should not be used if you have eczema or sunburned skin."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Tretin",
+      "Erythema (skin redness)",
+      "Skin irritation",
+      "Dry skin",
+      "Dry lips",
+      "Pale red skin",
+      "Increased sensitivity to light"
+    ],
+    
+    "working": [
+      "Tretin 0.025% Cream is a form of vitamin A. When applied on the skin, it reduces oil production in the skin, replenishes acne-prone skin, and helps keep your pores open."
+    ]
+    
+  },
+  
+  {
+    "id": "23",
+    "sku": "asdf239",
+    "name": "VIGORE 100 RED TABLETS",
+    "price": 3,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["medical"],
+    "tag": ["Injection,", "Tablet,", "Cream,", "Capsule,", "Eye Drop,", "Gel"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/medical/Vigore 100 Red Tablet.jpg"
+    ],
+    
+    "fullDescription": [
+      "Vigore 100 Red Tablet is a prescription medicine used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis. This helps men to get or maintain an erection. It belongs to a group of medicines known as phosphodiesterase type 5 (PDE 5) inhibitors.",
+
+      "Vigore 100 Red Tablet may be taken on an empty stomach or with a meal. It should be strictly taken as advised by your doctor. You should take about 1 hour before you plan to have sex. The amount of time it takes to work varies from person to person, but it normally takes between 30 minutes and 1 hour. This medicine will only help you to get an erection if you are sexually stimulated. However, you should not take this medicine if you do not have erectile dysfunction. It should not be taken more than once a day.",
+
+      "The most common side effects of this medicine are flushing (sense of warmth), headache, dizziness, blurred vision, muscle pain, stomach upset, and rash. Talk to your doctor if any of the side effects bother you or do not go away. They may be able to help by changing the dosage or prescribing you an alternate medicine.",
+
+      "Vigore 100 Red Tablet is not intended for use by women and men should avoid using any other medicines to treat impotence without talking to a doctor first. It can be dangerous to take it along with medicines called nitrates (often given for chest pain or angina). Do not take this medicine if you have severe heart or liver problems, have recently had a stroke or heart attack or if you have low blood pressure. Let your doctor know if you suffer from these or any other health problems before taking it. You should not drive if this medicine makes you feel dizzy. Avoid drinking alcohol while taking this medicine as it increases the chances of side effects."
+
+    ],
+    "benefits": [
+      "In Treatment of Erectile dysfunction :",
+      "Vigore 100 Red Tablet belongs to a group of medicines called PDE5 inhibitors. It works by relaxing the blood vessels in your penis. This allows blood to flow into the penis and produce an erection when sexually aroused. This medicine will only help get an erection if you are sexually stimulated. It is very effective but needs to be taken at least 30 minutes before sexual activity.",
+      "Do not take this medicine if you also take medicines called nitrates (often given for chest pain)."
+    ],
+    "sideEffects": [
+      "Most side effects do not require any medical attention and disappear as your body adjusts to the medicine. Consult your doctor if they persist or if you’re worried about them",
+      "Common side effects of Vigore",
+      "Flushing (sense of warmth in the face, ears, neck and trunk)",
+      "Headache",
+      "Blurred vision",
+      "Indigestion",
+      "Muscle pain",
+      "Upset stomach",
+      "Rash",
+      "Nasal congestion (stuffy nose)",
+      "Dizziness",
+      "Nausea"
+    ],
+    
+    "working": [
+      "Vigore 100 Red Tablet is a phosphodiesterase-5 (PDE-5) inhibitor. It works by relaxing the blood vessels in your penis, thereby increasing blood flow into the penis on sexual stimulation. This helps you achieve and maintain a hard, erect penis suitable for sexual activity."
     ]
   }
 ]
