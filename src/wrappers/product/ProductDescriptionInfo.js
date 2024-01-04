@@ -3,9 +3,7 @@ import React, { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { getProductCartQuantity } from "../../helpers/product";
-import { addToCart } from "../../store/slices/cart-slice";
-import { addToWishlist } from "../../store/slices/wishlist-slice";
-import { addToCompare } from "../../store/slices/compare-slice";
+
 import ProductRating from "../../components/product/sub-components/ProductRating";
 import Popup from "../../components/popup/Popup";
 
@@ -236,7 +234,7 @@ const ProductDescriptionInfo = ({
         <div className="pro-details-meta">
           <span>Categories :</span>
           <ul>
-            {product.category.map((single, key) => {
+            {product?.category1.map((single, key) => {
               return (
                 <li key={key}>
                   <Link to={process.env.PUBLIC_URL + "/shop-grid-standard"}>

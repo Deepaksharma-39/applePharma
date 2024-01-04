@@ -1,3 +1,5 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 const MedicalContact = () => {
     return (
       <div
@@ -12,7 +14,7 @@ const MedicalContact = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-5">
               <div className="medical-contact-text">
-                <h3>Need Immediate Help?</h3>
+                <h3>Immediate Help?</h3>
                 <h2>Contact Now!</h2>
               </div>
             </div>
@@ -35,13 +37,23 @@ const MedicalContact = () => {
                       <img
                         src={
                           process.env.PUBLIC_URL +
-                          "/assets/img/icon-img/medical-contact.png"
+                          "/assets/img/icon-img/what1.webp"
                         }
                         alt=""
                       />
-                    </div>
-                    <div className="medical-contact-number">
-                      <h2>+91 9999 6678 03</h2>
+                    
+                    </div>                    
+                    <div className="medical-contact-number">                
+                      <h2><div className="medical-contact-img">
+                      {/* <img 
+                        src={
+                          process.env.PUBLIC_URL +
+                          "/assets/img/icon-img/what1.webp"
+                        }
+                        alt=""
+                      /> */}
+                    
+                    </div>+91 9999 6678 03</h2>
                       <h2>+91 8178 3070 47</h2>
                     </div>
                   </div>
