@@ -14,9 +14,10 @@ const Popup = ({ show, onHide }) => {
     name: "",
     email: "",
     phone:"",
+    pincode:"",
     message: "",
   });
-  const { name, email,phone, message } = mailData;
+  const { name,email,phone,pincode,message } = mailData;
   const [error, setError] = useState(null);
   const onChange = (e) =>
     setMailData({ ...mailData, [e.target.name]: e.target.value });
@@ -29,16 +30,16 @@ const Popup = ({ show, onHide }) => {
       // https://www.emailjs.com/
       emailjs
         .send(
-          "", // service id
-          "", // template id
+          "service_rov9rsr", // service id
+          "template_jn2athu", // template id
           mailData,
-          "" // public api
+          "FVUuziJEgVNeVfSaD" // public api
         )
         .then(
           (response) => {
             setError(false);
             clearError();
-            setMailData({ name: "", email: "", message: "",phone:"" });
+            setMailData({ name: "", email: "", message: "",phone:"", pincode:"" });
           },
           (err) => {
             console.log(err.text);
@@ -99,9 +100,19 @@ const Popup = ({ show, onHide }) => {
             </div>
             <div className="col-lg-6">
               <input
-                name="message"
+                name="pincode"
                 placeholder="Pincode*"
                 type="number"
+                onChange={(e) => onChange(e)}
+                value={pincode}
+                required
+              />
+            </div>
+            <div className="col-lg-12">
+              <input 
+                name="message"
+                placeholder="message*"
+                type="text"
                 onChange={(e) => onChange(e)}
                 value={message}
                 required
