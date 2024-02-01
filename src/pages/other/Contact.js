@@ -8,7 +8,7 @@ import SEO from "../../components/seo";
 
 const Contact = () => {
   let { pathname } = useLocation();
-  console.log(mailData)
+
 
   const [mailData, setMailData] = useState({
     name: "",
