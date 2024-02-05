@@ -34,7 +34,7 @@ const Home = () => {
          {/* tab product */}
          <TabProductSixteen spaceBottomClass="pb-70" category="medical" setModalShow={setModalShow}/>
          {/* contact */}
-        <MedicalContact />
+        {/* <MedicalContact /> */}
         {/* banner */}
         {/* <BannerTwentySix spaceBottomClass="pb-70" /> */}
          {/* product slider */}

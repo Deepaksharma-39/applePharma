@@ -1,50 +1,57 @@
 import emailjs from "emailjs-com";
-import { Fragment, useState } from "react";
+import { Fragment, useRef, useState } from "react";
 import { useLocation } from "react-router-dom";
 import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 // import GoogleMap from "../../components/google-map"
 import SEO from "../../components/seo";
+import  { ReCAPTCHA } from "react-google-recaptcha";
 
 const Contact = () => {
   let { pathname } = useLocation();
-
+  const captchaRef = useRef(null);
 
   const [mailData, setMailData] = useState({
     name: "",
     email: "",
-    phone:"",
+    phone: "",
     message: "",
   });
-  const { name, email,phone, message } = mailData;
+  const { name, email, phone, message } = mailData;
   const [error, setError] = useState(null);
   const onChange = (e) =>
     setMailData({ ...mailData, [e.target.name]: e.target.value });
   const onSubmit = (e) => {
     e.preventDefault();
-    if (name.length === 0 || email.length === 0 || message.length === 0|| phone.length===0) {
-      setError(true);
-      clearError();
-    } else {
-      // https://www.emailjs.com/
-      emailjs
-        .send(
-          "", // service id
-          "", // template id
-          mailData,
-          "" // public api
-        )
-        .then(
-          (response) => {
-            setError(false);
-            clearError();
-            setMailData({ name: "", email: "", message: "",phone:"" });
-          },
-          (err) => {
-            console.log(err.text);
-          }
-        );
-    }
+    // if (
+    //   name.length === 0 ||
+    //   email.length === 0 ||
+    //   message.length === 0 ||
+    //   phone.length === 0
+    // ) {
+    //   setError(true);
+    //   clearError();
+    // } else {
+    //   // https://www.emailjs.com/
+    //   emailjs
+    //     .send(
+    //       "", // service id
+    //       "", // template id
+    //       mailData,
+    //       "" // public api
+    //     )
+    //     .then(
+    //       (response) => {
+    //         setError(false);
+    //         clearError();
+    //         setMailData({ name: "", email: "", message: "", phone: "" });
+    //       },
+    //       (err) => {
+    //         console.log(err.text);
+    //       }
+    //     );
+    // }
+    console.log("there")
   };
   const clearError = () => {
     setTimeout(() => {
@@ -90,7 +97,7 @@ const Contact = () => {
                     <div className="contact-info-dec">
                       <p>
                         <a href="mailto:saimedilink@gmail.com">
-                          contact@applepharmed.com
+                        contact@applepharmed.com
                         </a>
                       </p>
                       {/* <p>
@@ -198,10 +205,14 @@ const Contact = () => {
                         <textarea
                           name="message"
                           placeholder="Your Message*"
-                           onChange={(e) => onChange(e)}
-                        value={message}
+                          onChange={(e) => onChange(e)}
+                          value={message}
                         />
+
                         <button className="submit" type="submit">
+                          {/* <ReCAPTCHA
+                            sitekey={"6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"}
+                          /> */}
                           SEND
                         </button>
                       </div>
