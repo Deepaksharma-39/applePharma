@@ -5,7 +5,7 @@ import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 // import GoogleMap from "../../components/google-map"
 import SEO from "../../components/seo";
-import  { ReCAPTCHA } from "react-google-recaptcha";
+// import  { ReCAPTCHA } from "react-google-recaptcha";
 
 const Contact = () => {
   let { pathname } = useLocation();
@@ -21,36 +21,37 @@ const Contact = () => {
   const [error, setError] = useState(null);
   const onChange = (e) =>
     setMailData({ ...mailData, [e.target.name]: e.target.value });
+    
   const onSubmit = (e) => {
     e.preventDefault();
-    // if (
-    //   name.length === 0 ||
-    //   email.length === 0 ||
-    //   message.length === 0 ||
-    //   phone.length === 0
-    // ) {
-    //   setError(true);
-    //   clearError();
-    // } else {
-    //   // https://www.emailjs.com/
-    //   emailjs
-    //     .send(
-    //       "", // service id
-    //       "", // template id
-    //       mailData,
-    //       "" // public api
-    //     )
-    //     .then(
-    //       (response) => {
-    //         setError(false);
-    //         clearError();
-    //         setMailData({ name: "", email: "", message: "", phone: "" });
-    //       },
-    //       (err) => {
-    //         console.log(err.text);
-    //       }
-    //     );
-    // }
+    if (
+      name.length === 0 ||
+      email.length === 0 ||
+      message.length === 0 ||
+      phone.length === 0
+    ) {
+      setError(true);
+      clearError();
+    } else {
+      // https://www.emailjs.com/
+      emailjs
+        .send(
+          "", // service id
+          "", // template id
+          mailData,
+          "" // public api
+        )
+        .then(
+          (response) => {
+            setError(false);
+            clearError();
+            setMailData({ name: "", email: "", message: "", phone: "" });
+          },
+          (err) => {
+            console.log(err.text);
+          }
+        );
+    }
     console.log("there")
   };
   const clearError = () => {
@@ -210,7 +211,7 @@ const Contact = () => {
                         />
 
                         <button className="submit" type="submit">
-                          {/* <ReCAPTCHA
+                           {/*<ReCAPTCHA
                             sitekey={"6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"}
                           /> */}
                           SEND
