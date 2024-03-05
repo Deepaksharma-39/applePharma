@@ -5,11 +5,16 @@ import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 // import GoogleMap from "../../components/google-map"
 import SEO from "../../components/seo";
-// import  { ReCAPTCHA } from "react-google-recaptcha";
+ import  { ReCAPTCHA } from "react-google-recaptcha";
 
 const Contact = () => {
   let { pathname } = useLocation();
   const captchaRef = useRef(null);
+  const [recaptchaVerified, setRecaptchaVerified] = useState(false);
+
+  const handleRecaptchaVerify = () => {
+    setRecaptchaVerified(true);
+  };
 
   const [mailData, setMailData] = useState({
     name: "",
@@ -97,7 +102,7 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="mailto:saimedilink@gmail.com">
+                        <a href="mailto:contact@applepharmed.com">
                         contact@applepharmed.com
                         </a>
                       </p>
@@ -214,6 +219,12 @@ const Contact = () => {
                            {/*<ReCAPTCHA
                             sitekey={"6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"}
                           /> */}
+                          <div className="col-lg-12">
+                                <ReCAPTCHA
+                                sitekey="6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"
+                                onChange={handleRecaptchaVerify}
+                                />
+                          </div>
                           SEND
                         </button>
                       </div>
