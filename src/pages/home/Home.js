@@ -6,7 +6,7 @@ import BannerTwentyFive from "../../wrappers/banner/BannerTwentyFive";
 import FeatureIconFive from "../../wrappers/feature-icon/FeatureIconFive";
 //  import BannerTwentySix from "../../wrappers/banner/BannerTwentySix";
 // import ProductSlider from "../../wrappers/product/ProductSlider";
-import MedicalContact from "../../components/contact/MedicalContact";
+// import MedicalContact from "../../components/contact/MedicalContact";
 import TabProductSixteen from "../../wrappers/product/TabProductSixteen";
 import Popup from "../../components/popup/Popup";
 
