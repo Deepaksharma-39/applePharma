@@ -626,6 +626,12 @@ a:hover {
 
 .pt-60 {
   padding-top: 60px;
+  @media (max-width: 425px){
+    padding-top: 30px;
+  }
+  @media (min-width:426px) and (max-width:766px){
+    padding-top: 20px;
+  }
 }
 
 .pt-70 {
