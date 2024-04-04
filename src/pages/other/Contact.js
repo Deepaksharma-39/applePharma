@@ -5,7 +5,7 @@ import LayoutOne from "../../layouts/LayoutOne";
 import Breadcrumb from "../../wrappers/breadcrumb/Breadcrumb";
 // import GoogleMap from "../../components/google-map"
 import SEO from "../../components/seo";
- import  { ReCAPTCHA } from "react-google-recaptcha";
+ import ReCAPTCHA from "react-google-recaptcha";
 
 const Contact = () => {
   let { pathname } = useLocation();
@@ -215,16 +215,12 @@ const Contact = () => {
                           value={message}
                         />
 
-                        <button className="submit" type="submit">
-                           {/*<ReCAPTCHA
-                            sitekey={"6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"}
-                          /> */}
-                          <div className="col-lg-12">
-                                <ReCAPTCHA
+                          <ReCAPTCHA
                                 sitekey="6LeiwmIpAAAAAKu99BWcJFS5rb74mslq__nUfwmk"
                                 onChange={handleRecaptchaVerify}
                                 />
-                          </div>
+
+                        <button className="submit" type="submit">
                           SEND
                         </button>
                       </div>

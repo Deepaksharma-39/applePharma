@@ -15,11 +15,12 @@
     }
   }
   p {
-    letter-spacing: 0.9px;
+    // letter-spacing: 0.9px;
+    letter-spacing: -0.1px;
 
     color: #313131;
     a {
-      color: #313131;
+      color: #00924c;
       &:hover {
         color:#00924c;
       }
