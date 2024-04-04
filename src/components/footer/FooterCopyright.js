@@ -6,7 +6,7 @@ const FooterCopyright = ({ footerLogo, spaceBottomClass, colorClass }) => {
   return (
     <div className={clsx("copyright", spaceBottomClass, colorClass)}>
        <p>
-      By &#10084;&#65039; My Digitick
+      By <a href='https://www.techplek.com/'>TechPlek Technologies</a>
       </p>
       <div className="footer-logo">
         <Link to={"/"}>
